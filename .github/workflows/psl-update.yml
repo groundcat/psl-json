@@ -1,37 +1,78 @@
 name: Update PSL Data
-
 on:
   schedule:
     - cron: '0 16 * * 6'  # Runs at 16:00 on Saturdays
   workflow_dispatch:  # Allows manual trigger from GitHub UI
 
+permissions:
+  contents: write  # Explicitly request write permission for repository contents
+
 jobs:
   update_data:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-
+    
+    - name: Verify permissions
+      id: check_permissions
+      run: |
+        if [[ "${{ github.event_name }}" == "schedule" || "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+          # Check if we have write permissions
+          if [[ "${{ github.repository_owner }}" == "${{ github.actor }}" || "${{ contains(github.event.pull_request.labels.*.name, 'safe to run') }}" == "true" ]]; then
+            echo "Has necessary permissions to run actions"
+            echo "has_permission=true" >> $GITHUB_OUTPUT
+          else
+            echo "Warning: Insufficient permissions to make changes. This script needs to be run by the repository owner."
+            echo "has_permission=false" >> $GITHUB_OUTPUT
+          fi
+        else
+          echo "Running from unsupported event type. Only scheduled and manual runs are supported."
+          echo "has_permission=false" >> $GITHUB_OUTPUT
+        fi
+    
     - name: Set up Python
+      if: steps.check_permissions.outputs.has_permission == 'true'
       uses: actions/setup-python@v5
       with:
         python-version: '3.12'
-
+    
     - name: Install dependencies
+      if: steps.check_permissions.outputs.has_permission == 'true'
       run: |
         python -m pip install --upgrade pip
         pip install requests
-
+    
     - name: Run the script
+      if: steps.check_permissions.outputs.has_permission == 'true'
       run: python main.py
-
+    
+    - name: Check for changes
+      if: steps.check_permissions.outputs.has_permission == 'true'
+      id: check_changes
+      run: |
+        if [[ -n "$(git status --porcelain public_suffix_list*.json)" ]]; then
+          echo "changes_detected=true" >> $GITHUB_OUTPUT
+          echo "Changes detected in PSL data files"
+        else
+          echo "changes_detected=false" >> $GITHUB_OUTPUT
+          echo "No changes detected in PSL data files"
+        fi
+    
     - name: Commit and push changes
+      if: steps.check_permissions.outputs.has_permission == 'true' && steps.check_changes.outputs.changes_detected == 'true'
       run: |
         git config --global user.name 'groundcat'
         git config --global user.email '11240246+groundcat@users.noreply.github.com'
         git add public_suffix_list*.json
         git commit -m 'Update PSL data [skip ci]'
-        git push
+        # Verify we can push before attempting
+        if git push --dry-run; then
+          git push
+          echo "Successfully pushed changes to repository"
+        else
+          echo "Error: Unable to push changes. Check repository permissions."
+          exit 1
+        fi
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
