@@ -27,6 +27,9 @@ debug_mode = True
 debug_log_enabled = True
 MAX_RETRIES = 2
 
+# TLDs in the ICANN section to skip WHOIS checks
+icann_tlds_skip_whois = ['jp', 'it']
+
 # Setup logging
 log_level = logging.DEBUG if debug_mode else logging.INFO
 log_handlers = [logging.StreamHandler()]
@@ -309,35 +312,69 @@ class PSLParser:
                 icann_normalized_domain, icann_tld = self._normalize_domain(domain)
                 entry["icann_normalized_domain"] = icann_normalized_domain
                 entry["icann_tld"] = icann_tld
+                logger.debug(f"Normalized {domain} -> {icann_normalized_domain} (TLD: {icann_tld})")
     
     def _normalize_domain(self, domain: str) -> Tuple[str, str]:
         """
         Normalize a private domain to its publicly registrable form using ICANN domains.
         Returns the normalized domain and the matching ICANN TLD.
+        
+        This method starts checking from the rightmost part (TLD) and works leftward
+        to find the most specific ICANN suffix that matches.
         """
         parts = domain.split('.')
         
-        # Try different suffix combinations to find a match in ICANN domains
-        for i in range(len(parts)):
+        # Try different suffix combinations starting from the TLD (right-most part)
+        # and progressively adding parts to the left
+        for i in range(len(parts)-1, -1, -1):
             potential_suffix = '.'.join(parts[i:])
+            logger.debug(f"Checking if '{potential_suffix}' is in ICANN domains")
+            
             if potential_suffix in self.icann_domains:
+                logger.debug(f"Found ICANN match for {domain}: {potential_suffix}")
+                
                 if i == 0:
                     # The whole domain is an ICANN domain
                     return domain, potential_suffix
                 else:
-                    # Found a matching ICANN suffix
-                    normalized = '.'.join(parts[i-1:])
+                    # For a publicly registrable domain, we need the domain before the ICANN suffix
+                    # and the ICANN suffix together
+                    normalized = f"{parts[i-1]}.{potential_suffix}"
                     return normalized, potential_suffix
         
         # If no match found in ICANN domains, fall back to the top-level domain
         if len(parts) > 1:
             tld = parts[-1]
+            normalized = f"{parts[-2]}.{tld}"
             logger.debug(f"No ICANN match for {domain}, falling back to TLD: {tld}")
-            return domain, tld
+            return normalized, tld
         else:
             # If it's a single-part domain, use it as its own TLD
             logger.debug(f"Single-part domain: {domain}")
             return domain, domain
+    
+    def _should_skip_whois(self, entry: Dict[str, Any]) -> bool:
+        """
+        Determine if WHOIS check should be skipped for this entry.
+        We skip WHOIS for ICANN domains with TLDs in the skip list.
+        """
+        # Only skip for ICANN section entries
+        if entry["section"] != "icann":
+            return False
+        
+        # Check if the domain is one of the TLDs to skip or ends with them
+        domain = entry["psl_domain"]
+        
+        # If the domain itself is a TLD we want to skip
+        if domain in icann_tlds_skip_whois:
+            return True
+        
+        # If the domain is a subdomain of a TLD we want to skip
+        parts = domain.split('.')
+        if len(parts) > 1 and parts[-1] in icann_tlds_skip_whois:
+            return True
+            
+        return False
     
     def check_dns(self, domain: str) -> bool:
         """
@@ -409,14 +446,18 @@ class PSLParser:
                 
                 if response.status_code == 200:
                     try:
-                        data = response.json()
+                        # Try to decode the response as JSON
+                        data = response.json() if response.text else {}
+                        
                         # Extract the registry records
                         registry_records = self._process_whois_response(data)
+                        
                         # Cache the result
                         self.whois_cache[domain] = registry_records
                         return registry_records
                     except json.JSONDecodeError as e:
                         logger.warning(f"Invalid JSON from WHOIS API for {domain}: {str(e)}")
+                        logger.debug(f"Response text: {response.text[:200]}...")
                 else:
                     logger.warning(f"WHOIS API returned status {response.status_code} for {domain}")
                 
@@ -438,44 +479,50 @@ class PSLParser:
         # Start with empty registry records
         registry_records = self._empty_registry_records()
         
-        # Check if the response has the expected structure
-        if 'code' in response_data and 'data' in response_data:
-            # Extract the actual WHOIS data from the nested structure
-            whois_data = response_data.get('data', {})
-            
-            # Map fields with different names in API response to our registry_records structure
-            field_mapping = {
-                "reserved": "reserved",
-                "registered": "registered",
-                "registrar": "registrar",
-                "registrarURL": "registrar_url",
-                "creationDate": "creation_date",
-                "creationDateISO8601": "creation_date_iso8601",
-                "expirationDate": "expiration_date",
-                "expirationDateISO8601": "expiration_date_iso8601",
-                "updatedDate": "updated_date",
-                "updatedDateISO8601": "updated_date_iso8601",
-                "status": "status",
-                "nameServers": "nameServers",
-                "age": "age",
-                "ageSeconds": "age_seconds",
-                "remaining": "remaining",
-                "remainingSeconds": "remaining_seconds",
-                "gracePeriod": "grace_period",
-                "redemptionPeriod": "redemption_period",
-                "pendingDelete": "pending_delete"
-            }
-            
-            # Map the fields
-            for api_field, our_field in field_mapping.items():
-                if api_field in whois_data:
-                    registry_records[our_field] = whois_data[api_field]
-        else:
-            # If response doesn't have expected structure, try direct mapping
-            logger.warning("Unexpected WHOIS API response structure")
-            for field in registry_records:
-                if field in response_data:
-                    registry_records[field] = response_data[field]
+        try:
+            # Check if the response has the expected structure
+            if response_data and 'code' in response_data and 'data' in response_data:
+                # Extract the actual WHOIS data from the nested structure
+                whois_data = response_data.get('data', {})
+                
+                # Map fields with different names in API response to our registry_records structure
+                field_mapping = {
+                    "reserved": "reserved",
+                    "registered": "registered",
+                    "registrar": "registrar",
+                    "registrarURL": "registrar_url",
+                    "creationDate": "creation_date",
+                    "creationDateISO8601": "creation_date_iso8601",
+                    "expirationDate": "expiration_date",
+                    "expirationDateISO8601": "expiration_date_iso8601",
+                    "updatedDate": "updated_date",
+                    "updatedDateISO8601": "updated_date_iso8601",
+                    "status": "status",
+                    "nameServers": "nameServers",
+                    "age": "age",
+                    "ageSeconds": "age_seconds",
+                    "remaining": "remaining",
+                    "remainingSeconds": "remaining_seconds",
+                    "gracePeriod": "grace_period",
+                    "redemptionPeriod": "redemption_period",
+                    "pendingDelete": "pending_delete"
+                }
+                
+                # Map the fields
+                for api_field, our_field in field_mapping.items():
+                    if api_field in whois_data:
+                        registry_records[our_field] = whois_data[api_field]
+            else:
+                # If response doesn't have expected structure, try direct mapping
+                logger.warning("Unexpected WHOIS API response structure")
+                if response_data:
+                    for field in registry_records:
+                        if field in response_data:
+                            registry_records[field] = response_data[field]
+        except Exception as e:
+            logger.error(f"Error processing WHOIS response: {str(e)}")
+            # Log the response data for debugging
+            logger.debug(f"Response data: {response_data}")
         
         return registry_records
     
@@ -531,9 +578,14 @@ class PSLParser:
                 if not lookup_domain or lookup_domain == "":
                     lookup_domain = domain
                 
-                # Fetch WHOIS data
-                registry_records = self.fetch_whois_data(lookup_domain)
-                entry["registry_records"] = registry_records
+                # Check if we should skip WHOIS lookup for this entry
+                if self._should_skip_whois(entry):
+                    logger.debug(f"Skipping WHOIS lookup for {domain} (TLD in skip list)")
+                    entry["registry_records"] = self._empty_registry_records()
+                else:
+                    # Fetch WHOIS data
+                    registry_records = self.fetch_whois_data(lookup_domain)
+                    entry["registry_records"] = registry_records
                 
             except Exception as e:
                 logger.error(f"Error processing {domain}: {str(e)}")
@@ -583,12 +635,22 @@ class PSLParser:
                     if not lookup_domain or lookup_domain == "":
                         lookup_domain = domain
                     
-                    # Fetch WHOIS data
-                    registry_records = self.fetch_whois_data(lookup_domain)
-                    entry["registry_records"] = registry_records
+                    # Extra logging for debugging
+                    logger.debug(f"Using normalized domain '{lookup_domain}' for WHOIS lookup of '{domain}'")
+                    
+                    # Check if we should skip WHOIS lookup for this entry
+                    if self._should_skip_whois(entry):
+                        logger.debug(f"Skipping WHOIS lookup for {domain} (TLD in skip list)")
+                        entry["registry_records"] = self._empty_registry_records()
+                    else:
+                        # Fetch WHOIS data
+                        registry_records = self.fetch_whois_data(lookup_domain)
+                        entry["registry_records"] = registry_records
                     
                 except Exception as e:
                     logger.error(f"Error processing {domain}: {str(e)}")
+                    import traceback
+                    logger.error(traceback.format_exc())
                     # Ensure entry has all required fields even if an error occurs
                     if "dns" not in entry:
                         entry["dns"] = {"is_dns_error": False}
@@ -694,7 +756,9 @@ def main():
         logger.info(f"PSL Parser completed in {elapsed_time:.2f} seconds")
     
     except Exception as e:
-        logger.error(f"Error: {str(e)}", exc_info=True)
+        logger.error(f"Error: {str(e)}")
+        import traceback
+        logger.error(traceback.format_exc())
         return 1
     
     return 0
