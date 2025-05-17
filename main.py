@@ -63,8 +63,11 @@ class PSLParser:
             try:
                 response = requests.get(psl_url, timeout=api_timeout_seconds)
                 response.raise_for_status()
-                logger.info("Downloaded PSL (%d bytes)", len(response.text))
-                return response.text
+                content = response.text
+                # Normalize requestor info line by replacing "Confirmed by" with "Submitted by"
+                content = content.replace("Confirmed by", "Submitted by")
+                logger.info("Downloaded PSL (%d bytes)", len(content))
+                return content
             except requests.RequestException as e:
                 logger.warning(f"Download attempt {attempt+1}/{MAX_RETRIES} failed: {str(e)}")
                 if attempt < MAX_RETRIES - 1:
