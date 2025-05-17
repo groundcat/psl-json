@@ -21,11 +21,11 @@ import concurrent.futures
 psl_url = "https://publicsuffix.org/list/public_suffix_list.dat"
 api_endpoint_url = "https://whois-api.publicsuffix.de/api/?domain="
 api_additional_headers = {}  # Empty by default
-api_timeout_seconds = 5
+api_timeout_seconds = 3
 api_interval_seconds = 1
 debug_mode = True
 debug_log_enabled = True
-MAX_RETRIES = 3
+MAX_RETRIES = 2
 
 # Setup logging
 log_level = logging.DEBUG if debug_mode else logging.INFO

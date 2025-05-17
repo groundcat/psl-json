@@ -2,7 +2,7 @@ name: Update PSL Data
 
 on:
   schedule:
-    - cron: '0 16 * * *'  # Runs at 16:00 UTC every day
+    - cron: '0 16 * * 6'  # Runs at 16:00 on Saturdays
   workflow_dispatch:  # Allows manual trigger from GitHub UI
 
 jobs:
