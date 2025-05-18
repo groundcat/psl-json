@@ -144,7 +144,8 @@ The most comprehensive output with all metadata:
     "requestor_contact_email": "Requestor Email"
   },
   "dns": {
-    "is_dns_error": true
+    "is_ns_error": false,
+    "is_psl_txt_error": false
   },
   "registry_records": {
     "reserved": false,
