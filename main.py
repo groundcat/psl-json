@@ -176,6 +176,12 @@ class PSLParser:
                     if current_block_requestor_info["requestor_description"] is None:
                         current_block_requestor_info["requestor_description"] = updated_info["requestor_description"]
                     
+                    if current_block_requestor_info["requestor_organization"] is None:
+                        current_block_requestor_info["requestor_organization"] = updated_info["requestor_organization"]
+                    
+                    if current_block_requestor_info["requestor_organization_url"] is None:
+                        current_block_requestor_info["requestor_organization_url"] = updated_info["requestor_organization_url"]
+                    
                     if current_block_requestor_info["requestor_contact_name"] is None:
                         current_block_requestor_info["requestor_contact_name"] = updated_info["requestor_contact_name"]
                     
@@ -222,6 +228,8 @@ class PSLParser:
         if requestor_info is None:
             requestor_info = {
                 "requestor_description": None,
+                "requestor_organization": None,
+                "requestor_organization_url": None,
                 "requestor_contact_name": None,
                 "requestor_contact_email": None,
             }
@@ -230,7 +238,7 @@ class PSLParser:
         if debug_mode:
             logger.debug(f"Domain {psl_domain} - Requestor info: {requestor_info}")
         
-        # Create entry object
+        # Create entry object with the new DNS structure
         entry = {
             "psl_entry_string": psl_entry_string,
             "psl_domain": psl_domain,
@@ -238,7 +246,10 @@ class PSLParser:
             "is_wildcard": is_wildcard,
             "is_negation": is_negation,
             "requestor": requestor_info,
-            "dns": {"is_dns_error": False},  # Default value, will be updated later
+            "dns": {
+                "is_ns_error": False,  # Default value
+                "is_psl_txt_error": False  # Default value
+            },
             "registry_records": {}  # Will be populated later
         }
         
@@ -253,10 +264,56 @@ class PSLParser:
         
         self.psl_entries.append(entry)
     
+    def _parse_description(self, description: str) -> Tuple[Optional[str], Optional[str]]:
+        """
+        Parse the description to extract organization name and URL.
+        Returns a tuple of (organization, url), either of which may be None.
+        """
+        if not description:
+            return None, None
+        
+        # Try to split by colon with possible spaces around it
+        parts = re.split(r'\s*:\s*', description, 1)
+        
+        # If there's a colon separator
+        if len(parts) > 1:
+            org = parts[0].strip() if parts[0].strip() else None
+            url = parts[1].strip() if parts[1].strip() else None
+            
+            # Verify URL starts with http/https 
+            if url and not (url.startswith('http://') or url.startswith('https://')):
+                # Check if it might be a URL without scheme
+                if re.match(r'^[a-zA-Z0-9][-a-zA-Z0-9.]*\.[a-zA-Z]{2,}(\/.*)?$', url):
+                    url = f"https://{url}"
+                else:
+                    # If it doesn't look like a URL, append it to org
+                    if org:
+                        org = f"{org} : {url}"
+                    else:
+                        org = url
+                    url = None
+            
+            return org, url
+        else:
+            # No colon, try to determine if it's a URL or org name
+            text = parts[0].strip()
+            
+            # Check if it's a URL
+            if text.startswith('http://') or text.startswith('https://'):
+                return None, text
+            elif re.match(r'^[a-zA-Z0-9][-a-zA-Z0-9.]*\.[a-zA-Z]{2,}(\/.*)?$', text):
+                # Looks like a domain, treat as URL
+                return None, f"https://{text}"
+            else:
+                # Treat as organization name
+                return text, None
+    
     def _extract_requestor_info(self, comments: List[str]) -> Dict[str, Optional[str]]:
         """Extract requestor information from comments"""
         requestor_info = {
             "requestor_description": None,
+            "requestor_organization": None,
+            "requestor_organization_url": None,
             "requestor_contact_name": None,
             "requestor_contact_email": None,
         }
@@ -265,7 +322,17 @@ class PSLParser:
             return requestor_info
             
         # First comment is always the description
-        requestor_info["requestor_description"] = comments[0]
+        if comments:
+            description = comments[0]
+            requestor_info["requestor_description"] = description
+            
+            # Parse the description to extract organization and URL
+            org, url = self._parse_description(description)
+            requestor_info["requestor_organization"] = org
+            requestor_info["requestor_organization_url"] = url
+            
+            if debug_mode and description:
+                logger.debug(f"Parsed description '{description}' into org='{org}', url='{url}'")
         
         # Look for submission information in any comment
         for comment in comments:
@@ -376,11 +443,10 @@ class PSLParser:
             
         return False
     
-    def check_dns(self, domain: str) -> bool:
+    def check_ns_error(self, domain: str) -> bool:
         """
-        Check if a domain has DNS errors using Cloudflare DoH.
-        Returns True if there's a DNS error (NXDOMAIN), False otherwise.
-        Uses ANY query type to check for existence of any DNS records.
+        Check if a domain has NS record errors using Cloudflare DoH.
+        Returns True if there's an NS error (NXDOMAIN or no NS records), False otherwise.
         """
         # Skip wildcard and negation domains
         if "*" in domain or domain.startswith("!"):
@@ -393,7 +459,7 @@ class PSLParser:
             }
             params = {
                 "name": domain,
-                "type": "ANY",
+                "type": "NS",
             }
             
             for attempt in range(MAX_RETRIES):
@@ -407,20 +473,97 @@ class PSLParser:
                     response.raise_for_status()
                     data = response.json()
                     
-                    # Check for NXDOMAIN status (code 3)
-                    # Also check if we got any answers in the response
-                    return data.get("Status") == 3 or not data.get("Answer", [])
+                    # Check for NXDOMAIN status (code 3) or if there are no Answer records
+                    has_ns_error = data.get("Status") == 3 or not data.get("Answer", [])
+                    
+                    if debug_mode:
+                        if has_ns_error:
+                            logger.debug(f"NS error detected for {domain}: {data.get('Status', 'Unknown status')}")
+                        else:
+                            logger.debug(f"NS records found for {domain}")
+                    
+                    return has_ns_error
                 
                 except requests.RequestException as e:
-                    logger.debug(f"DNS check attempt {attempt+1}/{MAX_RETRIES} failed for {domain}: {str(e)}")
+                    logger.debug(f"NS check attempt {attempt+1}/{MAX_RETRIES} failed for {domain}: {str(e)}")
                     if attempt < MAX_RETRIES - 1:
                         time.sleep(1)
             
-            return False
+            # If all retries failed, assume there's an NS error
+            logger.warning(f"All NS check attempts failed for {domain}")
+            return True
         
         except Exception as e:
-            logger.debug(f"DNS check error for {domain}: {str(e)}")
+            logger.debug(f"NS check error for {domain}: {str(e)}")
+            return True  # Assume error if exception
+    
+    def check_psl_txt(self, domain: str) -> bool:
+        """
+        Check if a domain's _psl subdomain has a TXT record pointing to the PSL GitHub URL.
+        Returns True if there's an error (no TXT record or incorrect URL), False if record exists.
+        """
+        # Skip wildcard and negation domains
+        if "*" in domain or domain.startswith("!"):
             return False
+        
+        # Create _psl subdomain
+        psl_subdomain = f"_psl.{domain}"
+        
+        try:
+            url = "https://cloudflare-dns.com/dns-query"
+            headers = {
+                "Accept": "application/dns-json",
+            }
+            params = {
+                "name": psl_subdomain,
+                "type": "TXT",  # Check TXT records
+            }
+            
+            for attempt in range(MAX_RETRIES):
+                try:
+                    response = requests.get(
+                        url, 
+                        headers=headers, 
+                        params=params, 
+                        timeout=api_timeout_seconds
+                    )
+                    response.raise_for_status()
+                    data = response.json()
+                    
+                    # Check if there's an Answer section
+                    if data.get("Status") == 3 or not data.get("Answer", []):
+                        logger.debug(f"No TXT records found for {psl_subdomain}")
+                        return True  # Error - no TXT records
+                    
+                    # Check if any answer contains a TXT record with the GitHub URL
+                    found_valid_txt = False
+                    for answer in data.get("Answer", []):
+                        if answer.get("type") == 16:  # TXT record type
+                            # Extract text from TXT record
+                            txt_data = answer.get("data", "")
+                            # Strip quotes
+                            txt_data = txt_data.strip('"')
+                            
+                            # Check if it starts with the GitHub URL
+                            if txt_data.startswith("https://github.com/publicsuffix/list/pull/"):
+                                found_valid_txt = True
+                                logger.debug(f"Valid PSL TXT record found for {psl_subdomain}: {txt_data}")
+                                break
+                    
+                    return not found_valid_txt  # Error only if no valid TXT record found
+                
+                except requests.RequestException as e:
+                    logger.debug(f"TXT check attempt {attempt+1}/{MAX_RETRIES} failed for {psl_subdomain}: {str(e)}")
+                    if attempt < MAX_RETRIES - 1:
+                        time.sleep(1)
+            
+            # If all retries failed, assume there's a TXT error
+            logger.warning(f"All TXT check attempts failed for {psl_subdomain}")
+            return True
+        
+        except Exception as e:
+            logger.debug(f"TXT check error for {psl_subdomain}: {str(e)}")
+            return True  # Assume error if exception
     
     def fetch_whois_data(self, domain: str) -> Dict[str, Any]:
         """Fetch WHOIS data for a domain"""
@@ -569,9 +712,14 @@ class PSLParser:
                     print(f"Processing: {i+1}/{total_entries} entries", end="\r")
             
             try:
-                # Check DNS
-                is_dns_error = self.check_dns(domain)
-                entry["dns"] = {"is_dns_error": is_dns_error}
+                # Check NS and TXT records
+                is_ns_error = self.check_ns_error(domain)
+                is_psl_txt_error = self.check_psl_txt(domain)
+                
+                entry["dns"] = {
+                    "is_ns_error": is_ns_error,
+                    "is_psl_txt_error": is_psl_txt_error
+                }
                 
                 # Determine which domain to use for WHOIS lookup
                 lookup_domain = entry.get("icann_normalized_domain")
@@ -591,7 +739,7 @@ class PSLParser:
                 logger.error(f"Error processing {domain}: {str(e)}")
                 # Ensure entry has all required fields even if an error occurs
                 if "dns" not in entry:
-                    entry["dns"] = {"is_dns_error": False}
+                    entry["dns"] = {"is_ns_error": False, "is_psl_txt_error": False}
                 if "registry_records" not in entry:
                     entry["registry_records"] = self._empty_registry_records()
             
@@ -626,9 +774,14 @@ class PSLParser:
                 domain = entry["psl_domain"]
                 
                 try:
-                    # Check DNS
-                    is_dns_error = self.check_dns(domain)
-                    entry["dns"] = {"is_dns_error": is_dns_error}
+                    # Check NS and TXT records
+                    is_ns_error = self.check_ns_error(domain)
+                    is_psl_txt_error = self.check_psl_txt(domain)
+                    
+                    entry["dns"] = {
+                        "is_ns_error": is_ns_error,
+                        "is_psl_txt_error": is_psl_txt_error
+                    }
                     
                     # Determine which domain to use for WHOIS lookup
                     lookup_domain = entry.get("icann_normalized_domain")
@@ -653,7 +806,7 @@ class PSLParser:
                     logger.error(traceback.format_exc())
                     # Ensure entry has all required fields even if an error occurs
                     if "dns" not in entry:
-                        entry["dns"] = {"is_dns_error": False}
+                        entry["dns"] = {"is_ns_error": False, "is_psl_txt_error": False}
                     if "registry_records" not in entry:
                         entry["registry_records"] = self._empty_registry_records()
             
