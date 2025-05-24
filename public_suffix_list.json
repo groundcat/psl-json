@@ -12186,10 +12186,122 @@
       "requestor_organization": "ec",
       "requestor_organization_url": "https://www.nic.ec/",
       "requestor_contact_name": "registry",
-      "requestor_contact_email": "vabboud@nic.ec"
+      "requestor_contact_email": "infraestructura@nic.ec"
     },
     "icann_normalized_domain": "ec",
     "icann_tld": "ec"
+  },
+  {
+    "psl_entry_string": "abg.ec",
+    "psl_domain": "abg.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "abg.ec",
+    "icann_tld": "abg.ec"
+  },
+  {
+    "psl_entry_string": "adm.ec",
+    "psl_domain": "adm.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "adm.ec",
+    "icann_tld": "adm.ec"
+  },
+  {
+    "psl_entry_string": "agron.ec",
+    "psl_domain": "agron.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "agron.ec",
+    "icann_tld": "agron.ec"
+  },
+  {
+    "psl_entry_string": "arqt.ec",
+    "psl_domain": "arqt.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "arqt.ec",
+    "icann_tld": "arqt.ec"
+  },
+  {
+    "psl_entry_string": "art.ec",
+    "psl_domain": "art.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "art.ec",
+    "icann_tld": "art.ec"
+  },
+  {
+    "psl_entry_string": "bar.ec",
+    "psl_domain": "bar.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "bar.ec",
+    "icann_tld": "bar.ec"
+  },
+  {
+    "psl_entry_string": "chef.ec",
+    "psl_domain": "chef.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "chef.ec",
+    "icann_tld": "chef.ec"
   },
   {
     "psl_entry_string": "com.ec",
@@ -12202,10 +12314,122 @@
       "requestor_organization": "ec",
       "requestor_organization_url": "https://www.nic.ec/",
       "requestor_contact_name": "registry",
-      "requestor_contact_email": "vabboud@nic.ec"
+      "requestor_contact_email": "infraestructura@nic.ec"
     },
     "icann_normalized_domain": "com.ec",
     "icann_tld": "com.ec"
+  },
+  {
+    "psl_entry_string": "cont.ec",
+    "psl_domain": "cont.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "cont.ec",
+    "icann_tld": "cont.ec"
+  },
+  {
+    "psl_entry_string": "cpa.ec",
+    "psl_domain": "cpa.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "cpa.ec",
+    "icann_tld": "cpa.ec"
+  },
+  {
+    "psl_entry_string": "cue.ec",
+    "psl_domain": "cue.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "cue.ec",
+    "icann_tld": "cue.ec"
+  },
+  {
+    "psl_entry_string": "dent.ec",
+    "psl_domain": "dent.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "dent.ec",
+    "icann_tld": "dent.ec"
+  },
+  {
+    "psl_entry_string": "dgn.ec",
+    "psl_domain": "dgn.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "dgn.ec",
+    "icann_tld": "dgn.ec"
+  },
+  {
+    "psl_entry_string": "disco.ec",
+    "psl_domain": "disco.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "disco.ec",
+    "icann_tld": "disco.ec"
+  },
+  {
+    "psl_entry_string": "doc.ec",
+    "psl_domain": "doc.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "doc.ec",
+    "icann_tld": "doc.ec"
   },
   {
     "psl_entry_string": "edu.ec",
@@ -12218,10 +12442,42 @@
       "requestor_organization": "ec",
       "requestor_organization_url": "https://www.nic.ec/",
       "requestor_contact_name": "registry",
-      "requestor_contact_email": "vabboud@nic.ec"
+      "requestor_contact_email": "infraestructura@nic.ec"
     },
     "icann_normalized_domain": "edu.ec",
     "icann_tld": "edu.ec"
+  },
+  {
+    "psl_entry_string": "eng.ec",
+    "psl_domain": "eng.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "eng.ec",
+    "icann_tld": "eng.ec"
+  },
+  {
+    "psl_entry_string": "esm.ec",
+    "psl_domain": "esm.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "esm.ec",
+    "icann_tld": "esm.ec"
   },
   {
     "psl_entry_string": "fin.ec",
@@ -12234,10 +12490,42 @@
       "requestor_organization": "ec",
       "requestor_organization_url": "https://www.nic.ec/",
       "requestor_contact_name": "registry",
-      "requestor_contact_email": "vabboud@nic.ec"
+      "requestor_contact_email": "infraestructura@nic.ec"
     },
     "icann_normalized_domain": "fin.ec",
     "icann_tld": "fin.ec"
+  },
+  {
+    "psl_entry_string": "fot.ec",
+    "psl_domain": "fot.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "fot.ec",
+    "icann_tld": "fot.ec"
+  },
+  {
+    "psl_entry_string": "gal.ec",
+    "psl_domain": "gal.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "gal.ec",
+    "icann_tld": "gal.ec"
   },
   {
     "psl_entry_string": "gob.ec",
@@ -12250,7 +12538,7 @@
       "requestor_organization": "ec",
       "requestor_organization_url": "https://www.nic.ec/",
       "requestor_contact_name": "registry",
-      "requestor_contact_email": "vabboud@nic.ec"
+      "requestor_contact_email": "infraestructura@nic.ec"
     },
     "icann_normalized_domain": "gob.ec",
     "icann_tld": "gob.ec"
@@ -12266,10 +12554,42 @@
       "requestor_organization": "ec",
       "requestor_organization_url": "https://www.nic.ec/",
       "requestor_contact_name": "registry",
-      "requestor_contact_email": "vabboud@nic.ec"
+      "requestor_contact_email": "infraestructura@nic.ec"
     },
     "icann_normalized_domain": "gov.ec",
     "icann_tld": "gov.ec"
+  },
+  {
+    "psl_entry_string": "gye.ec",
+    "psl_domain": "gye.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "gye.ec",
+    "icann_tld": "gye.ec"
+  },
+  {
+    "psl_entry_string": "ibr.ec",
+    "psl_domain": "ibr.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "ibr.ec",
+    "icann_tld": "ibr.ec"
   },
   {
     "psl_entry_string": "info.ec",
@@ -12282,7 +12602,7 @@
       "requestor_organization": "ec",
       "requestor_organization_url": "https://www.nic.ec/",
       "requestor_contact_name": "registry",
-      "requestor_contact_email": "vabboud@nic.ec"
+      "requestor_contact_email": "infraestructura@nic.ec"
     },
     "icann_normalized_domain": "info.ec",
     "icann_tld": "info.ec"
@@ -12298,10 +12618,42 @@
       "requestor_organization": "ec",
       "requestor_organization_url": "https://www.nic.ec/",
       "requestor_contact_name": "registry",
-      "requestor_contact_email": "vabboud@nic.ec"
+      "requestor_contact_email": "infraestructura@nic.ec"
     },
     "icann_normalized_domain": "k12.ec",
     "icann_tld": "k12.ec"
+  },
+  {
+    "psl_entry_string": "lat.ec",
+    "psl_domain": "lat.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "lat.ec",
+    "icann_tld": "lat.ec"
+  },
+  {
+    "psl_entry_string": "loj.ec",
+    "psl_domain": "loj.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "loj.ec",
+    "icann_tld": "loj.ec"
   },
   {
     "psl_entry_string": "med.ec",
@@ -12314,7 +12666,7 @@
       "requestor_organization": "ec",
       "requestor_organization_url": "https://www.nic.ec/",
       "requestor_contact_name": "registry",
-      "requestor_contact_email": "vabboud@nic.ec"
+      "requestor_contact_email": "infraestructura@nic.ec"
     },
     "icann_normalized_domain": "med.ec",
     "icann_tld": "med.ec"
@@ -12330,10 +12682,42 @@
       "requestor_organization": "ec",
       "requestor_organization_url": "https://www.nic.ec/",
       "requestor_contact_name": "registry",
-      "requestor_contact_email": "vabboud@nic.ec"
+      "requestor_contact_email": "infraestructura@nic.ec"
     },
     "icann_normalized_domain": "mil.ec",
     "icann_tld": "mil.ec"
+  },
+  {
+    "psl_entry_string": "mktg.ec",
+    "psl_domain": "mktg.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "mktg.ec",
+    "icann_tld": "mktg.ec"
+  },
+  {
+    "psl_entry_string": "mon.ec",
+    "psl_domain": "mon.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "mon.ec",
+    "icann_tld": "mon.ec"
   },
   {
     "psl_entry_string": "net.ec",
@@ -12346,10 +12730,42 @@
       "requestor_organization": "ec",
       "requestor_organization_url": "https://www.nic.ec/",
       "requestor_contact_name": "registry",
-      "requestor_contact_email": "vabboud@nic.ec"
+      "requestor_contact_email": "infraestructura@nic.ec"
     },
     "icann_normalized_domain": "net.ec",
     "icann_tld": "net.ec"
+  },
+  {
+    "psl_entry_string": "ntr.ec",
+    "psl_domain": "ntr.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "ntr.ec",
+    "icann_tld": "ntr.ec"
+  },
+  {
+    "psl_entry_string": "odont.ec",
+    "psl_domain": "odont.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "odont.ec",
+    "icann_tld": "odont.ec"
   },
   {
     "psl_entry_string": "org.ec",
@@ -12362,7 +12778,7 @@
       "requestor_organization": "ec",
       "requestor_organization_url": "https://www.nic.ec/",
       "requestor_contact_name": "registry",
-      "requestor_contact_email": "vabboud@nic.ec"
+      "requestor_contact_email": "infraestructura@nic.ec"
     },
     "icann_normalized_domain": "org.ec",
     "icann_tld": "org.ec"
@@ -12378,10 +12794,218 @@
       "requestor_organization": "ec",
       "requestor_organization_url": "https://www.nic.ec/",
       "requestor_contact_name": "registry",
-      "requestor_contact_email": "vabboud@nic.ec"
+      "requestor_contact_email": "infraestructura@nic.ec"
     },
     "icann_normalized_domain": "pro.ec",
     "icann_tld": "pro.ec"
+  },
+  {
+    "psl_entry_string": "prof.ec",
+    "psl_domain": "prof.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "prof.ec",
+    "icann_tld": "prof.ec"
+  },
+  {
+    "psl_entry_string": "psic.ec",
+    "psl_domain": "psic.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "psic.ec",
+    "icann_tld": "psic.ec"
+  },
+  {
+    "psl_entry_string": "psiq.ec",
+    "psl_domain": "psiq.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "psiq.ec",
+    "icann_tld": "psiq.ec"
+  },
+  {
+    "psl_entry_string": "pub.ec",
+    "psl_domain": "pub.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "pub.ec",
+    "icann_tld": "pub.ec"
+  },
+  {
+    "psl_entry_string": "rio.ec",
+    "psl_domain": "rio.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "rio.ec",
+    "icann_tld": "rio.ec"
+  },
+  {
+    "psl_entry_string": "rrpp.ec",
+    "psl_domain": "rrpp.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "rrpp.ec",
+    "icann_tld": "rrpp.ec"
+  },
+  {
+    "psl_entry_string": "sal.ec",
+    "psl_domain": "sal.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "sal.ec",
+    "icann_tld": "sal.ec"
+  },
+  {
+    "psl_entry_string": "tech.ec",
+    "psl_domain": "tech.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "tech.ec",
+    "icann_tld": "tech.ec"
+  },
+  {
+    "psl_entry_string": "tul.ec",
+    "psl_domain": "tul.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "tul.ec",
+    "icann_tld": "tul.ec"
+  },
+  {
+    "psl_entry_string": "tur.ec",
+    "psl_domain": "tur.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "tur.ec",
+    "icann_tld": "tur.ec"
+  },
+  {
+    "psl_entry_string": "uio.ec",
+    "psl_domain": "uio.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "uio.ec",
+    "icann_tld": "uio.ec"
+  },
+  {
+    "psl_entry_string": "vet.ec",
+    "psl_domain": "vet.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "vet.ec",
+    "icann_tld": "vet.ec"
+  },
+  {
+    "psl_entry_string": "xxx.ec",
+    "psl_domain": "xxx.ec",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ec : https://www.nic.ec/",
+      "requestor_organization": "ec",
+      "requestor_organization_url": "https://www.nic.ec/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "infraestructura@nic.ec"
+    },
+    "icann_normalized_domain": "xxx.ec",
+    "icann_tld": "xxx.ec"
   },
   {
     "psl_entry_string": "edu",
@@ -13888,6 +14512,22 @@
     "icann_tld": "gh"
   },
   {
+    "psl_entry_string": "biz.gh",
+    "psl_domain": "biz.gh",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "gh : https://www.iana.org/domains/root/db/gh.html",
+      "requestor_organization": "gh",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/gh.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "biz.gh",
+    "icann_tld": "biz.gh"
+  },
+  {
     "psl_entry_string": "com.gh",
     "psl_domain": "com.gh",
     "section": "icann",
@@ -13950,6 +14590,22 @@
     },
     "icann_normalized_domain": "mil.gh",
     "icann_tld": "mil.gh"
+  },
+  {
+    "psl_entry_string": "net.gh",
+    "psl_domain": "net.gh",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "gh : https://www.iana.org/domains/root/db/gh.html",
+      "requestor_organization": "gh",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/gh.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "net.gh",
+    "icann_tld": "net.gh"
   },
   {
     "psl_entry_string": "org.gh",
@@ -123584,10 +124240,10 @@
     "icann_tld": "cn"
   },
   {
-    "psl_entry_string": "*.my.canvasite.cn",
+    "psl_entry_string": "my.canvasite.cn",
     "psl_domain": "my.canvasite.cn",
     "section": "private",
-    "is_wildcard": true,
+    "is_wildcard": false,
     "is_negation": false,
     "requestor": {
       "requestor_description": "Canva Pty Ltd : https://canva.com/",
@@ -123616,10 +124272,10 @@
     "icann_tld": "com"
   },
   {
-    "psl_entry_string": "*.my.canva.site",
+    "psl_entry_string": "my.canva.site",
     "psl_domain": "my.canva.site",
     "section": "private",
-    "is_wildcard": true,
+    "is_wildcard": false,
     "is_negation": false,
     "requestor": {
       "requestor_description": "Canva Pty Ltd : https://canva.com/",
@@ -124798,22 +125454,6 @@
     },
     "icann_normalized_domain": "cloud66.ws",
     "icann_tld": "ws"
-  },
-  {
-    "psl_entry_string": "cloud66.zone",
-    "psl_domain": "cloud66.zone",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Cloud66 : https://www.cloud66.com/",
-      "requestor_organization": "Cloud66",
-      "requestor_organization_url": "https://www.cloud66.com/",
-      "requestor_contact_name": "Khash Sajadi",
-      "requestor_contact_email": "khash@cloud66.com"
-    },
-    "icann_normalized_domain": "cloud66.zone",
-    "icann_tld": "zone"
   },
   {
     "psl_entry_string": "jdevcloud.com",
@@ -131728,6 +132368,22 @@
     "icann_tld": "app"
   },
   {
+    "psl_entry_string": "frontend.encr.app",
+    "psl_domain": "frontend.encr.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Encoretivity AB : https://encore.cloud",
+      "requestor_organization": "Encoretivity AB",
+      "requestor_organization_url": "https://encore.cloud",
+      "requestor_contact_name": "André Eriksson",
+      "requestor_contact_email": "security@encore.cloud"
+    },
+    "icann_normalized_domain": "encr.app",
+    "icann_tld": "app"
+  },
+  {
     "psl_entry_string": "encoreapi.com",
     "psl_domain": "encoreapi.com",
     "section": "private",
@@ -131746,6 +132402,38 @@
   {
     "psl_entry_string": "lp.dev",
     "psl_domain": "lp.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Encoretivity AB : https://encore.cloud",
+      "requestor_organization": "Encoretivity AB",
+      "requestor_organization_url": "https://encore.cloud",
+      "requestor_contact_name": "André Eriksson",
+      "requestor_contact_email": "security@encore.cloud"
+    },
+    "icann_normalized_domain": "lp.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "api.lp.dev",
+    "psl_domain": "api.lp.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Encoretivity AB : https://encore.cloud",
+      "requestor_organization": "Encoretivity AB",
+      "requestor_organization_url": "https://encore.cloud",
+      "requestor_contact_name": "André Eriksson",
+      "requestor_contact_email": "security@encore.cloud"
+    },
+    "icann_normalized_domain": "lp.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "objects.lp.dev",
+    "psl_domain": "objects.lp.dev",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -135598,6 +136286,22 @@
     },
     "icann_normalized_domain": "gsj.bz",
     "icann_tld": "bz"
+  },
+  {
+    "psl_entry_string": "github.app",
+    "psl_domain": "github.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "GitHub, Inc.",
+      "requestor_organization": "GitHub, Inc.",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "Patrick Toomey",
+      "requestor_contact_email": "security@github.com"
+    },
+    "icann_normalized_domain": "github.app",
+    "icann_tld": "app"
   },
   {
     "psl_entry_string": "githubusercontent.com",
@@ -139881,7 +140585,7 @@
       "requestor_description": "IServ GmbH : https://iserv.de",
       "requestor_organization": "IServ GmbH",
       "requestor_organization_url": "https://iserv.de",
-      "requestor_contact_name": "Mario Hoberg",
+      "requestor_contact_name": "Kim Brodowski",
       "requestor_contact_email": "info@iserv.de"
     },
     "icann_normalized_domain": "iservschule.de",
@@ -139897,7 +140601,7 @@
       "requestor_description": "IServ GmbH : https://iserv.de",
       "requestor_organization": "IServ GmbH",
       "requestor_organization_url": "https://iserv.de",
-      "requestor_contact_name": "Mario Hoberg",
+      "requestor_contact_name": "Kim Brodowski",
       "requestor_contact_email": "info@iserv.de"
     },
     "icann_normalized_domain": "mein-iserv.de",
@@ -139913,7 +140617,7 @@
       "requestor_description": "IServ GmbH : https://iserv.de",
       "requestor_organization": "IServ GmbH",
       "requestor_organization_url": "https://iserv.de",
-      "requestor_contact_name": "Mario Hoberg",
+      "requestor_contact_name": "Kim Brodowski",
       "requestor_contact_email": "info@iserv.de"
     },
     "icann_normalized_domain": "schulplattform.de",
@@ -139929,7 +140633,7 @@
       "requestor_description": "IServ GmbH : https://iserv.de",
       "requestor_organization": "IServ GmbH",
       "requestor_organization_url": "https://iserv.de",
-      "requestor_contact_name": "Mario Hoberg",
+      "requestor_contact_name": "Kim Brodowski",
       "requestor_contact_email": "info@iserv.de"
     },
     "icann_normalized_domain": "schulserver.de",
@@ -139945,7 +140649,7 @@
       "requestor_description": "IServ GmbH : https://iserv.de",
       "requestor_organization": "IServ GmbH",
       "requestor_organization_url": "https://iserv.de",
-      "requestor_contact_name": "Mario Hoberg",
+      "requestor_contact_name": "Kim Brodowski",
       "requestor_contact_email": "info@iserv.de"
     },
     "icann_normalized_domain": "test-iserv.de",
@@ -139961,11 +140665,27 @@
       "requestor_description": "IServ GmbH : https://iserv.de",
       "requestor_organization": "IServ GmbH",
       "requestor_organization_url": "https://iserv.de",
-      "requestor_contact_name": "Mario Hoberg",
+      "requestor_contact_name": "Kim Brodowski",
       "requestor_contact_email": "info@iserv.de"
     },
     "icann_normalized_domain": "iserv.dev",
     "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "iserv.host",
+    "psl_domain": "iserv.host",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "IServ GmbH : https://iserv.de",
+      "requestor_organization": "IServ GmbH",
+      "requestor_organization_url": "https://iserv.de",
+      "requestor_contact_name": "Kim Brodowski",
+      "requestor_contact_email": "info@iserv.de"
+    },
+    "icann_normalized_domain": "iserv.host",
+    "icann_tld": "host"
   },
   {
     "psl_entry_string": "mel.cloudlets.com.au",
@@ -147917,6 +148637,22 @@
       "requestor_contact_email": "team@eliv.kr"
     },
     "icann_normalized_domain": "c01.kr",
+    "icann_tld": "kr"
+  },
+  {
+    "psl_entry_string": "eliv-cdn.kr",
+    "psl_domain": "eliv-cdn.kr",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "PROJECT ELIV : https://eliv.kr/",
+      "requestor_organization": "PROJECT ELIV",
+      "requestor_organization_url": "https://eliv.kr/",
+      "requestor_contact_name": "PROJECT ELIV Domain Team",
+      "requestor_contact_email": "team@eliv.kr"
+    },
+    "icann_normalized_domain": "eliv-cdn.kr",
     "icann_tld": "kr"
   },
   {
