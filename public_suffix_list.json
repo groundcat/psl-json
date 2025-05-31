@@ -17072,6 +17072,22 @@
     "icann_tld": "go.id"
   },
   {
+    "psl_entry_string": "kop.id",
+    "psl_domain": "kop.id",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "id : https://www.iana.org/domains/root/db/id.html",
+      "requestor_organization": "id",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/id.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "kop.id",
+    "icann_tld": "kop.id"
+  },
+  {
     "psl_entry_string": "mil.id",
     "psl_domain": "mil.id",
     "section": "icann",
@@ -126992,6 +127008,134 @@
     "icann_tld": "dev"
   },
   {
+    "psl_entry_string": "caffeine.ai",
+    "psl_domain": "caffeine.ai",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dfinity Foundation: https://dfinity.org/",
+      "requestor_organization": "Dfinity Foundation",
+      "requestor_organization_url": "https://dfinity.org/",
+      "requestor_contact_name": "Dfinity Team",
+      "requestor_contact_email": "domains@dfinity.org"
+    },
+    "icann_normalized_domain": "caffeine.ai",
+    "icann_tld": "ai"
+  },
+  {
+    "psl_entry_string": "id.ai",
+    "psl_domain": "id.ai",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dfinity Foundation: https://dfinity.org/",
+      "requestor_organization": "Dfinity Foundation",
+      "requestor_organization_url": "https://dfinity.org/",
+      "requestor_contact_name": "Dfinity Team",
+      "requestor_contact_email": "domains@dfinity.org"
+    },
+    "icann_normalized_domain": "id.ai",
+    "icann_tld": "ai"
+  },
+  {
+    "psl_entry_string": "icp-api.io",
+    "psl_domain": "icp-api.io",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dfinity Foundation: https://dfinity.org/",
+      "requestor_organization": "Dfinity Foundation",
+      "requestor_organization_url": "https://dfinity.org/",
+      "requestor_contact_name": "Dfinity Team",
+      "requestor_contact_email": "domains@dfinity.org"
+    },
+    "icann_normalized_domain": "icp-api.io",
+    "icann_tld": "io"
+  },
+  {
+    "psl_entry_string": "icp0.io",
+    "psl_domain": "icp0.io",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dfinity Foundation: https://dfinity.org/",
+      "requestor_organization": "Dfinity Foundation",
+      "requestor_organization_url": "https://dfinity.org/",
+      "requestor_contact_name": "Dfinity Team",
+      "requestor_contact_email": "domains@dfinity.org"
+    },
+    "icann_normalized_domain": "icp0.io",
+    "icann_tld": "io"
+  },
+  {
+    "psl_entry_string": "*.raw.icp0.io",
+    "psl_domain": "raw.icp0.io",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dfinity Foundation: https://dfinity.org/",
+      "requestor_organization": "Dfinity Foundation",
+      "requestor_organization_url": "https://dfinity.org/",
+      "requestor_contact_name": "Dfinity Team",
+      "requestor_contact_email": "domains@dfinity.org"
+    },
+    "icann_normalized_domain": "icp0.io",
+    "icann_tld": "io"
+  },
+  {
+    "psl_entry_string": "icp1.io",
+    "psl_domain": "icp1.io",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dfinity Foundation: https://dfinity.org/",
+      "requestor_organization": "Dfinity Foundation",
+      "requestor_organization_url": "https://dfinity.org/",
+      "requestor_contact_name": "Dfinity Team",
+      "requestor_contact_email": "domains@dfinity.org"
+    },
+    "icann_normalized_domain": "icp1.io",
+    "icann_tld": "io"
+  },
+  {
+    "psl_entry_string": "*.raw.icp1.io",
+    "psl_domain": "raw.icp1.io",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dfinity Foundation: https://dfinity.org/",
+      "requestor_organization": "Dfinity Foundation",
+      "requestor_organization_url": "https://dfinity.org/",
+      "requestor_contact_name": "Dfinity Team",
+      "requestor_contact_email": "domains@dfinity.org"
+    },
+    "icann_normalized_domain": "icp1.io",
+    "icann_tld": "io"
+  },
+  {
+    "psl_entry_string": "caffeine.site",
+    "psl_domain": "caffeine.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dfinity Foundation: https://dfinity.org/",
+      "requestor_organization": "Dfinity Foundation",
+      "requestor_organization_url": "https://dfinity.org/",
+      "requestor_contact_name": "Dfinity Team",
+      "requestor_contact_email": "domains@dfinity.org"
+    },
+    "icann_normalized_domain": "caffeine.site",
+    "icann_tld": "site"
+  },
+  {
     "psl_entry_string": "dfirma.pl",
     "psl_domain": "dfirma.pl",
     "section": "private",
@@ -140608,6 +140752,22 @@
     "icann_tld": "de"
   },
   {
+    "psl_entry_string": "schuldock.de",
+    "psl_domain": "schuldock.de",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "IServ GmbH : https://iserv.de",
+      "requestor_organization": "IServ GmbH",
+      "requestor_organization_url": "https://iserv.de",
+      "requestor_contact_name": "Kim Brodowski",
+      "requestor_contact_email": "info@iserv.de"
+    },
+    "icann_normalized_domain": "schuldock.de",
+    "icann_tld": "de"
+  },
+  {
     "psl_entry_string": "schulplattform.de",
     "psl_domain": "schulplattform.de",
     "section": "private",
@@ -152718,22 +152878,6 @@
     },
     "icann_normalized_domain": "stolos.io",
     "icann_tld": "io"
-  },
-  {
-    "psl_entry_string": "ind.mom",
-    "psl_domain": "ind.mom",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "SparrowHost : https://sparrowhost.in/",
-      "requestor_organization": "SparrowHost",
-      "requestor_organization_url": "https://sparrowhost.in/",
-      "requestor_contact_name": "Anant Pandey",
-      "requestor_contact_email": "info@sparrowhost.in"
-    },
-    "icann_normalized_domain": "ind.mom",
-    "icann_tld": "mom"
   },
   {
     "psl_entry_string": "customer.speedpartner.de",
