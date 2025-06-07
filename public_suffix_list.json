@@ -138384,6 +138384,22 @@
     "icann_tld": "app"
   },
   {
+    "psl_entry_string": "*.mtls.run.app",
+    "psl_domain": "mtls.run.app",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Google, Inc.",
+      "requestor_organization": "Google, Inc.",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "Shannon McCabe",
+      "requestor_contact_email": "public-suffix-editors@google.com"
+    },
+    "icann_normalized_domain": "run.app",
+    "icann_tld": "app"
+  },
+  {
     "psl_entry_string": "web.app",
     "psl_domain": "web.app",
     "section": "private",
@@ -140541,6 +140557,22 @@
       "requestor_contact_email": "security@ionos.com"
     },
     "icann_normalized_domain": "live-website.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "webspace-host.com",
+    "psl_domain": "webspace-host.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "IONOS SE : https://www.ionos.com/",
+      "requestor_organization": "IONOS SE",
+      "requestor_organization_url": "https://www.ionos.com/",
+      "requestor_contact_name": "Henrik Willert",
+      "requestor_contact_email": "security@ionos.com"
+    },
+    "icann_normalized_domain": "webspace-host.com",
     "icann_tld": "com"
   },
   {
@@ -143710,6 +143742,22 @@
     },
     "icann_normalized_domain": "co.uk",
     "icann_tld": "uk"
+  },
+  {
+    "psl_entry_string": "*.lutrausercontent.com",
+    "psl_domain": "lutrausercontent.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Lutra : https://lutra.ai",
+      "requestor_organization": "Lutra",
+      "requestor_organization_url": "https://lutra.ai",
+      "requestor_contact_name": "Joshua Newman",
+      "requestor_contact_email": "public-suffix-list@lutra.ai"
+    },
+    "icann_normalized_domain": "lutrausercontent.com",
+    "icann_tld": "com"
   },
   {
     "psl_entry_string": "luyani.app",
@@ -154384,6 +154432,22 @@
     "icann_tld": "email"
   },
   {
+    "psl_entry_string": "tche.br",
+    "psl_domain": "tche.br",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Tche.br : https://tche.br",
+      "requestor_organization": "Tche.br",
+      "requestor_organization_url": "https://tche.br",
+      "requestor_contact_name": "Bruno Lorensi",
+      "requestor_contact_email": "suporte@tche.br"
+    },
+    "icann_normalized_domain": "tche.br",
+    "icann_tld": "br"
+  },
+  {
     "psl_entry_string": "site.tb-hosting.com",
     "psl_domain": "site.tb-hosting.com",
     "section": "private",
@@ -155785,7 +155849,7 @@
       "requestor_description": "Vercel, Inc : https://vercel.com/",
       "requestor_organization": "Vercel, Inc",
       "requestor_organization_url": "https://vercel.com/",
-      "requestor_contact_name": "Max Leiter",
+      "requestor_contact_name": "Laurens Duijvesteijn",
       "requestor_contact_email": "security@vercel.com"
     },
     "icann_normalized_domain": "vercel.app",
@@ -155801,7 +155865,7 @@
       "requestor_description": "Vercel, Inc : https://vercel.com/",
       "requestor_organization": "Vercel, Inc",
       "requestor_organization_url": "https://vercel.com/",
-      "requestor_contact_name": "Max Leiter",
+      "requestor_contact_name": "Laurens Duijvesteijn",
       "requestor_contact_email": "security@vercel.com"
     },
     "icann_normalized_domain": "v0.build",
@@ -155817,7 +155881,7 @@
       "requestor_description": "Vercel, Inc : https://vercel.com/",
       "requestor_organization": "Vercel, Inc",
       "requestor_organization_url": "https://vercel.com/",
-      "requestor_contact_name": "Max Leiter",
+      "requestor_contact_name": "Laurens Duijvesteijn",
       "requestor_contact_email": "security@vercel.com"
     },
     "icann_normalized_domain": "vercel.dev",
@@ -155833,11 +155897,27 @@
       "requestor_description": "Vercel, Inc : https://vercel.com/",
       "requestor_organization": "Vercel, Inc",
       "requestor_organization_url": "https://vercel.com/",
-      "requestor_contact_name": "Max Leiter",
+      "requestor_contact_name": "Laurens Duijvesteijn",
       "requestor_contact_email": "security@vercel.com"
     },
     "icann_normalized_domain": "vusercontent.net",
     "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "vercel.run",
+    "psl_domain": "vercel.run",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Vercel, Inc : https://vercel.com/",
+      "requestor_organization": "Vercel, Inc",
+      "requestor_organization_url": "https://vercel.com/",
+      "requestor_contact_name": "Laurens Duijvesteijn",
+      "requestor_contact_email": "security@vercel.com"
+    },
+    "icann_normalized_domain": "vercel.run",
+    "icann_tld": "run"
   },
   {
     "psl_entry_string": "now.sh",
@@ -155849,7 +155929,7 @@
       "requestor_description": "Vercel, Inc : https://vercel.com/",
       "requestor_organization": "Vercel, Inc",
       "requestor_organization_url": "https://vercel.com/",
-      "requestor_contact_name": "Max Leiter",
+      "requestor_contact_name": "Laurens Duijvesteijn",
       "requestor_contact_email": "security@vercel.com"
     },
     "icann_normalized_domain": "now.sh",
