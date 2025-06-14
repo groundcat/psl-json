@@ -92822,8 +92822,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-05-17T15:16:58Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-05-17T15:16:58Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-06-07T15:17:54Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-06-07T15:17:54Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -99918,6 +99918,22 @@
     },
     "icann_normalized_domain": "hot",
     "icann_tld": "hot"
+  },
+  {
+    "psl_entry_string": "hotel",
+    "psl_domain": "hotel",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "hotel : HOTEL Top-Level-Domain S.a.r.l",
+      "requestor_organization": "hotel : HOTEL Top-Level-Domain S.a.r.l",
+      "requestor_organization_url": null,
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "hotel",
+    "icann_tld": "hotel"
   },
   {
     "psl_entry_string": "hotels",
@@ -111056,6 +111072,22 @@
     "icann_tld": "net"
   },
   {
+    "psl_entry_string": "aem.network",
+    "psl_domain": "aem.network",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Adobe : https://www.adobe.com/",
+      "requestor_organization": "Adobe",
+      "requestor_organization_url": "https://www.adobe.com/",
+      "requestor_contact_name": "Ian Boston",
+      "requestor_contact_email": "boston@adobe.com"
+    },
+    "icann_normalized_domain": "aem.network",
+    "icann_tld": "network"
+  },
+  {
     "psl_entry_string": "aem.page",
     "psl_domain": "aem.page",
     "section": "private",
@@ -111088,8 +111120,8 @@
     "icann_tld": "page"
   },
   {
-    "psl_entry_string": "hlx3.page",
-    "psl_domain": "hlx3.page",
+    "psl_entry_string": "aem.reviews",
+    "psl_domain": "aem.reviews",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -111100,8 +111132,8 @@
       "requestor_contact_name": "Ian Boston",
       "requestor_contact_email": "boston@adobe.com"
     },
-    "icann_normalized_domain": "hlx3.page",
-    "icann_tld": "page"
+    "icann_normalized_domain": "aem.reviews",
+    "icann_tld": "reviews"
   },
   {
     "psl_entry_string": "adobeio-static.net",
@@ -152926,6 +152958,86 @@
     },
     "icann_normalized_domain": "stolos.io",
     "icann_tld": "io"
+  },
+  {
+    "psl_entry_string": "4.at",
+    "psl_domain": "4.at",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "sourceWAY GmbH : https://sourceway.de",
+      "requestor_organization": "sourceWAY GmbH",
+      "requestor_organization_url": "https://sourceway.de",
+      "requestor_contact_name": "Richard Reiber",
+      "requestor_contact_email": "mail@sourceway.de"
+    },
+    "icann_normalized_domain": "4.at",
+    "icann_tld": "at"
+  },
+  {
+    "psl_entry_string": "my.at",
+    "psl_domain": "my.at",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "sourceWAY GmbH : https://sourceway.de",
+      "requestor_organization": "sourceWAY GmbH",
+      "requestor_organization_url": "https://sourceway.de",
+      "requestor_contact_name": "Richard Reiber",
+      "requestor_contact_email": "mail@sourceway.de"
+    },
+    "icann_normalized_domain": "my.at",
+    "icann_tld": "at"
+  },
+  {
+    "psl_entry_string": "my.de",
+    "psl_domain": "my.de",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "sourceWAY GmbH : https://sourceway.de",
+      "requestor_organization": "sourceWAY GmbH",
+      "requestor_organization_url": "https://sourceway.de",
+      "requestor_contact_name": "Richard Reiber",
+      "requestor_contact_email": "mail@sourceway.de"
+    },
+    "icann_normalized_domain": "my.de",
+    "icann_tld": "de"
+  },
+  {
+    "psl_entry_string": "*.nxa.eu",
+    "psl_domain": "nxa.eu",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "sourceWAY GmbH : https://sourceway.de",
+      "requestor_organization": "sourceWAY GmbH",
+      "requestor_organization_url": "https://sourceway.de",
+      "requestor_contact_name": "Richard Reiber",
+      "requestor_contact_email": "mail@sourceway.de"
+    },
+    "icann_normalized_domain": "nxa.eu",
+    "icann_tld": "eu"
+  },
+  {
+    "psl_entry_string": "nx.gw",
+    "psl_domain": "nx.gw",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "sourceWAY GmbH : https://sourceway.de",
+      "requestor_organization": "sourceWAY GmbH",
+      "requestor_organization_url": "https://sourceway.de",
+      "requestor_contact_name": "Richard Reiber",
+      "requestor_contact_email": "mail@sourceway.de"
+    },
+    "icann_normalized_domain": "nx.gw",
+    "icann_tld": "gw"
   },
   {
     "psl_entry_string": "customer.speedpartner.de",
