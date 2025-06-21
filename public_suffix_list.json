@@ -156080,6 +156080,22 @@
     "icann_tld": "info"
   },
   {
+    "psl_entry_string": "vistablog.ir",
+    "psl_domain": "vistablog.ir",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "VistaBlog : https://vistablog.ir/",
+      "requestor_organization": "VistaBlog",
+      "requestor_organization_url": "https://vistablog.ir/",
+      "requestor_contact_name": "Hossein Piri",
+      "requestor_contact_email": "info@vistablog.ir"
+    },
+    "icann_normalized_domain": "vistablog.ir",
+    "icann_tld": "ir"
+  },
+  {
     "psl_entry_string": "deus-canvas.com",
     "psl_domain": "deus-canvas.com",
     "section": "private",
