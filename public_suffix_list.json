@@ -151577,8 +151577,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151593,8 +151593,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151609,8 +151609,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151625,8 +151625,40 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "ddl.fr-par.scw.cloud",
+    "psl_domain": "ddl.fr-par.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "dtwh.fr-par.scw.cloud",
+    "psl_domain": "dtwh.fr-par.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151641,8 +151673,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151657,8 +151689,24 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "ifr.fr-par.scw.cloud",
+    "psl_domain": "ifr.fr-par.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151673,8 +151721,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151689,8 +151737,56 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "kafk.fr-par.scw.cloud",
+    "psl_domain": "kafk.fr-par.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "mgdb.fr-par.scw.cloud",
+    "psl_domain": "mgdb.fr-par.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "rdb.fr-par.scw.cloud",
+    "psl_domain": "rdb.fr-par.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151705,8 +151801,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151721,8 +151817,24 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "scbl.fr-par.scw.cloud",
+    "psl_domain": "scbl.fr-par.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151737,8 +151849,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151753,8 +151865,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151769,8 +151881,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151785,8 +151897,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151801,8 +151913,56 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "ddl.nl-ams.scw.cloud",
+    "psl_domain": "ddl.nl-ams.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "dtwh.nl-ams.scw.cloud",
+    "psl_domain": "dtwh.nl-ams.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "ifr.nl-ams.scw.cloud",
+    "psl_domain": "ifr.nl-ams.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151817,8 +151977,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151833,8 +151993,56 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "kafk.nl-ams.scw.cloud",
+    "psl_domain": "kafk.nl-ams.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "mgdb.nl-ams.scw.cloud",
+    "psl_domain": "mgdb.nl-ams.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "rdb.nl-ams.scw.cloud",
+    "psl_domain": "rdb.nl-ams.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151849,8 +152057,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151865,8 +152073,24 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "scbl.nl-ams.scw.cloud",
+    "psl_domain": "scbl.nl-ams.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151881,8 +152105,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151897,8 +152121,56 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "ddl.pl-waw.scw.cloud",
+    "psl_domain": "ddl.pl-waw.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "dtwh.pl-waw.scw.cloud",
+    "psl_domain": "dtwh.pl-waw.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "ifr.pl-waw.scw.cloud",
+    "psl_domain": "ifr.pl-waw.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151913,8 +152185,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151929,8 +152201,56 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "kafk.pl-waw.scw.cloud",
+    "psl_domain": "kafk.pl-waw.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "mgdb.pl-waw.scw.cloud",
+    "psl_domain": "mgdb.pl-waw.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "rdb.pl-waw.scw.cloud",
+    "psl_domain": "rdb.pl-waw.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151945,8 +152265,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151961,8 +152281,24 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "scbl.pl-waw.scw.cloud",
+    "psl_domain": "scbl.pl-waw.scw.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151977,8 +152313,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -151993,8 +152329,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "scw.cloud",
     "icann_tld": "cloud"
@@ -152009,8 +152345,8 @@
       "requestor_description": "Scaleway : https://www.scaleway.com/",
       "requestor_organization": "Scaleway",
       "requestor_organization_url": "https://www.scaleway.com/",
-      "requestor_contact_name": "Rémy Léone",
-      "requestor_contact_email": "rleone@scaleway.com"
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
     },
     "icann_normalized_domain": "dedibox.fr",
     "icann_tld": "fr"
