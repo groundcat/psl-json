@@ -92822,8 +92822,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-07-09T15:20:49Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-07-09T15:20:49Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-07-16T15:22:08Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-07-16T15:22:08Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -95910,8 +95910,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "click : Internet Naming Company LLC",
-      "requestor_organization": "click : Internet Naming Company LLC",
+      "requestor_description": "click : Waterford Limited",
+      "requestor_organization": "click : Waterford Limited",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -112400,6 +112400,22 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "auth.ap-southeast-7.amazoncognito.com",
+    "psl_domain": "auth.ap-southeast-7.amazoncognito.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Cognito",
+      "requestor_organization": "Amazon Cognito",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazoncognito.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "auth.ca-central-1.amazoncognito.com",
     "psl_domain": "auth.ca-central-1.amazoncognito.com",
     "section": "private",
@@ -112594,6 +112610,22 @@
   {
     "psl_entry_string": "auth.me-south-1.amazoncognito.com",
     "psl_domain": "auth.me-south-1.amazoncognito.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Cognito",
+      "requestor_organization": "Amazon Cognito",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazoncognito.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "auth.mx-central-1.amazoncognito.com",
+    "psl_domain": "auth.mx-central-1.amazoncognito.com",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -114432,6 +114464,486 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "*.airflow.af-south-1.on.aws",
+    "psl_domain": "airflow.af-south-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.ap-east-1.on.aws",
+    "psl_domain": "airflow.ap-east-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.ap-northeast-1.on.aws",
+    "psl_domain": "airflow.ap-northeast-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.ap-northeast-2.on.aws",
+    "psl_domain": "airflow.ap-northeast-2.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.ap-northeast-3.on.aws",
+    "psl_domain": "airflow.ap-northeast-3.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.ap-south-1.on.aws",
+    "psl_domain": "airflow.ap-south-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.ap-south-2.on.aws",
+    "psl_domain": "airflow.ap-south-2.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.ap-southeast-1.on.aws",
+    "psl_domain": "airflow.ap-southeast-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.ap-southeast-2.on.aws",
+    "psl_domain": "airflow.ap-southeast-2.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.ap-southeast-3.on.aws",
+    "psl_domain": "airflow.ap-southeast-3.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.ap-southeast-4.on.aws",
+    "psl_domain": "airflow.ap-southeast-4.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.ap-southeast-5.on.aws",
+    "psl_domain": "airflow.ap-southeast-5.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.ca-central-1.on.aws",
+    "psl_domain": "airflow.ca-central-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.ca-west-1.on.aws",
+    "psl_domain": "airflow.ca-west-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.eu-central-1.on.aws",
+    "psl_domain": "airflow.eu-central-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.eu-central-2.on.aws",
+    "psl_domain": "airflow.eu-central-2.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.eu-north-1.on.aws",
+    "psl_domain": "airflow.eu-north-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.eu-south-1.on.aws",
+    "psl_domain": "airflow.eu-south-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.eu-south-2.on.aws",
+    "psl_domain": "airflow.eu-south-2.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.eu-west-1.on.aws",
+    "psl_domain": "airflow.eu-west-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.eu-west-2.on.aws",
+    "psl_domain": "airflow.eu-west-2.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.eu-west-3.on.aws",
+    "psl_domain": "airflow.eu-west-3.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.il-central-1.on.aws",
+    "psl_domain": "airflow.il-central-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.me-central-1.on.aws",
+    "psl_domain": "airflow.me-central-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.me-south-1.on.aws",
+    "psl_domain": "airflow.me-south-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.sa-east-1.on.aws",
+    "psl_domain": "airflow.sa-east-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.us-east-1.on.aws",
+    "psl_domain": "airflow.us-east-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.us-east-2.on.aws",
+    "psl_domain": "airflow.us-east-2.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.us-west-1.on.aws",
+    "psl_domain": "airflow.us-west-1.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.us-west-2.on.aws",
+    "psl_domain": "airflow.us-west-2.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
     "psl_entry_string": "*.cn-north-1.airflow.amazonaws.com.cn",
     "psl_domain": "cn-north-1.airflow.amazonaws.com.cn",
     "section": "private",
@@ -114450,6 +114962,38 @@
   {
     "psl_entry_string": "*.cn-northwest-1.airflow.amazonaws.com.cn",
     "psl_domain": "cn-northwest-1.airflow.amazonaws.com.cn",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "com.cn",
+    "icann_tld": "cn"
+  },
+  {
+    "psl_entry_string": "*.airflow.cn-north-1.on.amazonwebservices.com.cn",
+    "psl_domain": "airflow.cn-north-1.on.amazonwebservices.com.cn",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "com.cn",
+    "icann_tld": "cn"
+  },
+  {
+    "psl_entry_string": "*.airflow.cn-northwest-1.on.amazonwebservices.com.cn",
+    "psl_domain": "airflow.cn-northwest-1.on.amazonwebservices.com.cn",
     "section": "private",
     "is_wildcard": true,
     "is_negation": false,
@@ -114626,6 +115170,22 @@
   {
     "psl_entry_string": "*.ap-southeast-4.airflow.amazonaws.com",
     "psl_domain": "ap-southeast-4.airflow.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-southeast-5.airflow.amazonaws.com",
+    "psl_domain": "ap-southeast-5.airflow.amazonaws.com",
     "section": "private",
     "is_wildcard": true,
     "is_negation": false,
@@ -122928,8 +123488,104 @@
     "icann_tld": "aws"
   },
   {
+    "psl_entry_string": "transfer-webapp.af-south-1.on.aws",
+    "psl_domain": "transfer-webapp.af-south-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.ap-east-1.on.aws",
+    "psl_domain": "transfer-webapp.ap-east-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
     "psl_entry_string": "transfer-webapp.ap-northeast-1.on.aws",
     "psl_domain": "transfer-webapp.ap-northeast-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.ap-northeast-2.on.aws",
+    "psl_domain": "transfer-webapp.ap-northeast-2.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.ap-northeast-3.on.aws",
+    "psl_domain": "transfer-webapp.ap-northeast-3.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.ap-south-1.on.aws",
+    "psl_domain": "transfer-webapp.ap-south-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.ap-south-2.on.aws",
+    "psl_domain": "transfer-webapp.ap-south-2.on.aws",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -122976,8 +123632,104 @@
     "icann_tld": "aws"
   },
   {
+    "psl_entry_string": "transfer-webapp.ap-southeast-3.on.aws",
+    "psl_domain": "transfer-webapp.ap-southeast-3.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.ap-southeast-4.on.aws",
+    "psl_domain": "transfer-webapp.ap-southeast-4.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.ap-southeast-5.on.aws",
+    "psl_domain": "transfer-webapp.ap-southeast-5.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.ca-central-1.on.aws",
+    "psl_domain": "transfer-webapp.ca-central-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.ca-west-1.on.aws",
+    "psl_domain": "transfer-webapp.ca-west-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
     "psl_entry_string": "transfer-webapp.eu-central-1.on.aws",
     "psl_domain": "transfer-webapp.eu-central-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.eu-central-2.on.aws",
+    "psl_domain": "transfer-webapp.eu-central-2.on.aws",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -123008,8 +123760,136 @@
     "icann_tld": "aws"
   },
   {
+    "psl_entry_string": "transfer-webapp.eu-south-1.on.aws",
+    "psl_domain": "transfer-webapp.eu-south-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.eu-south-2.on.aws",
+    "psl_domain": "transfer-webapp.eu-south-2.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
     "psl_entry_string": "transfer-webapp.eu-west-1.on.aws",
     "psl_domain": "transfer-webapp.eu-west-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.eu-west-2.on.aws",
+    "psl_domain": "transfer-webapp.eu-west-2.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.eu-west-3.on.aws",
+    "psl_domain": "transfer-webapp.eu-west-3.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.il-central-1.on.aws",
+    "psl_domain": "transfer-webapp.il-central-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.me-central-1.on.aws",
+    "psl_domain": "transfer-webapp.me-central-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.me-south-1.on.aws",
+    "psl_domain": "transfer-webapp.me-south-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.sa-east-1.on.aws",
+    "psl_domain": "transfer-webapp.sa-east-1.on.aws",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -123056,6 +123936,86 @@
     "icann_tld": "aws"
   },
   {
+    "psl_entry_string": "transfer-webapp.us-gov-east-1.on.aws",
+    "psl_domain": "transfer-webapp.us-gov-east-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp-fips.us-gov-east-1.on.aws",
+    "psl_domain": "transfer-webapp-fips.us-gov-east-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.us-gov-west-1.on.aws",
+    "psl_domain": "transfer-webapp.us-gov-west-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp-fips.us-gov-west-1.on.aws",
+    "psl_domain": "transfer-webapp-fips.us-gov-west-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.us-west-1.on.aws",
+    "psl_domain": "transfer-webapp.us-west-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
     "psl_entry_string": "transfer-webapp.us-west-2.on.aws",
     "psl_domain": "transfer-webapp.us-west-2.on.aws",
     "section": "private",
@@ -123070,6 +124030,38 @@
     },
     "icann_normalized_domain": "on.aws",
     "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.cn-north-1.on.amazonwebservices.com.cn",
+    "psl_domain": "transfer-webapp.cn-north-1.on.amazonwebservices.com.cn",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "com.cn",
+    "icann_tld": "cn"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.cn-northwest-1.on.amazonwebservices.com.cn",
+    "psl_domain": "transfer-webapp.cn-northwest-1.on.amazonwebservices.com.cn",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "com.cn",
+    "icann_tld": "cn"
   },
   {
     "psl_entry_string": "eero.online",
@@ -155920,22 +156912,6 @@
     "icann_tld": "com"
   },
   {
-    "psl_entry_string": "*.uberspace.de",
-    "psl_domain": "uberspace.de",
-    "section": "private",
-    "is_wildcard": true,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Uberspace : https://uberspace.de",
-      "requestor_organization": "Uberspace",
-      "requestor_organization_url": "https://uberspace.de",
-      "requestor_contact_name": "Moritz Werner",
-      "requestor_contact_email": "mwerner@jonaspasche.com"
-    },
-    "icann_normalized_domain": "uberspace.de",
-    "icann_tld": "de"
-  },
-  {
     "psl_entry_string": "uber.space",
     "psl_domain": "uber.space",
     "section": "private",
@@ -156806,11 +157782,11 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "Wikimedia Labs : https://wikitech.wikimedia.org",
-      "requestor_organization": "Wikimedia Labs",
+      "requestor_description": "Wikimedia Foundation : https://wikitech.wikimedia.org",
+      "requestor_organization": "Wikimedia Foundation",
       "requestor_organization_url": "https://wikitech.wikimedia.org",
-      "requestor_contact_name": "Arturo Borrero Gonzalez",
-      "requestor_contact_email": "aborrero@wikimedia.org"
+      "requestor_contact_name": "Timo Tijhof",
+      "requestor_contact_email": "noc@wikimedia.org"
     },
     "icann_normalized_domain": "toolforge.org",
     "icann_tld": "org"
@@ -156822,11 +157798,27 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "Wikimedia Labs : https://wikitech.wikimedia.org",
-      "requestor_organization": "Wikimedia Labs",
+      "requestor_description": "Wikimedia Foundation : https://wikitech.wikimedia.org",
+      "requestor_organization": "Wikimedia Foundation",
       "requestor_organization_url": "https://wikitech.wikimedia.org",
-      "requestor_contact_name": "Arturo Borrero Gonzalez",
-      "requestor_contact_email": "aborrero@wikimedia.org"
+      "requestor_contact_name": "Timo Tijhof",
+      "requestor_contact_email": "noc@wikimedia.org"
+    },
+    "icann_normalized_domain": "wmcloud.org",
+    "icann_tld": "org"
+  },
+  {
+    "psl_entry_string": "beta.wmcloud.org",
+    "psl_domain": "beta.wmcloud.org",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Wikimedia Foundation : https://wikitech.wikimedia.org",
+      "requestor_organization": "Wikimedia Foundation",
+      "requestor_organization_url": "https://wikitech.wikimedia.org",
+      "requestor_contact_name": "Timo Tijhof",
+      "requestor_contact_email": "noc@wikimedia.org"
     },
     "icann_normalized_domain": "wmcloud.org",
     "icann_tld": "org"
@@ -156838,11 +157830,11 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "Wikimedia Labs : https://wikitech.wikimedia.org",
-      "requestor_organization": "Wikimedia Labs",
+      "requestor_description": "Wikimedia Foundation : https://wikitech.wikimedia.org",
+      "requestor_organization": "Wikimedia Foundation",
       "requestor_organization_url": "https://wikitech.wikimedia.org",
-      "requestor_contact_name": "Arturo Borrero Gonzalez",
-      "requestor_contact_email": "aborrero@wikimedia.org"
+      "requestor_contact_name": "Timo Tijhof",
+      "requestor_contact_email": "noc@wikimedia.org"
     },
     "icann_normalized_domain": "wmflabs.org",
     "icann_tld": "org"
