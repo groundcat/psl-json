@@ -144144,6 +144144,38 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "lovable.run",
+    "psl_domain": "lovable.run",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Lovable : https://lovable.dev",
+      "requestor_organization": "Lovable",
+      "requestor_organization_url": "https://lovable.dev",
+      "requestor_contact_name": "Fabian Hedin",
+      "requestor_contact_email": "security@lovable.dev"
+    },
+    "icann_normalized_domain": "lovable.run",
+    "icann_tld": "run"
+  },
+  {
+    "psl_entry_string": "lovable.sh",
+    "psl_domain": "lovable.sh",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Lovable : https://lovable.dev",
+      "requestor_organization": "Lovable",
+      "requestor_organization_url": "https://lovable.dev",
+      "requestor_contact_name": "Fabian Hedin",
+      "requestor_contact_email": "security@lovable.dev"
+    },
+    "icann_normalized_domain": "lovable.sh",
+    "icann_tld": "sh"
+  },
+  {
     "psl_entry_string": "krasnik.pl",
     "psl_domain": "krasnik.pl",
     "section": "private",
