@@ -143408,6 +143408,22 @@
     "icann_tld": "to"
   },
   {
+    "psl_entry_string": "co.de",
+    "psl_domain": "co.de",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "KV GmbH : https://www.nic.co.de",
+      "requestor_organization": "KV GmbH",
+      "requestor_organization_url": "https://www.nic.co.de",
+      "requestor_contact_name": "KV GmbH",
+      "requestor_contact_email": "registry@kv-gmbh.de"
+    },
+    "icann_normalized_domain": "co.de",
+    "icann_tld": "de"
+  },
+  {
     "psl_entry_string": "laravel.cloud",
     "psl_domain": "laravel.cloud",
     "section": "private",
