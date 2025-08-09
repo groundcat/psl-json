@@ -128032,54 +128032,6 @@
     "icann_tld": "dev"
   },
   {
-    "psl_entry_string": "caffeine.ai",
-    "psl_domain": "caffeine.ai",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Dfinity Foundation: https://dfinity.org/",
-      "requestor_organization": "Dfinity Foundation",
-      "requestor_organization_url": "https://dfinity.org/",
-      "requestor_contact_name": "Dfinity Team",
-      "requestor_contact_email": "domains@dfinity.org"
-    },
-    "icann_normalized_domain": "caffeine.ai",
-    "icann_tld": "ai"
-  },
-  {
-    "psl_entry_string": "id.ai",
-    "psl_domain": "id.ai",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Dfinity Foundation: https://dfinity.org/",
-      "requestor_organization": "Dfinity Foundation",
-      "requestor_organization_url": "https://dfinity.org/",
-      "requestor_contact_name": "Dfinity Team",
-      "requestor_contact_email": "domains@dfinity.org"
-    },
-    "icann_normalized_domain": "id.ai",
-    "icann_tld": "ai"
-  },
-  {
-    "psl_entry_string": "icp-api.io",
-    "psl_domain": "icp-api.io",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Dfinity Foundation: https://dfinity.org/",
-      "requestor_organization": "Dfinity Foundation",
-      "requestor_organization_url": "https://dfinity.org/",
-      "requestor_contact_name": "Dfinity Team",
-      "requestor_contact_email": "domains@dfinity.org"
-    },
-    "icann_normalized_domain": "icp-api.io",
-    "icann_tld": "io"
-  },
-  {
     "psl_entry_string": "icp0.io",
     "psl_domain": "icp0.io",
     "section": "private",
@@ -140192,6 +140144,38 @@
     "icann_tld": "run"
   },
   {
+    "psl_entry_string": "hidns.co",
+    "psl_domain": "hidns.co",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "HiDNS : https://www.hidoha.net",
+      "requestor_organization": "HiDNS",
+      "requestor_organization_url": "https://www.hidoha.net",
+      "requestor_contact_name": "ifeng",
+      "requestor_contact_email": "admin@hidoha.net"
+    },
+    "icann_normalized_domain": "hidns.co",
+    "icann_tld": "co"
+  },
+  {
+    "psl_entry_string": "hidns.vip",
+    "psl_domain": "hidns.vip",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "HiDNS : https://www.hidoha.net",
+      "requestor_organization": "HiDNS",
+      "requestor_organization_url": "https://www.hidoha.net",
+      "requestor_contact_name": "ifeng",
+      "requestor_contact_email": "admin@hidoha.net"
+    },
+    "icann_normalized_domain": "hidns.vip",
+    "icann_tld": "vip"
+  },
+  {
     "psl_entry_string": "homesklep.pl",
     "psl_domain": "homesklep.pl",
     "section": "private",
@@ -140286,22 +140270,6 @@
     },
     "icann_normalized_domain": "orx.biz",
     "icann_tld": "biz"
-  },
-  {
-    "psl_entry_string": "biz.gl",
-    "psl_domain": "biz.gl",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "HOSTBIP REGISTRY : https://www.hostbip.com/",
-      "requestor_organization": "HOSTBIP REGISTRY",
-      "requestor_organization_url": "https://www.hostbip.com/",
-      "requestor_contact_name": "Atanunu Igbunuroghene",
-      "requestor_contact_email": "publicsuffixlist@hostbip.com"
-    },
-    "icann_normalized_domain": "biz.gl",
-    "icann_tld": "gl"
   },
   {
     "psl_entry_string": "biz.ng",
