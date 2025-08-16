@@ -11657,11 +11657,27 @@
       "requestor_description": "cz : https://www.iana.org/domains/root/db/cz.html",
       "requestor_organization": "cz",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/cz.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "tech@nic.cz"
     },
     "icann_normalized_domain": "cz",
     "icann_tld": "cz"
+  },
+  {
+    "psl_entry_string": "gov.cz",
+    "psl_domain": "gov.cz",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "cz : https://www.iana.org/domains/root/db/cz.html",
+      "requestor_organization": "cz",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/cz.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "tech@nic.cz"
+    },
+    "icann_normalized_domain": "gov.cz",
+    "icann_tld": "gov.cz"
   },
   {
     "psl_entry_string": "de",
@@ -128096,6 +128112,22 @@
     "icann_tld": "io"
   },
   {
+    "psl_entry_string": "*.icp.net",
+    "psl_domain": "icp.net",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dfinity Foundation: https://dfinity.org/",
+      "requestor_organization": "Dfinity Foundation",
+      "requestor_organization_url": "https://dfinity.org/",
+      "requestor_contact_name": "Dfinity Team",
+      "requestor_contact_email": "domains@dfinity.org"
+    },
+    "icann_normalized_domain": "icp.net",
+    "icann_tld": "net"
+  },
+  {
     "psl_entry_string": "caffeine.site",
     "psl_domain": "caffeine.site",
     "section": "private",
@@ -143401,11 +143433,43 @@
       "requestor_description": "Laravel Holdings, Inc. : https://laravel.com",
       "requestor_organization": "Laravel Holdings, Inc.",
       "requestor_organization_url": "https://laravel.com",
-      "requestor_contact_name": "André Valentin",
+      "requestor_contact_name": "André Valentin & James Brooks",
       "requestor_contact_email": "security@laravel.com"
     },
     "icann_normalized_domain": "laravel.cloud",
     "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "on-forge.com",
+    "psl_domain": "on-forge.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Laravel Holdings, Inc. : https://laravel.com",
+      "requestor_organization": "Laravel Holdings, Inc.",
+      "requestor_organization_url": "https://laravel.com",
+      "requestor_contact_name": "André Valentin & James Brooks",
+      "requestor_contact_email": "security@laravel.com"
+    },
+    "icann_normalized_domain": "on-forge.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "on-vapor.com",
+    "psl_domain": "on-vapor.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Laravel Holdings, Inc. : https://laravel.com",
+      "requestor_organization": "Laravel Holdings, Inc.",
+      "requestor_organization_url": "https://laravel.com",
+      "requestor_contact_name": "André Valentin & James Brooks",
+      "requestor_contact_email": "security@laravel.com"
+    },
+    "icann_normalized_domain": "on-vapor.com",
+    "icann_tld": "com"
   },
   {
     "psl_entry_string": "git-repos.de",
@@ -150272,6 +150336,38 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "*.qualyhqpartner.com",
+    "psl_domain": "qualyhqpartner.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Qualy : https://qualyhq.com",
+      "requestor_organization": "Qualy",
+      "requestor_organization_url": "https://qualyhq.com",
+      "requestor_contact_name": "Raphael Arias",
+      "requestor_contact_email": "security@qualyhq.com"
+    },
+    "icann_normalized_domain": "qualyhqpartner.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.qualyhqportal.com",
+    "psl_domain": "qualyhqportal.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Qualy : https://qualyhq.com",
+      "requestor_organization": "Qualy",
+      "requestor_organization_url": "https://qualyhq.com",
+      "requestor_contact_name": "Raphael Arias",
+      "requestor_contact_email": "security@qualyhq.com"
+    },
+    "icann_normalized_domain": "qualyhqportal.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "qbuser.com",
     "psl_domain": "qbuser.com",
     "section": "private",
@@ -150478,6 +150574,22 @@
     },
     "icann_normalized_domain": "rb-hosting.io",
     "icann_tld": "io"
+  },
+  {
+    "psl_entry_string": "up.railway.app",
+    "psl_domain": "up.railway.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Railway Corporation : https://railway.com",
+      "requestor_organization": "Railway Corporation",
+      "requestor_organization_url": "https://railway.com",
+      "requestor_contact_name": "Phineas Walton",
+      "requestor_contact_email": "dns@railway.com"
+    },
+    "icann_normalized_domain": "railway.app",
+    "icann_tld": "app"
   },
   {
     "psl_entry_string": "*.on-rancher.cloud",
@@ -155744,6 +155856,38 @@
     "icann_tld": "de"
   },
   {
+    "psl_entry_string": "erp.dev",
+    "psl_domain": "erp.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Tailor Inc. : https://www.tailor.tech",
+      "requestor_organization": "Tailor Inc.",
+      "requestor_organization_url": "https://www.tailor.tech",
+      "requestor_contact_name": "Ryuzo Yamamoto",
+      "requestor_contact_email": "psl-maintainers@tailor.tech"
+    },
+    "icann_normalized_domain": "erp.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "web.erp.dev",
+    "psl_domain": "web.erp.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Tailor Inc. : https://www.tailor.tech",
+      "requestor_organization": "Tailor Inc.",
+      "requestor_organization_url": "https://www.tailor.tech",
+      "requestor_contact_name": "Ryuzo Yamamoto",
+      "requestor_contact_email": "psl-maintainers@tailor.tech"
+    },
+    "icann_normalized_domain": "erp.dev",
+    "icann_tld": "dev"
+  },
+  {
     "psl_entry_string": "ts.net",
     "psl_domain": "ts.net",
     "section": "private",
@@ -158622,5 +158766,21 @@
     },
     "icann_normalized_domain": "zone.id",
     "icann_tld": "id"
+  },
+  {
+    "psl_entry_string": "zabc.net",
+    "psl_domain": "zabc.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ZoneABC : https://zoneabc.net",
+      "requestor_organization": "ZoneABC",
+      "requestor_organization_url": "https://zoneabc.net",
+      "requestor_contact_name": "ZoneABC Team",
+      "requestor_contact_email": "support@zoneabc.net"
+    },
+    "icann_normalized_domain": "zabc.net",
+    "icann_tld": "net"
   }
 ]
