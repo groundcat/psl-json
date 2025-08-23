@@ -92838,8 +92838,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-07-16T15:22:08Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-07-16T15:22:08Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-08-19T15:20:18Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-08-19T15:20:18Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -103270,8 +103270,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "nra : NRA Holdings Company, INC.",
-      "requestor_organization": "nra : NRA Holdings Company, INC.",
+      "requestor_description": "nra : National Rifle Association of America",
+      "requestor_organization": "nra : National Rifle Association of America",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -110854,9 +110854,9 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "611 blockchain domain name system : https://611project.net/",
+      "requestor_description": "611 blockchain domain name system : https://sixone.one/",
       "requestor_organization": "611 blockchain domain name system",
-      "requestor_organization_url": "https://611project.net/",
+      "requestor_organization_url": "https://sixone.one/",
       "requestor_contact_name": null,
       "requestor_contact_email": null
     },
@@ -137552,22 +137552,6 @@
     "icann_tld": "si"
   },
   {
-    "psl_entry_string": "glitch.me",
-    "psl_domain": "glitch.me",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Glitch, Inc : https://glitch.com",
-      "requestor_organization": "Glitch, Inc",
-      "requestor_organization_url": "https://glitch.com",
-      "requestor_contact_name": "Mads Hartmann",
-      "requestor_contact_email": "mads@glitch.com"
-    },
-    "icann_normalized_domain": "glitch.me",
-    "icann_tld": "me"
-  },
-  {
     "psl_entry_string": "nog.community",
     "psl_domain": "nog.community",
     "section": "private",
@@ -145790,6 +145774,38 @@
     },
     "icann_normalized_domain": "routingthecloud.org",
     "icann_tld": "org"
+  },
+  {
+    "psl_entry_string": "same-app.com",
+    "psl_domain": "same-app.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Million Software, Inc : https://million.dev/",
+      "requestor_organization": "Million Software, Inc",
+      "requestor_organization_url": "https://million.dev/",
+      "requestor_contact_name": "Rayhan Noufal Arayilakath",
+      "requestor_contact_email": "security@million.dev"
+    },
+    "icann_normalized_domain": "same-app.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "same-preview.com",
+    "psl_domain": "same-preview.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Million Software, Inc : https://million.dev/",
+      "requestor_organization": "Million Software, Inc",
+      "requestor_organization_url": "https://million.dev/",
+      "requestor_contact_name": "Rayhan Noufal Arayilakath",
+      "requestor_contact_email": "security@million.dev"
+    },
+    "icann_normalized_domain": "same-preview.com",
+    "icann_tld": "com"
   },
   {
     "psl_entry_string": "csx.cc",
@@ -158016,6 +158032,38 @@
     "icann_tld": "app"
   },
   {
+    "psl_entry_string": "hrsn.au",
+    "psl_domain": "hrsn.au",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "William Harrison : https://wharrison.com.au",
+      "requestor_organization": "William Harrison",
+      "requestor_organization_url": "https://wharrison.com.au",
+      "requestor_contact_name": "William Harrison",
+      "requestor_contact_email": "security@wharrison.com.au"
+    },
+    "icann_normalized_domain": "hrsn.au",
+    "icann_tld": "au"
+  },
+  {
+    "psl_entry_string": "vps.hrsn.au",
+    "psl_domain": "vps.hrsn.au",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "William Harrison : https://wharrison.com.au",
+      "requestor_organization": "William Harrison",
+      "requestor_organization_url": "https://wharrison.com.au",
+      "requestor_contact_name": "William Harrison",
+      "requestor_contact_email": "security@wharrison.com.au"
+    },
+    "icann_normalized_domain": "hrsn.au",
+    "icann_tld": "au"
+  },
+  {
     "psl_entry_string": "hrsn.dev",
     "psl_domain": "hrsn.dev",
     "section": "private",
@@ -158526,6 +158574,22 @@
     },
     "icann_normalized_domain": "yandexcloud.net",
     "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "sourcecraft.site",
+    "psl_domain": "sourcecraft.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Yandex.Cloud LLC : https://cloud.yandex.com",
+      "requestor_organization": "Yandex.Cloud LLC",
+      "requestor_organization_url": "https://cloud.yandex.com",
+      "requestor_contact_name": "Alexander Lodin",
+      "requestor_contact_email": "security+psl@yandex-team.ru"
+    },
+    "icann_normalized_domain": "sourcecraft.site",
+    "icann_tld": "site"
   },
   {
     "psl_entry_string": "official.academy",
