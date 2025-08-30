@@ -3376,22 +3376,6 @@
     "icann_tld": "wa.gov.au"
   },
   {
-    "psl_entry_string": "schools.nsw.edu.au",
-    "psl_domain": "schools.nsw.edu.au",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "au : https://www.iana.org/domains/root/db/au.html",
-      "requestor_organization": "au",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/au.html",
-      "requestor_contact_name": "registry",
-      "requestor_contact_email": "general@auda.org.au"
-    },
-    "icann_normalized_domain": "schools.nsw.edu.au",
-    "icann_tld": "schools.nsw.edu.au"
-  },
-  {
     "psl_entry_string": "aw",
     "psl_domain": "aw",
     "section": "icann",
@@ -6192,6 +6176,22 @@
     "icann_tld": "aparecida.br"
   },
   {
+    "psl_entry_string": "api.br",
+    "psl_domain": "api.br",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "br : http://registro.br/dominio/categoria.html",
+      "requestor_organization": "br",
+      "requestor_organization_url": "http://registro.br/dominio/categoria.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "fneves@registro.br"
+    },
+    "icann_normalized_domain": "api.br",
+    "icann_tld": "api.br"
+  },
+  {
     "psl_entry_string": "app.br",
     "psl_domain": "app.br",
     "section": "icann",
@@ -7536,6 +7536,22 @@
     "icann_tld": "gru.br"
   },
   {
+    "psl_entry_string": "ia.br",
+    "psl_domain": "ia.br",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "br : http://registro.br/dominio/categoria.html",
+      "requestor_organization": "br",
+      "requestor_organization_url": "http://registro.br/dominio/categoria.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "fneves@registro.br"
+    },
+    "icann_normalized_domain": "ia.br",
+    "icann_tld": "ia.br"
+  },
+  {
     "psl_entry_string": "imb.br",
     "psl_domain": "imb.br",
     "section": "icann",
@@ -8496,6 +8512,22 @@
     "icann_tld": "slz.br"
   },
   {
+    "psl_entry_string": "social.br",
+    "psl_domain": "social.br",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "br : http://registro.br/dominio/categoria.html",
+      "requestor_organization": "br",
+      "requestor_organization_url": "http://registro.br/dominio/categoria.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "fneves@registro.br"
+    },
+    "icann_normalized_domain": "social.br",
+    "icann_tld": "social.br"
+  },
+  {
     "psl_entry_string": "sorocaba.br",
     "psl_domain": "sorocaba.br",
     "section": "icann",
@@ -8750,6 +8782,22 @@
     },
     "icann_normalized_domain": "wiki.br",
     "icann_tld": "wiki.br"
+  },
+  {
+    "psl_entry_string": "xyz.br",
+    "psl_domain": "xyz.br",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "br : http://registro.br/dominio/categoria.html",
+      "requestor_organization": "br",
+      "requestor_organization_url": "http://registro.br/dominio/categoria.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "fneves@registro.br"
+    },
+    "icann_normalized_domain": "xyz.br",
+    "icann_tld": "xyz.br"
   },
   {
     "psl_entry_string": "zlg.br",
@@ -86864,6 +86912,22 @@
     "icann_tld": "cc.fl.us"
   },
   {
+    "psl_entry_string": "lib.fl.us",
+    "psl_domain": "lib.fl.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.fl.us",
+    "icann_tld": "lib.fl.us"
+  },
+  {
     "psl_entry_string": "cc.ga.us",
     "psl_domain": "cc.ga.us",
     "section": "icann",
@@ -86878,6 +86942,22 @@
     },
     "icann_normalized_domain": "cc.ga.us",
     "icann_tld": "cc.ga.us"
+  },
+  {
+    "psl_entry_string": "lib.ga.us",
+    "psl_domain": "lib.ga.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.ga.us",
+    "icann_tld": "lib.ga.us"
   },
   {
     "psl_entry_string": "cc.gu.us",
@@ -86896,6 +86976,22 @@
     "icann_tld": "cc.gu.us"
   },
   {
+    "psl_entry_string": "lib.gu.us",
+    "psl_domain": "lib.gu.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.gu.us",
+    "icann_tld": "lib.gu.us"
+  },
+  {
     "psl_entry_string": "cc.hi.us",
     "psl_domain": "cc.hi.us",
     "section": "icann",
@@ -86910,6 +87006,22 @@
     },
     "icann_normalized_domain": "cc.hi.us",
     "icann_tld": "cc.hi.us"
+  },
+  {
+    "psl_entry_string": "lib.hi.us",
+    "psl_domain": "lib.hi.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.hi.us",
+    "icann_tld": "lib.hi.us"
   },
   {
     "psl_entry_string": "cc.ia.us",
@@ -86928,6 +87040,22 @@
     "icann_tld": "cc.ia.us"
   },
   {
+    "psl_entry_string": "lib.ia.us",
+    "psl_domain": "lib.ia.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.ia.us",
+    "icann_tld": "lib.ia.us"
+  },
+  {
     "psl_entry_string": "cc.id.us",
     "psl_domain": "cc.id.us",
     "section": "icann",
@@ -86942,6 +87070,22 @@
     },
     "icann_normalized_domain": "cc.id.us",
     "icann_tld": "cc.id.us"
+  },
+  {
+    "psl_entry_string": "lib.id.us",
+    "psl_domain": "lib.id.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.id.us",
+    "icann_tld": "lib.id.us"
   },
   {
     "psl_entry_string": "cc.il.us",
@@ -86960,6 +87104,22 @@
     "icann_tld": "cc.il.us"
   },
   {
+    "psl_entry_string": "lib.il.us",
+    "psl_domain": "lib.il.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.il.us",
+    "icann_tld": "lib.il.us"
+  },
+  {
     "psl_entry_string": "cc.in.us",
     "psl_domain": "cc.in.us",
     "section": "icann",
@@ -86974,6 +87134,22 @@
     },
     "icann_normalized_domain": "cc.in.us",
     "icann_tld": "cc.in.us"
+  },
+  {
+    "psl_entry_string": "lib.in.us",
+    "psl_domain": "lib.in.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.in.us",
+    "icann_tld": "lib.in.us"
   },
   {
     "psl_entry_string": "cc.ks.us",
@@ -86992,6 +87168,22 @@
     "icann_tld": "cc.ks.us"
   },
   {
+    "psl_entry_string": "lib.ks.us",
+    "psl_domain": "lib.ks.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.ks.us",
+    "icann_tld": "lib.ks.us"
+  },
+  {
     "psl_entry_string": "cc.ky.us",
     "psl_domain": "cc.ky.us",
     "section": "icann",
@@ -87006,6 +87198,22 @@
     },
     "icann_normalized_domain": "cc.ky.us",
     "icann_tld": "cc.ky.us"
+  },
+  {
+    "psl_entry_string": "lib.ky.us",
+    "psl_domain": "lib.ky.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.ky.us",
+    "icann_tld": "lib.ky.us"
   },
   {
     "psl_entry_string": "cc.la.us",
@@ -87024,6 +87232,22 @@
     "icann_tld": "cc.la.us"
   },
   {
+    "psl_entry_string": "lib.la.us",
+    "psl_domain": "lib.la.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.la.us",
+    "icann_tld": "lib.la.us"
+  },
+  {
     "psl_entry_string": "cc.ma.us",
     "psl_domain": "cc.ma.us",
     "section": "icann",
@@ -87038,6 +87262,22 @@
     },
     "icann_normalized_domain": "cc.ma.us",
     "icann_tld": "cc.ma.us"
+  },
+  {
+    "psl_entry_string": "lib.ma.us",
+    "psl_domain": "lib.ma.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.ma.us",
+    "icann_tld": "lib.ma.us"
   },
   {
     "psl_entry_string": "cc.md.us",
@@ -87056,6 +87296,22 @@
     "icann_tld": "cc.md.us"
   },
   {
+    "psl_entry_string": "lib.md.us",
+    "psl_domain": "lib.md.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.md.us",
+    "icann_tld": "lib.md.us"
+  },
+  {
     "psl_entry_string": "cc.me.us",
     "psl_domain": "cc.me.us",
     "section": "icann",
@@ -87070,6 +87326,22 @@
     },
     "icann_normalized_domain": "cc.me.us",
     "icann_tld": "cc.me.us"
+  },
+  {
+    "psl_entry_string": "lib.me.us",
+    "psl_domain": "lib.me.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.me.us",
+    "icann_tld": "lib.me.us"
   },
   {
     "psl_entry_string": "cc.mi.us",
@@ -87088,6 +87360,22 @@
     "icann_tld": "cc.mi.us"
   },
   {
+    "psl_entry_string": "lib.mi.us",
+    "psl_domain": "lib.mi.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.mi.us",
+    "icann_tld": "lib.mi.us"
+  },
+  {
     "psl_entry_string": "cc.mn.us",
     "psl_domain": "cc.mn.us",
     "section": "icann",
@@ -87102,6 +87390,22 @@
     },
     "icann_normalized_domain": "cc.mn.us",
     "icann_tld": "cc.mn.us"
+  },
+  {
+    "psl_entry_string": "lib.mn.us",
+    "psl_domain": "lib.mn.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.mn.us",
+    "icann_tld": "lib.mn.us"
   },
   {
     "psl_entry_string": "cc.mo.us",
@@ -87120,6 +87424,22 @@
     "icann_tld": "cc.mo.us"
   },
   {
+    "psl_entry_string": "lib.mo.us",
+    "psl_domain": "lib.mo.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.mo.us",
+    "icann_tld": "lib.mo.us"
+  },
+  {
     "psl_entry_string": "cc.ms.us",
     "psl_domain": "cc.ms.us",
     "section": "icann",
@@ -87134,6 +87454,22 @@
     },
     "icann_normalized_domain": "cc.ms.us",
     "icann_tld": "cc.ms.us"
+  },
+  {
+    "psl_entry_string": "lib.ms.us",
+    "psl_domain": "lib.ms.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.ms.us",
+    "icann_tld": "lib.ms.us"
   },
   {
     "psl_entry_string": "cc.mt.us",
@@ -87152,6 +87488,22 @@
     "icann_tld": "cc.mt.us"
   },
   {
+    "psl_entry_string": "lib.mt.us",
+    "psl_domain": "lib.mt.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.mt.us",
+    "icann_tld": "lib.mt.us"
+  },
+  {
     "psl_entry_string": "cc.nc.us",
     "psl_domain": "cc.nc.us",
     "section": "icann",
@@ -87166,6 +87518,22 @@
     },
     "icann_normalized_domain": "cc.nc.us",
     "icann_tld": "cc.nc.us"
+  },
+  {
+    "psl_entry_string": "lib.nc.us",
+    "psl_domain": "lib.nc.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.nc.us",
+    "icann_tld": "lib.nc.us"
   },
   {
     "psl_entry_string": "cc.nd.us",
@@ -87184,6 +87552,22 @@
     "icann_tld": "cc.nd.us"
   },
   {
+    "psl_entry_string": "lib.nd.us",
+    "psl_domain": "lib.nd.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.nd.us",
+    "icann_tld": "lib.nd.us"
+  },
+  {
     "psl_entry_string": "cc.ne.us",
     "psl_domain": "cc.ne.us",
     "section": "icann",
@@ -87198,6 +87582,22 @@
     },
     "icann_normalized_domain": "cc.ne.us",
     "icann_tld": "cc.ne.us"
+  },
+  {
+    "psl_entry_string": "lib.ne.us",
+    "psl_domain": "lib.ne.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.ne.us",
+    "icann_tld": "lib.ne.us"
   },
   {
     "psl_entry_string": "cc.nh.us",
@@ -87216,6 +87616,22 @@
     "icann_tld": "cc.nh.us"
   },
   {
+    "psl_entry_string": "lib.nh.us",
+    "psl_domain": "lib.nh.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.nh.us",
+    "icann_tld": "lib.nh.us"
+  },
+  {
     "psl_entry_string": "cc.nj.us",
     "psl_domain": "cc.nj.us",
     "section": "icann",
@@ -87230,6 +87646,22 @@
     },
     "icann_normalized_domain": "cc.nj.us",
     "icann_tld": "cc.nj.us"
+  },
+  {
+    "psl_entry_string": "lib.nj.us",
+    "psl_domain": "lib.nj.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.nj.us",
+    "icann_tld": "lib.nj.us"
   },
   {
     "psl_entry_string": "cc.nm.us",
@@ -87248,6 +87680,22 @@
     "icann_tld": "cc.nm.us"
   },
   {
+    "psl_entry_string": "lib.nm.us",
+    "psl_domain": "lib.nm.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.nm.us",
+    "icann_tld": "lib.nm.us"
+  },
+  {
     "psl_entry_string": "cc.nv.us",
     "psl_domain": "cc.nv.us",
     "section": "icann",
@@ -87262,6 +87710,22 @@
     },
     "icann_normalized_domain": "cc.nv.us",
     "icann_tld": "cc.nv.us"
+  },
+  {
+    "psl_entry_string": "lib.nv.us",
+    "psl_domain": "lib.nv.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.nv.us",
+    "icann_tld": "lib.nv.us"
   },
   {
     "psl_entry_string": "cc.ny.us",
@@ -87280,6 +87744,22 @@
     "icann_tld": "cc.ny.us"
   },
   {
+    "psl_entry_string": "lib.ny.us",
+    "psl_domain": "lib.ny.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.ny.us",
+    "icann_tld": "lib.ny.us"
+  },
+  {
     "psl_entry_string": "cc.oh.us",
     "psl_domain": "cc.oh.us",
     "section": "icann",
@@ -87294,6 +87774,22 @@
     },
     "icann_normalized_domain": "cc.oh.us",
     "icann_tld": "cc.oh.us"
+  },
+  {
+    "psl_entry_string": "lib.oh.us",
+    "psl_domain": "lib.oh.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.oh.us",
+    "icann_tld": "lib.oh.us"
   },
   {
     "psl_entry_string": "cc.ok.us",
@@ -87312,6 +87808,22 @@
     "icann_tld": "cc.ok.us"
   },
   {
+    "psl_entry_string": "lib.ok.us",
+    "psl_domain": "lib.ok.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.ok.us",
+    "icann_tld": "lib.ok.us"
+  },
+  {
     "psl_entry_string": "cc.or.us",
     "psl_domain": "cc.or.us",
     "section": "icann",
@@ -87326,6 +87838,22 @@
     },
     "icann_normalized_domain": "cc.or.us",
     "icann_tld": "cc.or.us"
+  },
+  {
+    "psl_entry_string": "lib.or.us",
+    "psl_domain": "lib.or.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.or.us",
+    "icann_tld": "lib.or.us"
   },
   {
     "psl_entry_string": "cc.pa.us",
@@ -87344,6 +87872,22 @@
     "icann_tld": "cc.pa.us"
   },
   {
+    "psl_entry_string": "lib.pa.us",
+    "psl_domain": "lib.pa.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.pa.us",
+    "icann_tld": "lib.pa.us"
+  },
+  {
     "psl_entry_string": "cc.pr.us",
     "psl_domain": "cc.pr.us",
     "section": "icann",
@@ -87358,6 +87902,22 @@
     },
     "icann_normalized_domain": "cc.pr.us",
     "icann_tld": "cc.pr.us"
+  },
+  {
+    "psl_entry_string": "lib.pr.us",
+    "psl_domain": "lib.pr.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.pr.us",
+    "icann_tld": "lib.pr.us"
   },
   {
     "psl_entry_string": "cc.ri.us",
@@ -87376,6 +87936,22 @@
     "icann_tld": "cc.ri.us"
   },
   {
+    "psl_entry_string": "lib.ri.us",
+    "psl_domain": "lib.ri.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.ri.us",
+    "icann_tld": "lib.ri.us"
+  },
+  {
     "psl_entry_string": "cc.sc.us",
     "psl_domain": "cc.sc.us",
     "section": "icann",
@@ -87390,6 +87966,22 @@
     },
     "icann_normalized_domain": "cc.sc.us",
     "icann_tld": "cc.sc.us"
+  },
+  {
+    "psl_entry_string": "lib.sc.us",
+    "psl_domain": "lib.sc.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.sc.us",
+    "icann_tld": "lib.sc.us"
   },
   {
     "psl_entry_string": "cc.sd.us",
@@ -87408,6 +88000,22 @@
     "icann_tld": "cc.sd.us"
   },
   {
+    "psl_entry_string": "lib.sd.us",
+    "psl_domain": "lib.sd.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.sd.us",
+    "icann_tld": "lib.sd.us"
+  },
+  {
     "psl_entry_string": "cc.tn.us",
     "psl_domain": "cc.tn.us",
     "section": "icann",
@@ -87422,6 +88030,22 @@
     },
     "icann_normalized_domain": "cc.tn.us",
     "icann_tld": "cc.tn.us"
+  },
+  {
+    "psl_entry_string": "lib.tn.us",
+    "psl_domain": "lib.tn.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.tn.us",
+    "icann_tld": "lib.tn.us"
   },
   {
     "psl_entry_string": "cc.tx.us",
@@ -87440,6 +88064,22 @@
     "icann_tld": "cc.tx.us"
   },
   {
+    "psl_entry_string": "lib.tx.us",
+    "psl_domain": "lib.tx.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.tx.us",
+    "icann_tld": "lib.tx.us"
+  },
+  {
     "psl_entry_string": "cc.ut.us",
     "psl_domain": "cc.ut.us",
     "section": "icann",
@@ -87454,6 +88094,22 @@
     },
     "icann_normalized_domain": "cc.ut.us",
     "icann_tld": "cc.ut.us"
+  },
+  {
+    "psl_entry_string": "lib.ut.us",
+    "psl_domain": "lib.ut.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.ut.us",
+    "icann_tld": "lib.ut.us"
   },
   {
     "psl_entry_string": "cc.va.us",
@@ -87472,6 +88128,22 @@
     "icann_tld": "cc.va.us"
   },
   {
+    "psl_entry_string": "lib.va.us",
+    "psl_domain": "lib.va.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.va.us",
+    "icann_tld": "lib.va.us"
+  },
+  {
     "psl_entry_string": "cc.vi.us",
     "psl_domain": "cc.vi.us",
     "section": "icann",
@@ -87486,6 +88158,22 @@
     },
     "icann_normalized_domain": "cc.vi.us",
     "icann_tld": "cc.vi.us"
+  },
+  {
+    "psl_entry_string": "lib.vi.us",
+    "psl_domain": "lib.vi.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.vi.us",
+    "icann_tld": "lib.vi.us"
   },
   {
     "psl_entry_string": "cc.vt.us",
@@ -87504,6 +88192,22 @@
     "icann_tld": "cc.vt.us"
   },
   {
+    "psl_entry_string": "lib.vt.us",
+    "psl_domain": "lib.vt.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.vt.us",
+    "icann_tld": "lib.vt.us"
+  },
+  {
     "psl_entry_string": "cc.wa.us",
     "psl_domain": "cc.wa.us",
     "section": "icann",
@@ -87520,6 +88224,22 @@
     "icann_tld": "cc.wa.us"
   },
   {
+    "psl_entry_string": "lib.wa.us",
+    "psl_domain": "lib.wa.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.wa.us",
+    "icann_tld": "lib.wa.us"
+  },
+  {
     "psl_entry_string": "cc.wi.us",
     "psl_domain": "cc.wi.us",
     "section": "icann",
@@ -87534,6 +88254,22 @@
     },
     "icann_normalized_domain": "cc.wi.us",
     "icann_tld": "cc.wi.us"
+  },
+  {
+    "psl_entry_string": "lib.wi.us",
+    "psl_domain": "lib.wi.us",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
+      "requestor_organization": "us",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "lib.wi.us",
+    "icann_tld": "lib.wi.us"
   },
   {
     "psl_entry_string": "cc.wv.us",
@@ -87582,694 +88318,6 @@
     },
     "icann_normalized_domain": "k12.wy.us",
     "icann_tld": "k12.wy.us"
-  },
-  {
-    "psl_entry_string": "lib.fl.us",
-    "psl_domain": "lib.fl.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.fl.us",
-    "icann_tld": "lib.fl.us"
-  },
-  {
-    "psl_entry_string": "lib.ga.us",
-    "psl_domain": "lib.ga.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.ga.us",
-    "icann_tld": "lib.ga.us"
-  },
-  {
-    "psl_entry_string": "lib.gu.us",
-    "psl_domain": "lib.gu.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.gu.us",
-    "icann_tld": "lib.gu.us"
-  },
-  {
-    "psl_entry_string": "lib.hi.us",
-    "psl_domain": "lib.hi.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.hi.us",
-    "icann_tld": "lib.hi.us"
-  },
-  {
-    "psl_entry_string": "lib.ia.us",
-    "psl_domain": "lib.ia.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.ia.us",
-    "icann_tld": "lib.ia.us"
-  },
-  {
-    "psl_entry_string": "lib.id.us",
-    "psl_domain": "lib.id.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.id.us",
-    "icann_tld": "lib.id.us"
-  },
-  {
-    "psl_entry_string": "lib.il.us",
-    "psl_domain": "lib.il.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.il.us",
-    "icann_tld": "lib.il.us"
-  },
-  {
-    "psl_entry_string": "lib.in.us",
-    "psl_domain": "lib.in.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.in.us",
-    "icann_tld": "lib.in.us"
-  },
-  {
-    "psl_entry_string": "lib.ks.us",
-    "psl_domain": "lib.ks.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.ks.us",
-    "icann_tld": "lib.ks.us"
-  },
-  {
-    "psl_entry_string": "lib.ky.us",
-    "psl_domain": "lib.ky.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.ky.us",
-    "icann_tld": "lib.ky.us"
-  },
-  {
-    "psl_entry_string": "lib.la.us",
-    "psl_domain": "lib.la.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.la.us",
-    "icann_tld": "lib.la.us"
-  },
-  {
-    "psl_entry_string": "lib.ma.us",
-    "psl_domain": "lib.ma.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.ma.us",
-    "icann_tld": "lib.ma.us"
-  },
-  {
-    "psl_entry_string": "lib.md.us",
-    "psl_domain": "lib.md.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.md.us",
-    "icann_tld": "lib.md.us"
-  },
-  {
-    "psl_entry_string": "lib.me.us",
-    "psl_domain": "lib.me.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.me.us",
-    "icann_tld": "lib.me.us"
-  },
-  {
-    "psl_entry_string": "lib.mi.us",
-    "psl_domain": "lib.mi.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.mi.us",
-    "icann_tld": "lib.mi.us"
-  },
-  {
-    "psl_entry_string": "lib.mn.us",
-    "psl_domain": "lib.mn.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.mn.us",
-    "icann_tld": "lib.mn.us"
-  },
-  {
-    "psl_entry_string": "lib.mo.us",
-    "psl_domain": "lib.mo.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.mo.us",
-    "icann_tld": "lib.mo.us"
-  },
-  {
-    "psl_entry_string": "lib.ms.us",
-    "psl_domain": "lib.ms.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.ms.us",
-    "icann_tld": "lib.ms.us"
-  },
-  {
-    "psl_entry_string": "lib.mt.us",
-    "psl_domain": "lib.mt.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.mt.us",
-    "icann_tld": "lib.mt.us"
-  },
-  {
-    "psl_entry_string": "lib.nc.us",
-    "psl_domain": "lib.nc.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.nc.us",
-    "icann_tld": "lib.nc.us"
-  },
-  {
-    "psl_entry_string": "lib.nd.us",
-    "psl_domain": "lib.nd.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.nd.us",
-    "icann_tld": "lib.nd.us"
-  },
-  {
-    "psl_entry_string": "lib.ne.us",
-    "psl_domain": "lib.ne.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.ne.us",
-    "icann_tld": "lib.ne.us"
-  },
-  {
-    "psl_entry_string": "lib.nh.us",
-    "psl_domain": "lib.nh.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.nh.us",
-    "icann_tld": "lib.nh.us"
-  },
-  {
-    "psl_entry_string": "lib.nj.us",
-    "psl_domain": "lib.nj.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.nj.us",
-    "icann_tld": "lib.nj.us"
-  },
-  {
-    "psl_entry_string": "lib.nm.us",
-    "psl_domain": "lib.nm.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.nm.us",
-    "icann_tld": "lib.nm.us"
-  },
-  {
-    "psl_entry_string": "lib.nv.us",
-    "psl_domain": "lib.nv.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.nv.us",
-    "icann_tld": "lib.nv.us"
-  },
-  {
-    "psl_entry_string": "lib.ny.us",
-    "psl_domain": "lib.ny.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.ny.us",
-    "icann_tld": "lib.ny.us"
-  },
-  {
-    "psl_entry_string": "lib.oh.us",
-    "psl_domain": "lib.oh.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.oh.us",
-    "icann_tld": "lib.oh.us"
-  },
-  {
-    "psl_entry_string": "lib.ok.us",
-    "psl_domain": "lib.ok.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.ok.us",
-    "icann_tld": "lib.ok.us"
-  },
-  {
-    "psl_entry_string": "lib.or.us",
-    "psl_domain": "lib.or.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.or.us",
-    "icann_tld": "lib.or.us"
-  },
-  {
-    "psl_entry_string": "lib.pa.us",
-    "psl_domain": "lib.pa.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.pa.us",
-    "icann_tld": "lib.pa.us"
-  },
-  {
-    "psl_entry_string": "lib.pr.us",
-    "psl_domain": "lib.pr.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.pr.us",
-    "icann_tld": "lib.pr.us"
-  },
-  {
-    "psl_entry_string": "lib.ri.us",
-    "psl_domain": "lib.ri.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.ri.us",
-    "icann_tld": "lib.ri.us"
-  },
-  {
-    "psl_entry_string": "lib.sc.us",
-    "psl_domain": "lib.sc.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.sc.us",
-    "icann_tld": "lib.sc.us"
-  },
-  {
-    "psl_entry_string": "lib.sd.us",
-    "psl_domain": "lib.sd.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.sd.us",
-    "icann_tld": "lib.sd.us"
-  },
-  {
-    "psl_entry_string": "lib.tn.us",
-    "psl_domain": "lib.tn.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.tn.us",
-    "icann_tld": "lib.tn.us"
-  },
-  {
-    "psl_entry_string": "lib.tx.us",
-    "psl_domain": "lib.tx.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.tx.us",
-    "icann_tld": "lib.tx.us"
-  },
-  {
-    "psl_entry_string": "lib.ut.us",
-    "psl_domain": "lib.ut.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.ut.us",
-    "icann_tld": "lib.ut.us"
-  },
-  {
-    "psl_entry_string": "lib.va.us",
-    "psl_domain": "lib.va.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.va.us",
-    "icann_tld": "lib.va.us"
-  },
-  {
-    "psl_entry_string": "lib.vi.us",
-    "psl_domain": "lib.vi.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.vi.us",
-    "icann_tld": "lib.vi.us"
-  },
-  {
-    "psl_entry_string": "lib.vt.us",
-    "psl_domain": "lib.vt.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.vt.us",
-    "icann_tld": "lib.vt.us"
-  },
-  {
-    "psl_entry_string": "lib.wa.us",
-    "psl_domain": "lib.wa.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.wa.us",
-    "icann_tld": "lib.wa.us"
-  },
-  {
-    "psl_entry_string": "lib.wi.us",
-    "psl_domain": "lib.wi.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.wi.us",
-    "icann_tld": "lib.wi.us"
   },
   {
     "psl_entry_string": "lib.wy.us",
@@ -92838,8 +92886,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-08-19T15:20:18Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-08-19T15:20:18Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-08-27T15:19:08Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-08-27T15:19:08Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -104704,22 +104752,6 @@
     "icann_tld": "red"
   },
   {
-    "psl_entry_string": "redstone",
-    "psl_domain": "redstone",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "redstone : Redstone Haute Couture Co., Ltd.",
-      "requestor_organization": "redstone : Redstone Haute Couture Co., Ltd.",
-      "requestor_organization_url": null,
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "redstone",
-    "icann_tld": "redstone"
-  },
-  {
     "psl_entry_string": "redumbrella",
     "psl_domain": "redumbrella",
     "section": "icann",
@@ -110734,22 +110766,6 @@
     },
     "icann_normalized_domain": "zakopane.pl",
     "icann_tld": "pl"
-  },
-  {
-    "psl_entry_string": "lib.de.us",
-    "psl_domain": "lib.de.us",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": ".US",
-      "requestor_organization": ".US",
-      "requestor_organization_url": null,
-      "requestor_contact_name": "Ed Moore",
-      "requestor_contact_email": "Ed.Moore@lib.de.us"
-    },
-    "icann_normalized_domain": "de.us",
-    "icann_tld": "us"
   },
   {
     "psl_entry_string": "12chars.dev",
@@ -143088,6 +143104,22 @@
     "icann_tld": "ru"
   },
   {
+    "psl_entry_string": "jote.cloud",
+    "psl_domain": "jote.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Jotelulu S.L. : https://jotelulu.com",
+      "requestor_organization": "Jotelulu S.L.",
+      "requestor_organization_url": "https://jotelulu.com",
+      "requestor_contact_name": "Daniel Fariña",
+      "requestor_contact_email": "ingenieria@jotelulu.com"
+    },
+    "icann_normalized_domain": "jote.cloud",
+    "icann_tld": "cloud"
+  },
+  {
     "psl_entry_string": "jotelulu.cloud",
     "psl_domain": "jotelulu.cloud",
     "section": "private",
@@ -155497,8 +155529,40 @@
       "requestor_description": "Supabase : https://supabase.io",
       "requestor_organization": "Supabase",
       "requestor_organization_url": "https://supabase.io",
-      "requestor_contact_name": "Inian Parameshwaran",
-      "requestor_contact_email": "security@supabase.io"
+      "requestor_contact_name": "Supabase Security",
+      "requestor_contact_email": "psl-maintainers@supabase.io"
+    },
+    "icann_normalized_domain": "supabase.co",
+    "icann_tld": "co"
+  },
+  {
+    "psl_entry_string": "realtime.supabase.co",
+    "psl_domain": "realtime.supabase.co",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Supabase : https://supabase.io",
+      "requestor_organization": "Supabase",
+      "requestor_organization_url": "https://supabase.io",
+      "requestor_contact_name": "Supabase Security",
+      "requestor_contact_email": "psl-maintainers@supabase.io"
+    },
+    "icann_normalized_domain": "supabase.co",
+    "icann_tld": "co"
+  },
+  {
+    "psl_entry_string": "storage.supabase.co",
+    "psl_domain": "storage.supabase.co",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Supabase : https://supabase.io",
+      "requestor_organization": "Supabase",
+      "requestor_organization_url": "https://supabase.io",
+      "requestor_contact_name": "Supabase Security",
+      "requestor_contact_email": "psl-maintainers@supabase.io"
     },
     "icann_normalized_domain": "supabase.co",
     "icann_tld": "co"
@@ -155513,8 +155577,8 @@
       "requestor_description": "Supabase : https://supabase.io",
       "requestor_organization": "Supabase",
       "requestor_organization_url": "https://supabase.io",
-      "requestor_contact_name": "Inian Parameshwaran",
-      "requestor_contact_email": "security@supabase.io"
+      "requestor_contact_name": "Supabase Security",
+      "requestor_contact_email": "psl-maintainers@supabase.io"
     },
     "icann_normalized_domain": "supabase.in",
     "icann_tld": "in"
@@ -155529,8 +155593,8 @@
       "requestor_description": "Supabase : https://supabase.io",
       "requestor_organization": "Supabase",
       "requestor_organization_url": "https://supabase.io",
-      "requestor_contact_name": "Inian Parameshwaran",
-      "requestor_contact_email": "security@supabase.io"
+      "requestor_contact_name": "Supabase Security",
+      "requestor_contact_email": "psl-maintainers@supabase.io"
     },
     "icann_normalized_domain": "supabase.net",
     "icann_tld": "net"
@@ -157662,6 +157726,22 @@
     },
     "icann_normalized_domain": "wafflecell.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "wal.app",
+    "psl_domain": "wal.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Walrus : https://walrus.xyz",
+      "requestor_organization": "Walrus",
+      "requestor_organization_url": "https://walrus.xyz",
+      "requestor_contact_name": "Max Spector",
+      "requestor_contact_email": "info@walrus.xyz"
+    },
+    "icann_normalized_domain": "wal.app",
+    "icann_tld": "app"
   },
   {
     "psl_entry_string": "webflow.io",
