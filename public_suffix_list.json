@@ -87456,22 +87456,6 @@
     "icann_tld": "cc.ms.us"
   },
   {
-    "psl_entry_string": "lib.ms.us",
-    "psl_domain": "lib.ms.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.ms.us",
-    "icann_tld": "lib.ms.us"
-  },
-  {
     "psl_entry_string": "cc.mt.us",
     "psl_domain": "cc.mt.us",
     "section": "icann",
@@ -125120,6 +125104,22 @@
     "icann_tld": "io"
   },
   {
+    "psl_entry_string": "shop.brendly.ba",
+    "psl_domain": "shop.brendly.ba",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Brendly : https://brendly.rs",
+      "requestor_organization": "Brendly",
+      "requestor_organization_url": "https://brendly.rs",
+      "requestor_contact_name": "Dusan Radovanovic",
+      "requestor_contact_email": "administracija@brendly.rs"
+    },
+    "icann_normalized_domain": "brendly.ba",
+    "icann_tld": "ba"
+  },
+  {
     "psl_entry_string": "shop.brendly.hr",
     "psl_domain": "shop.brendly.hr",
     "section": "private",
@@ -139806,6 +139806,22 @@
     },
     "icann_normalized_domain": "günstigliefern.de",
     "icann_tld": "de"
+  },
+  {
+    "psl_entry_string": "hackclub.app",
+    "psl_domain": "hackclub.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Hackclub Nest : https://hackclub.app",
+      "requestor_organization": "Hackclub Nest",
+      "requestor_organization_url": "https://hackclub.app",
+      "requestor_contact_name": "Cyteon",
+      "requestor_contact_email": "admins@hackclub.app"
+    },
+    "icann_normalized_domain": "hackclub.app",
+    "icann_tld": "app"
   },
   {
     "psl_entry_string": "häkkinen.fi",
