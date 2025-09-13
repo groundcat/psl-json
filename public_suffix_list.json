@@ -128464,22 +128464,6 @@
     "icann_tld": "com"
   },
   {
-    "psl_entry_string": "mydrobo.com",
-    "psl_domain": "mydrobo.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Drobo : http://www.drobo.com/",
-      "requestor_organization": "Drobo",
-      "requestor_organization_url": "http://www.drobo.com/",
-      "requestor_contact_name": "Ricardo Padilha",
-      "requestor_contact_email": "rpadilha@drobo.com"
-    },
-    "icann_normalized_domain": "mydrobo.com",
-    "icann_tld": "com"
-  },
-  {
     "psl_entry_string": "duckdns.org",
     "psl_domain": "duckdns.org",
     "section": "private",
@@ -144174,22 +144158,6 @@
     },
     "icann_normalized_domain": "lohmus.me",
     "icann_tld": "me"
-  },
-  {
-    "psl_entry_string": "servers.run",
-    "psl_domain": "servers.run",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Lokalized : https://lokalized.nl",
-      "requestor_organization": "Lokalized",
-      "requestor_organization_url": "https://lokalized.nl",
-      "requestor_contact_name": "Noah Taheij",
-      "requestor_contact_email": "noah@lokalized.nl"
-    },
-    "icann_normalized_domain": "servers.run",
-    "icann_tld": "run"
   },
   {
     "psl_entry_string": "lovable.app",
