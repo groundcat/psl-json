@@ -143136,6 +143136,38 @@
     "icann_tld": "cloud"
   },
   {
+    "psl_entry_string": "jote-dr-lt1.com",
+    "psl_domain": "jote-dr-lt1.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Jotelulu S.L. : https://jotelulu.com",
+      "requestor_organization": "Jotelulu S.L.",
+      "requestor_organization_url": "https://jotelulu.com",
+      "requestor_contact_name": "Daniel Fariña",
+      "requestor_contact_email": "ingenieria@jotelulu.com"
+    },
+    "icann_normalized_domain": "jote-dr-lt1.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "jote-rd-lt1.com",
+    "psl_domain": "jote-rd-lt1.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Jotelulu S.L. : https://jotelulu.com",
+      "requestor_organization": "Jotelulu S.L.",
+      "requestor_organization_url": "https://jotelulu.com",
+      "requestor_contact_name": "Daniel Fariña",
+      "requestor_contact_email": "ingenieria@jotelulu.com"
+    },
+    "icann_normalized_domain": "jote-rd-lt1.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "webadorsite.com",
     "psl_domain": "webadorsite.com",
     "section": "private",
@@ -149662,6 +149694,22 @@
     },
     "icann_normalized_domain": "perspecta.cloud",
     "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "support.site",
+    "psl_domain": "support.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Plain : https://www.plain.com/",
+      "requestor_organization": "Plain",
+      "requestor_organization_url": "https://www.plain.com/",
+      "requestor_contact_name": "Jesús Hernández",
+      "requestor_contact_email": "security@plain.com"
+    },
+    "icann_normalized_domain": "support.site",
+    "icann_tld": "site"
   },
   {
     "psl_entry_string": "on-web.fr",
