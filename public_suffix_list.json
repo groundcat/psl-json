@@ -111216,54 +111216,6 @@
     "icann_tld": "pl"
   },
   {
-    "psl_entry_string": "airkitapps.com",
-    "psl_domain": "airkitapps.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Airkit : https://www.airkit.com/",
-      "requestor_organization": "Airkit",
-      "requestor_organization_url": "https://www.airkit.com/",
-      "requestor_contact_name": "Grant Cooksey",
-      "requestor_contact_email": "security@airkit.com"
-    },
-    "icann_normalized_domain": "airkitapps.com",
-    "icann_tld": "com"
-  },
-  {
-    "psl_entry_string": "airkitapps-au.com",
-    "psl_domain": "airkitapps-au.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Airkit : https://www.airkit.com/",
-      "requestor_organization": "Airkit",
-      "requestor_organization_url": "https://www.airkit.com/",
-      "requestor_contact_name": "Grant Cooksey",
-      "requestor_contact_email": "security@airkit.com"
-    },
-    "icann_normalized_domain": "airkitapps-au.com",
-    "icann_tld": "com"
-  },
-  {
-    "psl_entry_string": "airkitapps.eu",
-    "psl_domain": "airkitapps.eu",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Airkit : https://www.airkit.com/",
-      "requestor_organization": "Airkit",
-      "requestor_organization_url": "https://www.airkit.com/",
-      "requestor_contact_name": "Grant Cooksey",
-      "requestor_contact_email": "security@airkit.com"
-    },
-    "icann_normalized_domain": "airkitapps.eu",
-    "icann_tld": "eu"
-  },
-  {
     "psl_entry_string": "aiven.app",
     "psl_domain": "aiven.app",
     "section": "private",
@@ -125342,6 +125294,38 @@
     },
     "icann_normalized_domain": "canva-apps.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "rice-labs.com",
+    "psl_domain": "rice-labs.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Canva Pty Ltd : https://canva.com/",
+      "requestor_organization": "Canva Pty Ltd",
+      "requestor_organization_url": "https://canva.com/",
+      "requestor_contact_name": "Joel Aquilina",
+      "requestor_contact_email": "publicsuffixlist@canva.com"
+    },
+    "icann_normalized_domain": "rice-labs.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "canva.run",
+    "psl_domain": "canva.run",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Canva Pty Ltd : https://canva.com/",
+      "requestor_organization": "Canva Pty Ltd",
+      "requestor_organization_url": "https://canva.com/",
+      "requestor_contact_name": "Joel Aquilina",
+      "requestor_contact_email": "publicsuffixlist@canva.com"
+    },
+    "icann_normalized_domain": "canva.run",
+    "icann_tld": "run"
   },
   {
     "psl_entry_string": "my.canva.site",
@@ -150144,6 +150128,22 @@
     "icann_tld": "io"
   },
   {
+    "psl_entry_string": "e.id",
+    "psl_domain": "e.id",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "PT Ekossistim Indo Digital : https://e.id",
+      "requestor_organization": "PT Ekossistim Indo Digital",
+      "requestor_organization_url": "https://e.id",
+      "requestor_contact_name": "Eid Team",
+      "requestor_contact_email": "support@corp.e.id"
+    },
+    "icann_normalized_domain": "e.id",
+    "icann_tld": "id"
+  },
+  {
     "psl_entry_string": "chirurgiens-dentistes-en-france.fr",
     "psl_domain": "chirurgiens-dentistes-en-france.fr",
     "section": "private",
@@ -156272,6 +156272,22 @@
     "icann_tld": "xyz"
   },
   {
+    "psl_entry_string": "teleport.sh",
+    "psl_domain": "teleport.sh",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Teleport : https://goteleport.com",
+      "requestor_organization": "Teleport",
+      "requestor_organization_url": "https://goteleport.com",
+      "requestor_contact_name": "Rob Picard",
+      "requestor_contact_email": "security@goteleport.com"
+    },
+    "icann_normalized_domain": "teleport.sh",
+    "icann_tld": "sh"
+  },
+  {
     "psl_entry_string": "*.firenet.ch",
     "psl_domain": "firenet.ch",
     "section": "private",
@@ -158526,6 +158542,22 @@
     },
     "icann_normalized_domain": "wpenginepowered.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.xenonconnect.de",
+    "psl_domain": "xenonconnect.de",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "XenonCloud GbR : https://xenoncloud.net",
+      "requestor_organization": "XenonCloud GbR",
+      "requestor_organization_url": "https://xenoncloud.net",
+      "requestor_contact_name": "Julian Uphoff",
+      "requestor_contact_email": "publicsuffixlist@xenoncloud.net"
+    },
+    "icann_normalized_domain": "xenonconnect.de",
+    "icann_tld": "de"
   },
   {
     "psl_entry_string": "half.host",
