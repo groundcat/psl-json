@@ -92870,8 +92870,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-08-27T15:19:08Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-08-27T15:19:08Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-10-01T15:18:26Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-10-01T15:18:26Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -108454,8 +108454,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "weatherchannel : International Business Machines Corporation",
-      "requestor_organization": "weatherchannel : International Business Machines Corporation",
+      "requestor_description": "weatherchannel : The Weather Company, LLC",
+      "requestor_organization": "weatherchannel : The Weather Company, LLC",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -126160,6 +126160,22 @@
     "icann_tld": "biz"
   },
   {
+    "psl_entry_string": "cloud-ip.cc",
+    "psl_domain": "cloud-ip.cc",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Cloud DNS Ltd : http://www.cloudns.net",
+      "requestor_organization": "Cloud DNS Ltd",
+      "requestor_organization_url": "http://www.cloudns.net",
+      "requestor_contact_name": "Aleksander Hristov",
+      "requestor_contact_email": "noc@cloudns.net"
+    },
+    "icann_normalized_domain": "cloud-ip.cc",
+    "icann_tld": "cc"
+  },
+  {
     "psl_entry_string": "cloudns.cc",
     "psl_domain": "cloudns.cc",
     "section": "private",
@@ -126222,6 +126238,22 @@
     },
     "icann_normalized_domain": "cloudns.club",
     "icann_tld": "club"
+  },
+  {
+    "psl_entry_string": "abrdns.com",
+    "psl_domain": "abrdns.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Cloud DNS Ltd : http://www.cloudns.net",
+      "requestor_organization": "Cloud DNS Ltd",
+      "requestor_organization_url": "http://www.cloudns.net",
+      "requestor_contact_name": "Aleksander Hristov",
+      "requestor_contact_email": "noc@cloudns.net"
+    },
+    "icann_normalized_domain": "abrdns.com",
+    "icann_tld": "com"
   },
   {
     "psl_entry_string": "dnsabr.com",
@@ -143600,6 +143632,54 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "leapcell.app",
+    "psl_domain": "leapcell.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Leapcell : https://leapcell.io/",
+      "requestor_organization": "Leapcell",
+      "requestor_organization_url": "https://leapcell.io/",
+      "requestor_contact_name": "Leapcell Team",
+      "requestor_contact_email": "support@leapcell.io"
+    },
+    "icann_normalized_domain": "leapcell.app",
+    "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "leapcell.dev",
+    "psl_domain": "leapcell.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Leapcell : https://leapcell.io/",
+      "requestor_organization": "Leapcell",
+      "requestor_organization_url": "https://leapcell.io/",
+      "requestor_contact_name": "Leapcell Team",
+      "requestor_contact_email": "support@leapcell.io"
+    },
+    "icann_normalized_domain": "leapcell.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "leapcell.online",
+    "psl_domain": "leapcell.online",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Leapcell : https://leapcell.io/",
+      "requestor_organization": "Leapcell",
+      "requestor_organization_url": "https://leapcell.io/",
+      "requestor_contact_name": "Leapcell Team",
+      "requestor_contact_email": "support@leapcell.io"
+    },
+    "icann_normalized_domain": "leapcell.online",
+    "icann_tld": "online"
+  },
+  {
     "psl_entry_string": "liara.run",
     "psl_domain": "liara.run",
     "section": "private",
@@ -154921,8 +155001,8 @@
       "requestor_description": "StackBlitz : https://stackblitz.com",
       "requestor_organization": "StackBlitz",
       "requestor_organization_url": "https://stackblitz.com",
-      "requestor_contact_name": "Dominic Elm",
-      "requestor_contact_email": "hello@stackblitz.com"
+      "requestor_contact_name": "Dominic Elm & Albert Pai",
+      "requestor_contact_email": "security@bolt.new"
     },
     "icann_normalized_domain": "w-corp-staticblitz.com",
     "icann_tld": "com"
@@ -154937,8 +155017,8 @@
       "requestor_description": "StackBlitz : https://stackblitz.com",
       "requestor_organization": "StackBlitz",
       "requestor_organization_url": "https://stackblitz.com",
-      "requestor_contact_name": "Dominic Elm",
-      "requestor_contact_email": "hello@stackblitz.com"
+      "requestor_contact_name": "Dominic Elm & Albert Pai",
+      "requestor_contact_email": "security@bolt.new"
     },
     "icann_normalized_domain": "w-credentialless-staticblitz.com",
     "icann_tld": "com"
@@ -154953,11 +155033,27 @@
       "requestor_description": "StackBlitz : https://stackblitz.com",
       "requestor_organization": "StackBlitz",
       "requestor_organization_url": "https://stackblitz.com",
-      "requestor_contact_name": "Dominic Elm",
-      "requestor_contact_email": "hello@stackblitz.com"
+      "requestor_contact_name": "Dominic Elm & Albert Pai",
+      "requestor_contact_email": "security@bolt.new"
     },
     "icann_normalized_domain": "w-staticblitz.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "bolt.host",
+    "psl_domain": "bolt.host",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "StackBlitz : https://stackblitz.com",
+      "requestor_organization": "StackBlitz",
+      "requestor_organization_url": "https://stackblitz.com",
+      "requestor_contact_name": "Dominic Elm & Albert Pai",
+      "requestor_contact_email": "security@bolt.new"
+    },
+    "icann_normalized_domain": "bolt.host",
+    "icann_tld": "host"
   },
   {
     "psl_entry_string": "stackhero-network.com",
