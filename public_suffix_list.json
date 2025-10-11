@@ -141776,22 +141776,6 @@
     "icann_tld": "dev"
   },
   {
-    "psl_entry_string": "is-a.dev",
-    "psl_domain": "is-a.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "is-a.dev : https://is-a.dev",
-      "requestor_organization": "is-a.dev",
-      "requestor_organization_url": "https://is-a.dev",
-      "requestor_contact_name": "William Harrison",
-      "requestor_contact_email": "security@is-a.dev"
-    },
-    "icann_normalized_domain": "is-a.dev",
-    "icann_tld": "dev"
-  },
-  {
     "psl_entry_string": "iservschule.de",
     "psl_domain": "iservschule.de",
     "section": "private",
@@ -144014,22 +143998,6 @@
     },
     "icann_normalized_domain": "localcert.dev",
     "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "localcert.net",
-    "psl_domain": "localcert.net",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "LocalCert : https://localcert.net",
-      "requestor_organization": "LocalCert",
-      "requestor_organization_url": "https://localcert.net",
-      "requestor_contact_name": "William Harrison",
-      "requestor_contact_email": "security@localcert.net"
-    },
-    "icann_normalized_domain": "localcert.net",
-    "icann_tld": "net"
   },
   {
     "psl_entry_string": "localtonet.com",
@@ -158250,7 +158218,7 @@
       "requestor_organization": "William Harrison",
       "requestor_organization_url": "https://wharrison.com.au",
       "requestor_contact_name": "William Harrison",
-      "requestor_contact_email": "security@wharrison.com.au"
+      "requestor_contact_email": "security@hrsn.net"
     },
     "icann_normalized_domain": "wdh.app",
     "icann_tld": "app"
@@ -158266,7 +158234,7 @@
       "requestor_organization": "William Harrison",
       "requestor_organization_url": "https://wharrison.com.au",
       "requestor_contact_name": "William Harrison",
-      "requestor_contact_email": "security@wharrison.com.au"
+      "requestor_contact_email": "security@hrsn.net"
     },
     "icann_normalized_domain": "hrsn.au",
     "icann_tld": "au"
@@ -158282,7 +158250,7 @@
       "requestor_organization": "William Harrison",
       "requestor_organization_url": "https://wharrison.com.au",
       "requestor_contact_name": "William Harrison",
-      "requestor_contact_email": "security@wharrison.com.au"
+      "requestor_contact_email": "security@hrsn.net"
     },
     "icann_normalized_domain": "hrsn.au",
     "icann_tld": "au"
@@ -158298,10 +158266,42 @@
       "requestor_organization": "William Harrison",
       "requestor_organization_url": "https://wharrison.com.au",
       "requestor_contact_name": "William Harrison",
-      "requestor_contact_email": "security@wharrison.com.au"
+      "requestor_contact_email": "security@hrsn.net"
     },
     "icann_normalized_domain": "hrsn.dev",
     "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "is-a.dev",
+    "psl_domain": "is-a.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "William Harrison : https://wharrison.com.au",
+      "requestor_organization": "William Harrison",
+      "requestor_organization_url": "https://wharrison.com.au",
+      "requestor_contact_name": "William Harrison",
+      "requestor_contact_email": "security@hrsn.net"
+    },
+    "icann_normalized_domain": "is-a.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "localcert.net",
+    "psl_domain": "localcert.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "William Harrison : https://wharrison.com.au",
+      "requestor_organization": "William Harrison",
+      "requestor_organization_url": "https://wharrison.com.au",
+      "requestor_contact_name": "William Harrison",
+      "requestor_contact_email": "security@hrsn.net"
+    },
+    "icann_normalized_domain": "localcert.net",
+    "icann_tld": "net"
   },
   {
     "psl_entry_string": "windsurf.app",
