@@ -125296,6 +125296,38 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "canva-hosted-embed.com",
+    "psl_domain": "canva-hosted-embed.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Canva Pty Ltd : https://canva.com/",
+      "requestor_organization": "Canva Pty Ltd",
+      "requestor_organization_url": "https://canva.com/",
+      "requestor_contact_name": "Joel Aquilina",
+      "requestor_contact_email": "publicsuffixlist@canva.com"
+    },
+    "icann_normalized_domain": "canva-hosted-embed.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "canvacode.com",
+    "psl_domain": "canvacode.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Canva Pty Ltd : https://canva.com/",
+      "requestor_organization": "Canva Pty Ltd",
+      "requestor_organization_url": "https://canva.com/",
+      "requestor_contact_name": "Joel Aquilina",
+      "requestor_contact_email": "publicsuffixlist@canva.com"
+    },
+    "icann_normalized_domain": "canvacode.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "rice-labs.com",
     "psl_domain": "rice-labs.com",
     "section": "private",
@@ -128174,6 +128206,22 @@
     },
     "icann_normalized_domain": "caffeine.site",
     "icann_tld": "site"
+  },
+  {
+    "psl_entry_string": "caffeine.xyz",
+    "psl_domain": "caffeine.xyz",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dfinity Foundation: https://dfinity.org/",
+      "requestor_organization": "Dfinity Foundation",
+      "requestor_organization_url": "https://dfinity.org/",
+      "requestor_contact_name": "Dfinity Team",
+      "requestor_contact_email": "domains@dfinity.org"
+    },
+    "icann_normalized_domain": "caffeine.xyz",
+    "icann_tld": "xyz"
   },
   {
     "psl_entry_string": "dfirma.pl",
@@ -143136,8 +143184,8 @@
     "icann_tld": "cloud"
   },
   {
-    "psl_entry_string": "jote-dr-lt1.com",
-    "psl_domain": "jote-dr-lt1.com",
+    "psl_entry_string": "eu1-plenit.com",
+    "psl_domain": "eu1-plenit.com",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -143148,12 +143196,12 @@
       "requestor_contact_name": "Daniel Fariña",
       "requestor_contact_email": "ingenieria@jotelulu.com"
     },
-    "icann_normalized_domain": "jote-dr-lt1.com",
+    "icann_normalized_domain": "eu1-plenit.com",
     "icann_tld": "com"
   },
   {
-    "psl_entry_string": "jote-rd-lt1.com",
-    "psl_domain": "jote-rd-lt1.com",
+    "psl_entry_string": "la1-plenit.com",
+    "psl_domain": "la1-plenit.com",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -143164,7 +143212,23 @@
       "requestor_contact_name": "Daniel Fariña",
       "requestor_contact_email": "ingenieria@jotelulu.com"
     },
-    "icann_normalized_domain": "jote-rd-lt1.com",
+    "icann_normalized_domain": "la1-plenit.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "us1-plenit.com",
+    "psl_domain": "us1-plenit.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Jotelulu S.L. : https://jotelulu.com",
+      "requestor_organization": "Jotelulu S.L.",
+      "requestor_organization_url": "https://jotelulu.com",
+      "requestor_contact_name": "Daniel Fariña",
+      "requestor_contact_email": "ingenieria@jotelulu.com"
+    },
+    "icann_normalized_domain": "us1-plenit.com",
     "icann_tld": "com"
   },
   {
@@ -148909,6 +148973,22 @@
       "requestor_contact_email": "jbn@one.com"
     },
     "icann_normalized_domain": "service.one",
+    "icann_tld": "one"
+  },
+  {
+    "psl_entry_string": "website.one",
+    "psl_domain": "website.one",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "One.com : https://www.one.com/",
+      "requestor_organization": "One.com",
+      "requestor_organization_url": "https://www.one.com/",
+      "requestor_contact_name": "Jacob Bunk Nielsen",
+      "requestor_contact_email": "jbn@one.com"
+    },
+    "icann_normalized_domain": "website.one",
     "icann_tld": "one"
   },
   {
