@@ -92870,8 +92870,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-10-01T15:18:26Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-10-01T15:18:26Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-10-24T15:19:14Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-10-24T15:19:14Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -97310,22 +97310,6 @@
     },
     "icann_normalized_domain": "dubai",
     "icann_tld": "dubai"
-  },
-  {
-    "psl_entry_string": "dunlop",
-    "psl_domain": "dunlop",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "dunlop : The Goodyear Tire & Rubber Company",
-      "requestor_organization": "dunlop : The Goodyear Tire & Rubber Company",
-      "requestor_organization_url": null,
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "dunlop",
-    "icann_tld": "dunlop"
   },
   {
     "psl_entry_string": "dupont",
@@ -124720,6 +124704,22 @@
     "icann_tld": "io"
   },
   {
+    "psl_entry_string": "bearblog.dev",
+    "psl_domain": "bearblog.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Bear Blog : https://bearblog.dev",
+      "requestor_organization": "Bear Blog",
+      "requestor_organization_url": "https://bearblog.dev",
+      "requestor_contact_name": "Herman Martinus",
+      "requestor_contact_email": "admin@bearblog.dev"
+    },
+    "icann_normalized_domain": "bearblog.dev",
+    "icann_tld": "dev"
+  },
+  {
     "psl_entry_string": "*.beget.app",
     "psl_domain": "beget.app",
     "section": "private",
@@ -146366,6 +146366,22 @@
     },
     "icann_normalized_domain": "nabu.casa",
     "icann_tld": "casa"
+  },
+  {
+    "psl_entry_string": "needle.run",
+    "psl_domain": "needle.run",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Needle Tools GmbH : https://needle.tools",
+      "requestor_organization": "Needle Tools GmbH",
+      "requestor_organization_url": "https://needle.tools",
+      "requestor_contact_name": "Felix Herbst",
+      "requestor_contact_email": "security@needle.tools"
+    },
+    "icann_normalized_domain": "needle.run",
+    "icann_tld": "run"
   },
   {
     "psl_entry_string": "cloud.nospamproxy.com",
