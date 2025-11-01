@@ -3936,20 +3936,244 @@
     "icann_tld": "tv.bb"
   },
   {
-    "psl_entry_string": "*.bd",
+    "psl_entry_string": "bd",
     "psl_domain": "bd",
     "section": "icann",
-    "is_wildcard": true,
+    "is_wildcard": false,
     "is_negation": false,
     "requestor": {
       "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
       "requestor_organization": "bd",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
     },
     "icann_normalized_domain": "bd",
     "icann_tld": "bd"
+  },
+  {
+    "psl_entry_string": "ac.bd",
+    "psl_domain": "ac.bd",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
+      "requestor_organization": "bd",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
+    },
+    "icann_normalized_domain": "ac.bd",
+    "icann_tld": "ac.bd"
+  },
+  {
+    "psl_entry_string": "ai.bd",
+    "psl_domain": "ai.bd",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
+      "requestor_organization": "bd",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
+    },
+    "icann_normalized_domain": "ai.bd",
+    "icann_tld": "ai.bd"
+  },
+  {
+    "psl_entry_string": "co.bd",
+    "psl_domain": "co.bd",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
+      "requestor_organization": "bd",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
+    },
+    "icann_normalized_domain": "co.bd",
+    "icann_tld": "co.bd"
+  },
+  {
+    "psl_entry_string": "com.bd",
+    "psl_domain": "com.bd",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
+      "requestor_organization": "bd",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
+    },
+    "icann_normalized_domain": "com.bd",
+    "icann_tld": "com.bd"
+  },
+  {
+    "psl_entry_string": "edu.bd",
+    "psl_domain": "edu.bd",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
+      "requestor_organization": "bd",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
+    },
+    "icann_normalized_domain": "edu.bd",
+    "icann_tld": "edu.bd"
+  },
+  {
+    "psl_entry_string": "gov.bd",
+    "psl_domain": "gov.bd",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
+      "requestor_organization": "bd",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
+    },
+    "icann_normalized_domain": "gov.bd",
+    "icann_tld": "gov.bd"
+  },
+  {
+    "psl_entry_string": "id.bd",
+    "psl_domain": "id.bd",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
+      "requestor_organization": "bd",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
+    },
+    "icann_normalized_domain": "id.bd",
+    "icann_tld": "id.bd"
+  },
+  {
+    "psl_entry_string": "info.bd",
+    "psl_domain": "info.bd",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
+      "requestor_organization": "bd",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
+    },
+    "icann_normalized_domain": "info.bd",
+    "icann_tld": "info.bd"
+  },
+  {
+    "psl_entry_string": "it.bd",
+    "psl_domain": "it.bd",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
+      "requestor_organization": "bd",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
+    },
+    "icann_normalized_domain": "it.bd",
+    "icann_tld": "it.bd"
+  },
+  {
+    "psl_entry_string": "mil.bd",
+    "psl_domain": "mil.bd",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
+      "requestor_organization": "bd",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
+    },
+    "icann_normalized_domain": "mil.bd",
+    "icann_tld": "mil.bd"
+  },
+  {
+    "psl_entry_string": "net.bd",
+    "psl_domain": "net.bd",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
+      "requestor_organization": "bd",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
+    },
+    "icann_normalized_domain": "net.bd",
+    "icann_tld": "net.bd"
+  },
+  {
+    "psl_entry_string": "org.bd",
+    "psl_domain": "org.bd",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
+      "requestor_organization": "bd",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
+    },
+    "icann_normalized_domain": "org.bd",
+    "icann_tld": "org.bd"
+  },
+  {
+    "psl_entry_string": "sch.bd",
+    "psl_domain": "sch.bd",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
+      "requestor_organization": "bd",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
+    },
+    "icann_normalized_domain": "sch.bd",
+    "icann_tld": "sch.bd"
+  },
+  {
+    "psl_entry_string": "tv.bd",
+    "psl_domain": "tv.bd",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bd : https://www.iana.org/domains/root/db/bd.html",
+      "requestor_organization": "bd",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/bd.html",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "dgm.domain@btcl.gov.bd"
+    },
+    "icann_normalized_domain": "tv.bd",
+    "icann_tld": "tv.bd"
   },
   {
     "psl_entry_string": "be",
@@ -88992,6 +89216,22 @@
     "icann_tld": "gov.ve"
   },
   {
+    "psl_entry_string": "ia.ve",
+    "psl_domain": "ia.ve",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ve : https://registro.nic.ve/",
+      "requestor_organization": "ve",
+      "requestor_organization_url": "https://registro.nic.ve/",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "nic@nic.ve"
+    },
+    "icann_normalized_domain": "ia.ve",
+    "icann_tld": "ia.ve"
+  },
+  {
     "psl_entry_string": "info.ve",
     "psl_domain": "info.ve",
     "section": "icann",
@@ -126688,6 +126928,22 @@
     "icann_tld": "site"
   },
   {
+    "psl_entry_string": "cloudflare.app",
+    "psl_domain": "cloudflare.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Cloudflare, Inc. : https://www.cloudflare.com/",
+      "requestor_organization": "Cloudflare, Inc.",
+      "requestor_organization_url": "https://www.cloudflare.com/",
+      "requestor_contact_name": "Cloudflare Team",
+      "requestor_contact_email": "publicsuffixlist@cloudflare.com"
+    },
+    "icann_normalized_domain": "cloudflare.app",
+    "icann_tld": "app"
+  },
+  {
     "psl_entry_string": "cf-ipfs.com",
     "psl_domain": "cf-ipfs.com",
     "section": "private",
@@ -137502,6 +137758,22 @@
     },
     "icann_normalized_domain": "gsj.bz",
     "icann_tld": "bz"
+  },
+  {
+    "psl_entry_string": "gitbook.io",
+    "psl_domain": "gitbook.io",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "GitBook Inc. : https://www.gitbook.com/",
+      "requestor_organization": "GitBook Inc.",
+      "requestor_organization_url": "https://www.gitbook.com/",
+      "requestor_contact_name": "Samy Pesse",
+      "requestor_contact_email": "devs@gitbook.com"
+    },
+    "icann_normalized_domain": "gitbook.io",
+    "icann_tld": "io"
   },
   {
     "psl_entry_string": "github.app",
@@ -155264,6 +155536,22 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "statichost.page",
+    "psl_domain": "statichost.page",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "statichost.eu : https://www.statichost.eu",
+      "requestor_organization": "statichost.eu",
+      "requestor_organization_url": "https://www.statichost.eu",
+      "requestor_contact_name": "Eric Selin",
+      "requestor_contact_email": "admin@statichost.eu"
+    },
+    "icann_normalized_domain": "statichost.page",
+    "icann_tld": "page"
+  },
+  {
     "psl_entry_string": "feedback.ac",
     "psl_domain": "feedback.ac",
     "section": "private",
@@ -156346,10 +156634,26 @@
       "requestor_organization": "team.blue",
       "requestor_organization_url": "https://team.blue",
       "requestor_contact_name": "Cedric Dubois",
-      "requestor_contact_email": "cedric.dubois@team.blue"
+      "requestor_contact_email": "psl-sh@team.blue"
     },
     "icann_normalized_domain": "tb-hosting.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "directwp.eu",
+    "psl_domain": "directwp.eu",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "team.blue : https://team.blue",
+      "requestor_organization": "team.blue",
+      "requestor_organization_url": "https://team.blue",
+      "requestor_contact_name": "Cedric Dubois",
+      "requestor_contact_email": "psl-sh@team.blue"
+    },
+    "icann_normalized_domain": "directwp.eu",
+    "icann_tld": "eu"
   },
   {
     "psl_entry_string": "edugit.io",
@@ -157949,6 +158253,22 @@
       "requestor_contact_email": "info@walrus.xyz"
     },
     "icann_normalized_domain": "wal.app",
+    "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "wasmer.app",
+    "psl_domain": "wasmer.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Wasmer: https://wasmer.io",
+      "requestor_organization": "Wasmer",
+      "requestor_organization_url": "https://wasmer.io",
+      "requestor_contact_name": "Lorentz Kinde",
+      "requestor_contact_email": "security@wasmer.io"
+    },
+    "icann_normalized_domain": "wasmer.app",
     "icann_tld": "app"
   },
   {
