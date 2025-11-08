@@ -17913,8 +17913,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "in",
     "icann_tld": "in"
@@ -17929,8 +17929,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "5g.in",
     "icann_tld": "5g.in"
@@ -17945,8 +17945,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "6g.in",
     "icann_tld": "6g.in"
@@ -17961,8 +17961,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "ac.in",
     "icann_tld": "ac.in"
@@ -17977,8 +17977,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "ai.in",
     "icann_tld": "ai.in"
@@ -17993,11 +17993,27 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "am.in",
     "icann_tld": "am.in"
+  },
+  {
+    "psl_entry_string": "bank.in",
+    "psl_domain": "bank.in",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
+      "requestor_organization": "in",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
+    },
+    "icann_normalized_domain": "bank.in",
+    "icann_tld": "bank.in"
   },
   {
     "psl_entry_string": "bihar.in",
@@ -18009,8 +18025,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "bihar.in",
     "icann_tld": "bihar.in"
@@ -18025,8 +18041,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "biz.in",
     "icann_tld": "biz.in"
@@ -18041,8 +18057,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "business.in",
     "icann_tld": "business.in"
@@ -18057,8 +18073,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "ca.in",
     "icann_tld": "ca.in"
@@ -18073,8 +18089,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "cn.in",
     "icann_tld": "cn.in"
@@ -18089,8 +18105,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "co.in",
     "icann_tld": "co.in"
@@ -18105,8 +18121,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "com.in",
     "icann_tld": "com.in"
@@ -18121,8 +18137,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "coop.in",
     "icann_tld": "coop.in"
@@ -18137,8 +18153,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "cs.in",
     "icann_tld": "cs.in"
@@ -18153,8 +18169,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "delhi.in",
     "icann_tld": "delhi.in"
@@ -18169,8 +18185,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "dr.in",
     "icann_tld": "dr.in"
@@ -18185,8 +18201,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "edu.in",
     "icann_tld": "edu.in"
@@ -18201,11 +18217,27 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "er.in",
     "icann_tld": "er.in"
+  },
+  {
+    "psl_entry_string": "fin.in",
+    "psl_domain": "fin.in",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
+      "requestor_organization": "in",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
+    },
+    "icann_normalized_domain": "fin.in",
+    "icann_tld": "fin.in"
   },
   {
     "psl_entry_string": "firm.in",
@@ -18217,8 +18249,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "firm.in",
     "icann_tld": "firm.in"
@@ -18233,8 +18265,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "gen.in",
     "icann_tld": "gen.in"
@@ -18249,8 +18281,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "gov.in",
     "icann_tld": "gov.in"
@@ -18265,8 +18297,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "gujarat.in",
     "icann_tld": "gujarat.in"
@@ -18281,8 +18313,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "ind.in",
     "icann_tld": "ind.in"
@@ -18297,8 +18329,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "info.in",
     "icann_tld": "info.in"
@@ -18313,8 +18345,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "int.in",
     "icann_tld": "int.in"
@@ -18329,8 +18361,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "internet.in",
     "icann_tld": "internet.in"
@@ -18345,8 +18377,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "io.in",
     "icann_tld": "io.in"
@@ -18361,8 +18393,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "me.in",
     "icann_tld": "me.in"
@@ -18377,8 +18409,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "mil.in",
     "icann_tld": "mil.in"
@@ -18393,8 +18425,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "net.in",
     "icann_tld": "net.in"
@@ -18409,8 +18441,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "nic.in",
     "icann_tld": "nic.in"
@@ -18425,8 +18457,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "org.in",
     "icann_tld": "org.in"
@@ -18441,8 +18473,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "pg.in",
     "icann_tld": "pg.in"
@@ -18457,8 +18489,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "post.in",
     "icann_tld": "post.in"
@@ -18473,8 +18505,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "pro.in",
     "icann_tld": "pro.in"
@@ -18489,8 +18521,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "res.in",
     "icann_tld": "res.in"
@@ -18505,8 +18537,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "travel.in",
     "icann_tld": "travel.in"
@@ -18521,8 +18553,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "tv.in",
     "icann_tld": "tv.in"
@@ -18537,8 +18569,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "uk.in",
     "icann_tld": "uk.in"
@@ -18553,8 +18585,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "up.in",
     "icann_tld": "up.in"
@@ -18569,8 +18601,8 @@
       "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
       "requestor_organization": "in",
       "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
     },
     "icann_normalized_domain": "us.in",
     "icann_tld": "us.in"
