@@ -14038,11 +14038,11 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "fj : http://domains.fj/",
+      "requestor_description": "fj : https://www.iana.org/domains/root/db/fj.html",
       "requestor_organization": "fj",
-      "requestor_organization_url": "http://domains.fj/",
-      "requestor_contact_name": "registry",
-      "requestor_contact_email": "garth.miller@cocca.org.nz"
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/fj.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
     },
     "icann_normalized_domain": "fj",
     "icann_tld": "fj"
@@ -14054,11 +14054,11 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "fj : http://domains.fj/",
+      "requestor_description": "fj : https://www.iana.org/domains/root/db/fj.html",
       "requestor_organization": "fj",
-      "requestor_organization_url": "http://domains.fj/",
-      "requestor_contact_name": "registry",
-      "requestor_contact_email": "garth.miller@cocca.org.nz"
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/fj.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
     },
     "icann_normalized_domain": "ac.fj",
     "icann_tld": "ac.fj"
@@ -14070,11 +14070,11 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "fj : http://domains.fj/",
+      "requestor_description": "fj : https://www.iana.org/domains/root/db/fj.html",
       "requestor_organization": "fj",
-      "requestor_organization_url": "http://domains.fj/",
-      "requestor_contact_name": "registry",
-      "requestor_contact_email": "garth.miller@cocca.org.nz"
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/fj.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
     },
     "icann_normalized_domain": "biz.fj",
     "icann_tld": "biz.fj"
@@ -14086,14 +14086,30 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "fj : http://domains.fj/",
+      "requestor_description": "fj : https://www.iana.org/domains/root/db/fj.html",
       "requestor_organization": "fj",
-      "requestor_organization_url": "http://domains.fj/",
-      "requestor_contact_name": "registry",
-      "requestor_contact_email": "garth.miller@cocca.org.nz"
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/fj.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
     },
     "icann_normalized_domain": "com.fj",
     "icann_tld": "com.fj"
+  },
+  {
+    "psl_entry_string": "edu.fj",
+    "psl_domain": "edu.fj",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "fj : https://www.iana.org/domains/root/db/fj.html",
+      "requestor_organization": "fj",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/fj.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "edu.fj",
+    "icann_tld": "edu.fj"
   },
   {
     "psl_entry_string": "gov.fj",
@@ -14102,14 +14118,30 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "fj : http://domains.fj/",
+      "requestor_description": "fj : https://www.iana.org/domains/root/db/fj.html",
       "requestor_organization": "fj",
-      "requestor_organization_url": "http://domains.fj/",
-      "requestor_contact_name": "registry",
-      "requestor_contact_email": "garth.miller@cocca.org.nz"
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/fj.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
     },
     "icann_normalized_domain": "gov.fj",
     "icann_tld": "gov.fj"
+  },
+  {
+    "psl_entry_string": "id.fj",
+    "psl_domain": "id.fj",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "fj : https://www.iana.org/domains/root/db/fj.html",
+      "requestor_organization": "fj",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/fj.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "id.fj",
+    "icann_tld": "id.fj"
   },
   {
     "psl_entry_string": "info.fj",
@@ -14118,11 +14150,11 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "fj : http://domains.fj/",
+      "requestor_description": "fj : https://www.iana.org/domains/root/db/fj.html",
       "requestor_organization": "fj",
-      "requestor_organization_url": "http://domains.fj/",
-      "requestor_contact_name": "registry",
-      "requestor_contact_email": "garth.miller@cocca.org.nz"
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/fj.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
     },
     "icann_normalized_domain": "info.fj",
     "icann_tld": "info.fj"
@@ -14134,11 +14166,11 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "fj : http://domains.fj/",
+      "requestor_description": "fj : https://www.iana.org/domains/root/db/fj.html",
       "requestor_organization": "fj",
-      "requestor_organization_url": "http://domains.fj/",
-      "requestor_contact_name": "registry",
-      "requestor_contact_email": "garth.miller@cocca.org.nz"
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/fj.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
     },
     "icann_normalized_domain": "mil.fj",
     "icann_tld": "mil.fj"
@@ -14150,11 +14182,11 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "fj : http://domains.fj/",
+      "requestor_description": "fj : https://www.iana.org/domains/root/db/fj.html",
       "requestor_organization": "fj",
-      "requestor_organization_url": "http://domains.fj/",
-      "requestor_contact_name": "registry",
-      "requestor_contact_email": "garth.miller@cocca.org.nz"
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/fj.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
     },
     "icann_normalized_domain": "name.fj",
     "icann_tld": "name.fj"
@@ -14166,11 +14198,11 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "fj : http://domains.fj/",
+      "requestor_description": "fj : https://www.iana.org/domains/root/db/fj.html",
       "requestor_organization": "fj",
-      "requestor_organization_url": "http://domains.fj/",
-      "requestor_contact_name": "registry",
-      "requestor_contact_email": "garth.miller@cocca.org.nz"
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/fj.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
     },
     "icann_normalized_domain": "net.fj",
     "icann_tld": "net.fj"
@@ -14182,11 +14214,11 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "fj : http://domains.fj/",
+      "requestor_description": "fj : https://www.iana.org/domains/root/db/fj.html",
       "requestor_organization": "fj",
-      "requestor_organization_url": "http://domains.fj/",
-      "requestor_contact_name": "registry",
-      "requestor_contact_email": "garth.miller@cocca.org.nz"
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/fj.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
     },
     "icann_normalized_domain": "org.fj",
     "icann_tld": "org.fj"
@@ -14198,11 +14230,11 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "fj : http://domains.fj/",
+      "requestor_description": "fj : https://www.iana.org/domains/root/db/fj.html",
       "requestor_organization": "fj",
-      "requestor_organization_url": "http://domains.fj/",
-      "requestor_contact_name": "registry",
-      "requestor_contact_email": "garth.miller@cocca.org.nz"
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/fj.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
     },
     "icann_normalized_domain": "pro.fj",
     "icann_tld": "pro.fj"
@@ -63664,38 +63696,6 @@
     "icann_tld": "birkenes.no"
   },
   {
-    "psl_entry_string": "bjarkoy.no",
-    "psl_domain": "bjarkoy.no",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
-      "requestor_organization": "no",
-      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "bjarkoy.no",
-    "icann_tld": "bjarkoy.no"
-  },
-  {
-    "psl_entry_string": "bjarkøy.no",
-    "psl_domain": "bjarkøy.no",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
-      "requestor_organization": "no",
-      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "bjarkøy.no",
-    "icann_tld": "bjarkøy.no"
-  },
-  {
     "psl_entry_string": "bjerkreim.no",
     "psl_domain": "bjerkreim.no",
     "section": "icann",
@@ -68110,22 +68110,6 @@
     },
     "icann_normalized_domain": "moss.no",
     "icann_tld": "moss.no"
-  },
-  {
-    "psl_entry_string": "mosvik.no",
-    "psl_domain": "mosvik.no",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
-      "requestor_organization": "no",
-      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "mosvik.no",
-    "icann_tld": "mosvik.no"
   },
   {
     "psl_entry_string": "muosat.no",
@@ -93142,8 +93126,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-10-24T15:19:14Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-10-24T15:19:14Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-11-08T15:16:38Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-11-08T15:16:38Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -109798,8 +109782,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "xn--fiq228c5hs : TLD REGISTRY LIMITED OY",
-      "requestor_organization": "xn--fiq228c5hs : TLD REGISTRY LIMITED OY",
+      "requestor_description": "xn--fiq228c5hs : Beijing TLD Registry Technology Limited",
+      "requestor_organization": "xn--fiq228c5hs : Beijing TLD Registry Technology Limited",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -115424,6 +115408,22 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "*.ap-southeast-7.airflow.amazonaws.com",
+    "psl_domain": "ap-southeast-7.airflow.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "*.ca-central-1.airflow.amazonaws.com",
     "psl_domain": "ca-central-1.airflow.amazonaws.com",
     "section": "private",
@@ -115706,6 +115706,582 @@
       "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
       "requestor_organization_url": null,
       "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.rds.cn-north-1.amazonaws.com.cn",
+    "psl_domain": "rds.cn-north-1.amazonaws.com.cn",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "com.cn",
+    "icann_tld": "cn"
+  },
+  {
+    "psl_entry_string": "*.rds.cn-northwest-1.amazonaws.com.cn",
+    "psl_domain": "rds.cn-northwest-1.amazonaws.com.cn",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "com.cn",
+    "icann_tld": "cn"
+  },
+  {
+    "psl_entry_string": "*.af-south-1.rds.amazonaws.com",
+    "psl_domain": "af-south-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-east-1.rds.amazonaws.com",
+    "psl_domain": "ap-east-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-east-2.rds.amazonaws.com",
+    "psl_domain": "ap-east-2.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-northeast-1.rds.amazonaws.com",
+    "psl_domain": "ap-northeast-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-northeast-2.rds.amazonaws.com",
+    "psl_domain": "ap-northeast-2.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-northeast-3.rds.amazonaws.com",
+    "psl_domain": "ap-northeast-3.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-south-1.rds.amazonaws.com",
+    "psl_domain": "ap-south-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-south-2.rds.amazonaws.com",
+    "psl_domain": "ap-south-2.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-southeast-1.rds.amazonaws.com",
+    "psl_domain": "ap-southeast-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-southeast-2.rds.amazonaws.com",
+    "psl_domain": "ap-southeast-2.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-southeast-3.rds.amazonaws.com",
+    "psl_domain": "ap-southeast-3.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-southeast-4.rds.amazonaws.com",
+    "psl_domain": "ap-southeast-4.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-southeast-5.rds.amazonaws.com",
+    "psl_domain": "ap-southeast-5.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-southeast-6.rds.amazonaws.com",
+    "psl_domain": "ap-southeast-6.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-southeast-7.rds.amazonaws.com",
+    "psl_domain": "ap-southeast-7.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ca-central-1.rds.amazonaws.com",
+    "psl_domain": "ca-central-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ca-west-1.rds.amazonaws.com",
+    "psl_domain": "ca-west-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.eu-central-1.rds.amazonaws.com",
+    "psl_domain": "eu-central-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.eu-central-2.rds.amazonaws.com",
+    "psl_domain": "eu-central-2.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.eu-west-1.rds.amazonaws.com",
+    "psl_domain": "eu-west-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.eu-west-2.rds.amazonaws.com",
+    "psl_domain": "eu-west-2.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.eu-west-3.rds.amazonaws.com",
+    "psl_domain": "eu-west-3.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.il-central-1.rds.amazonaws.com",
+    "psl_domain": "il-central-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.me-central-1.rds.amazonaws.com",
+    "psl_domain": "me-central-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.me-south-1.rds.amazonaws.com",
+    "psl_domain": "me-south-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.mx-central-1.rds.amazonaws.com",
+    "psl_domain": "mx-central-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.sa-east-1.rds.amazonaws.com",
+    "psl_domain": "sa-east-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.us-east-1.rds.amazonaws.com",
+    "psl_domain": "us-east-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.us-east-2.rds.amazonaws.com",
+    "psl_domain": "us-east-2.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.us-gov-east-1.rds.amazonaws.com",
+    "psl_domain": "us-gov-east-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.us-gov-west-1.rds.amazonaws.com",
+    "psl_domain": "us-gov-west-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.us-northeast-1.rds.amazonaws.com",
+    "psl_domain": "us-northeast-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.us-west-1.rds.amazonaws.com",
+    "psl_domain": "us-west-1.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.us-west-2.rds.amazonaws.com",
+    "psl_domain": "us-west-2.rds.amazonaws.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Relational Database Service",
+      "requestor_organization": "Amazon Relational Database Service",
+      "requestor_organization_url": null,
+      "requestor_contact_name": ": AWS Security",
       "requestor_contact_email": "psl-maintainers@amazon.com"
     },
     "icann_normalized_domain": "amazonaws.com",
@@ -123392,6 +123968,38 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "ap-southeast-5.elasticbeanstalk.com",
+    "psl_domain": "ap-southeast-5.elasticbeanstalk.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Elastic Beanstalk",
+      "requestor_organization": "AWS Elastic Beanstalk",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "elasticbeanstalk.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "ap-southeast-7.elasticbeanstalk.com",
+    "psl_domain": "ap-southeast-7.elasticbeanstalk.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Elastic Beanstalk",
+      "requestor_organization": "AWS Elastic Beanstalk",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "elasticbeanstalk.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "ca-central-1.elasticbeanstalk.com",
     "psl_domain": "ca-central-1.elasticbeanstalk.com",
     "section": "private",
@@ -123456,6 +124064,22 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "eu-south-2.elasticbeanstalk.com",
+    "psl_domain": "eu-south-2.elasticbeanstalk.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Elastic Beanstalk",
+      "requestor_organization": "AWS Elastic Beanstalk",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "elasticbeanstalk.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "eu-west-1.elasticbeanstalk.com",
     "psl_domain": "eu-west-1.elasticbeanstalk.com",
     "section": "private",
@@ -123506,6 +124130,22 @@
   {
     "psl_entry_string": "il-central-1.elasticbeanstalk.com",
     "psl_domain": "il-central-1.elasticbeanstalk.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Elastic Beanstalk",
+      "requestor_organization": "AWS Elastic Beanstalk",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "elasticbeanstalk.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "me-central-1.elasticbeanstalk.com",
+    "psl_domain": "me-central-1.elasticbeanstalk.com",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -123694,6 +124334,358 @@
     },
     "icann_normalized_domain": "awsglobalaccelerator.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "lambda-url.af-south-1.on.aws",
+    "psl_domain": "lambda-url.af-south-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.ap-east-1.on.aws",
+    "psl_domain": "lambda-url.ap-east-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.ap-northeast-1.on.aws",
+    "psl_domain": "lambda-url.ap-northeast-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.ap-northeast-2.on.aws",
+    "psl_domain": "lambda-url.ap-northeast-2.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.ap-northeast-3.on.aws",
+    "psl_domain": "lambda-url.ap-northeast-3.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.ap-south-1.on.aws",
+    "psl_domain": "lambda-url.ap-south-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.ap-southeast-1.on.aws",
+    "psl_domain": "lambda-url.ap-southeast-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.ap-southeast-2.on.aws",
+    "psl_domain": "lambda-url.ap-southeast-2.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.ap-southeast-3.on.aws",
+    "psl_domain": "lambda-url.ap-southeast-3.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.ca-central-1.on.aws",
+    "psl_domain": "lambda-url.ca-central-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.eu-central-1.on.aws",
+    "psl_domain": "lambda-url.eu-central-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.eu-north-1.on.aws",
+    "psl_domain": "lambda-url.eu-north-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.eu-south-1.on.aws",
+    "psl_domain": "lambda-url.eu-south-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.eu-west-1.on.aws",
+    "psl_domain": "lambda-url.eu-west-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.eu-west-2.on.aws",
+    "psl_domain": "lambda-url.eu-west-2.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.eu-west-3.on.aws",
+    "psl_domain": "lambda-url.eu-west-3.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.me-south-1.on.aws",
+    "psl_domain": "lambda-url.me-south-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.sa-east-1.on.aws",
+    "psl_domain": "lambda-url.sa-east-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.us-east-1.on.aws",
+    "psl_domain": "lambda-url.us-east-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.us-east-2.on.aws",
+    "psl_domain": "lambda-url.us-east-2.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.us-west-1.on.aws",
+    "psl_domain": "lambda-url.us-west-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "lambda-url.us-west-2.on.aws",
+    "psl_domain": "lambda-url.us-west-2.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Lambda Function URLs",
+      "requestor_organization": "AWS Lambda Function URLs",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
   },
   {
     "psl_entry_string": "*.private.repost.aws",
@@ -128400,6 +129392,102 @@
     "icann_tld": "dev"
   },
   {
+    "psl_entry_string": "*.at.ply.gg",
+    "psl_domain": "at.ply.gg",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Developed Methods LLC : https://methods.dev",
+      "requestor_organization": "Developed Methods LLC",
+      "requestor_organization_url": "https://methods.dev",
+      "requestor_contact_name": "Patrick Lorio",
+      "requestor_contact_email": "security@playit.gg"
+    },
+    "icann_normalized_domain": "ply.gg",
+    "icann_tld": "gg"
+  },
+  {
+    "psl_entry_string": "d6.ply.gg",
+    "psl_domain": "d6.ply.gg",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Developed Methods LLC : https://methods.dev",
+      "requestor_organization": "Developed Methods LLC",
+      "requestor_organization_url": "https://methods.dev",
+      "requestor_contact_name": "Patrick Lorio",
+      "requestor_contact_email": "security@playit.gg"
+    },
+    "icann_normalized_domain": "ply.gg",
+    "icann_tld": "gg"
+  },
+  {
+    "psl_entry_string": "joinmc.link",
+    "psl_domain": "joinmc.link",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Developed Methods LLC : https://methods.dev",
+      "requestor_organization": "Developed Methods LLC",
+      "requestor_organization_url": "https://methods.dev",
+      "requestor_contact_name": "Patrick Lorio",
+      "requestor_contact_email": "security@playit.gg"
+    },
+    "icann_normalized_domain": "joinmc.link",
+    "icann_tld": "link"
+  },
+  {
+    "psl_entry_string": "playit.plus",
+    "psl_domain": "playit.plus",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Developed Methods LLC : https://methods.dev",
+      "requestor_organization": "Developed Methods LLC",
+      "requestor_organization_url": "https://methods.dev",
+      "requestor_contact_name": "Patrick Lorio",
+      "requestor_contact_email": "security@playit.gg"
+    },
+    "icann_normalized_domain": "playit.plus",
+    "icann_tld": "plus"
+  },
+  {
+    "psl_entry_string": "*.at.playit.plus",
+    "psl_domain": "at.playit.plus",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Developed Methods LLC : https://methods.dev",
+      "requestor_organization": "Developed Methods LLC",
+      "requestor_organization_url": "https://methods.dev",
+      "requestor_contact_name": "Patrick Lorio",
+      "requestor_contact_email": "security@playit.gg"
+    },
+    "icann_normalized_domain": "playit.plus",
+    "icann_tld": "plus"
+  },
+  {
+    "psl_entry_string": "with.playit.plus",
+    "psl_domain": "with.playit.plus",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Developed Methods LLC : https://methods.dev",
+      "requestor_organization": "Developed Methods LLC",
+      "requestor_organization_url": "https://methods.dev",
+      "requestor_contact_name": "Patrick Lorio",
+      "requestor_contact_email": "security@playit.gg"
+    },
+    "icann_normalized_domain": "playit.plus",
+    "icann_tld": "plus"
+  },
+  {
     "psl_entry_string": "icp0.io",
     "psl_domain": "icp0.io",
     "section": "private",
@@ -128702,6 +129790,22 @@
     },
     "icann_normalized_domain": "jozi.biz",
     "icann_tld": "biz"
+  },
+  {
+    "psl_entry_string": "de5.net",
+    "psl_domain": "de5.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "DNSHE : https://de5.net",
+      "requestor_organization": "DNSHE",
+      "requestor_organization_url": "https://de5.net",
+      "requestor_contact_name": "DNSHE Team",
+      "requestor_contact_email": "support@dnshe.com"
+    },
+    "icann_normalized_domain": "de5.net",
+    "icann_tld": "net"
   },
   {
     "psl_entry_string": "dnshome.de",
@@ -133808,6 +134912,38 @@
     "icann_tld": "cool"
   },
   {
+    "psl_entry_string": "emergent.cloud",
+    "psl_domain": "emergent.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Emergent : https://emergent.sh",
+      "requestor_organization": "Emergent",
+      "requestor_organization_url": "https://emergent.sh",
+      "requestor_contact_name": "Emergent Security Team",
+      "requestor_contact_email": "security@emergent.sh"
+    },
+    "icann_normalized_domain": "emergent.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "emergent.host",
+    "psl_domain": "emergent.host",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Emergent : https://emergent.sh",
+      "requestor_organization": "Emergent",
+      "requestor_organization_url": "https://emergent.sh",
+      "requestor_contact_name": "Emergent Security Team",
+      "requestor_contact_email": "security@emergent.sh"
+    },
+    "icann_normalized_domain": "emergent.host",
+    "icann_tld": "host"
+  },
+  {
     "psl_entry_string": "en-root.fr",
     "psl_domain": "en-root.fr",
     "section": "private",
@@ -136685,6 +137821,22 @@
       "requestor_contact_email": "psl@figma.com"
     },
     "icann_normalized_domain": "figma.site",
+    "icann_tld": "site"
+  },
+  {
+    "psl_entry_string": "figma-gov.site",
+    "psl_domain": "figma-gov.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Figma : https://www.figma.com",
+      "requestor_organization": "Figma",
+      "requestor_organization_url": "https://www.figma.com",
+      "requestor_contact_name": "Nick Frost",
+      "requestor_contact_email": "psl@figma.com"
+    },
+    "icann_normalized_domain": "figma-gov.site",
     "icann_tld": "site"
   },
   {
@@ -142256,6 +143408,22 @@
     "icann_tld": "host"
   },
   {
+    "psl_entry_string": "ispmanager.name",
+    "psl_domain": "ispmanager.name",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Ispmanager : https://www.ispmanager.com/",
+      "requestor_organization": "Ispmanager",
+      "requestor_organization_url": "https://www.ispmanager.com/",
+      "requestor_contact_name": "Ispmanager infrastructure team",
+      "requestor_contact_email": "infrastructure@ispmanager.com"
+    },
+    "icann_normalized_domain": "ispmanager.name",
+    "icann_tld": "name"
+  },
+  {
     "psl_entry_string": "mel.cloudlets.com.au",
     "psl_domain": "mel.cloudlets.com.au",
     "section": "private",
@@ -146368,6 +147536,54 @@
     "icann_tld": "space"
   },
   {
+    "psl_entry_string": "mocha.app",
+    "psl_domain": "mocha.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Mocha : https://getmocha.com",
+      "requestor_organization": "Mocha",
+      "requestor_organization_url": "https://getmocha.com",
+      "requestor_contact_name": "Ben Reinhart",
+      "requestor_contact_email": "security@getmocha.com"
+    },
+    "icann_normalized_domain": "mocha.app",
+    "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "mochausercontent.com",
+    "psl_domain": "mochausercontent.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Mocha : https://getmocha.com",
+      "requestor_organization": "Mocha",
+      "requestor_organization_url": "https://getmocha.com",
+      "requestor_contact_name": "Ben Reinhart",
+      "requestor_contact_email": "security@getmocha.com"
+    },
+    "icann_normalized_domain": "mochausercontent.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "mocha-sandbox.dev",
+    "psl_domain": "mocha-sandbox.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Mocha : https://getmocha.com",
+      "requestor_organization": "Mocha",
+      "requestor_organization_url": "https://getmocha.com",
+      "requestor_contact_name": "Ben Reinhart",
+      "requestor_contact_email": "security@getmocha.com"
+    },
+    "icann_normalized_domain": "mocha-sandbox.dev",
+    "icann_tld": "dev"
+  },
+  {
     "psl_entry_string": "modx.dev",
     "psl_domain": "modx.dev",
     "section": "private",
@@ -146688,6 +147904,22 @@
     "icann_tld": "run"
   },
   {
+    "psl_entry_string": "co.site",
+    "psl_domain": "co.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Neo : https://www.neo.space",
+      "requestor_organization": "Neo",
+      "requestor_organization_url": "https://www.neo.space",
+      "requestor_contact_name": "Ankit Kulkarni",
+      "requestor_contact_email": "devops@co.site"
+    },
+    "icann_normalized_domain": "co.site",
+    "icann_tld": "site"
+  },
+  {
     "psl_entry_string": "cloud.nospamproxy.com",
     "psl_domain": "cloud.nospamproxy.com",
     "section": "private",
@@ -146734,22 +147966,6 @@
     },
     "icann_normalized_domain": "netlib.re",
     "icann_tld": "re"
-  },
-  {
-    "psl_entry_string": "netfy.app",
-    "psl_domain": "netfy.app",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Netfy Domains : https://netfy.domains",
-      "requestor_organization": "Netfy Domains",
-      "requestor_organization_url": "https://netfy.domains",
-      "requestor_contact_name": "Suranga Ranasinghe",
-      "requestor_contact_email": "security@mavicsoft.com"
-    },
-    "icann_normalized_domain": "netfy.app",
-    "icann_tld": "app"
   },
   {
     "psl_entry_string": "netlify.app",
@@ -157440,6 +158656,22 @@
     "icann_tld": "nl"
   },
   {
+    "psl_entry_string": "tunnelmole.net",
+    "psl_domain": "tunnelmole.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Tunnelmole: https://tunnelmole.com",
+      "requestor_organization": "Tunnelmole",
+      "requestor_organization_url": "https://tunnelmole.com",
+      "requestor_contact_name": "Robbie Cahill",
+      "requestor_contact_email": "support@tunnelmole.com"
+    },
+    "icann_normalized_domain": "tunnelmole.net",
+    "icann_tld": "net"
+  },
+  {
     "psl_entry_string": "tuxfamily.org",
     "psl_domain": "tuxfamily.org",
     "section": "private",
@@ -157790,6 +159022,22 @@
     },
     "icann_normalized_domain": "it.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "umso.co",
+    "psl_domain": "umso.co",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Umso Software Inc. : https://www.umso.com",
+      "requestor_organization": "Umso Software Inc.",
+      "requestor_organization_url": "https://www.umso.com",
+      "requestor_contact_name": "Alexis Taylor",
+      "requestor_contact_email": "security@umso.com"
+    },
+    "icann_normalized_domain": "umso.co",
+    "icann_tld": "co"
   },
   {
     "psl_entry_string": "unison-services.cloud",
