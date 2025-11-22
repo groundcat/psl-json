@@ -128409,11 +128409,27 @@
       "requestor_description": "Combell.com : https://www.combell.com",
       "requestor_organization": "Combell.com",
       "requestor_organization_url": "https://www.combell.com",
-      "requestor_contact_name": "Thomas Wouters",
-      "requestor_contact_email": "thomas.wouters@combellgroup.com"
+      "requestor_contact_name": "Combell Team",
+      "requestor_contact_email": "support@combell.com"
     },
     "icann_normalized_domain": "webhosting.be",
     "icann_tld": "be"
+  },
+  {
+    "psl_entry_string": "prvw.eu",
+    "psl_domain": "prvw.eu",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Combell.com : https://www.combell.com",
+      "requestor_organization": "Combell.com",
+      "requestor_organization_url": "https://www.combell.com",
+      "requestor_contact_name": "Combell Team",
+      "requestor_contact_email": "support@combell.com"
+    },
+    "icann_normalized_domain": "prvw.eu",
+    "icann_tld": "eu"
   },
   {
     "psl_entry_string": "hosting-cluster.nl",
@@ -128425,8 +128441,8 @@
       "requestor_description": "Combell.com : https://www.combell.com",
       "requestor_organization": "Combell.com",
       "requestor_organization_url": "https://www.combell.com",
-      "requestor_contact_name": "Thomas Wouters",
-      "requestor_contact_email": "thomas.wouters@combellgroup.com"
+      "requestor_contact_name": "Combell Team",
+      "requestor_contact_email": "support@combell.com"
     },
     "icann_normalized_domain": "hosting-cluster.nl",
     "icann_tld": "nl"
@@ -159902,38 +159918,6 @@
     },
     "icann_normalized_domain": "wmflabs.org",
     "icann_tld": "org"
-  },
-  {
-    "psl_entry_string": "wdh.app",
-    "psl_domain": "wdh.app",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "William Harrison : https://wharrison.com.au",
-      "requestor_organization": "William Harrison",
-      "requestor_organization_url": "https://wharrison.com.au",
-      "requestor_contact_name": "William Harrison",
-      "requestor_contact_email": "security@hrsn.net"
-    },
-    "icann_normalized_domain": "wdh.app",
-    "icann_tld": "app"
-  },
-  {
-    "psl_entry_string": "hrsn.au",
-    "psl_domain": "hrsn.au",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "William Harrison : https://wharrison.com.au",
-      "requestor_organization": "William Harrison",
-      "requestor_organization_url": "https://wharrison.com.au",
-      "requestor_contact_name": "William Harrison",
-      "requestor_contact_email": "security@hrsn.net"
-    },
-    "icann_normalized_domain": "hrsn.au",
-    "icann_tld": "au"
   },
   {
     "psl_entry_string": "vps.hrsn.au",
