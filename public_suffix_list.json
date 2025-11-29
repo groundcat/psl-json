@@ -17520,6 +17520,22 @@
     "icann_tld": "web.id"
   },
   {
+    "psl_entry_string": "ᬩᬮᬶ.id",
+    "psl_domain": "ᬩᬮᬶ.id",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "id : https://www.iana.org/domains/root/db/id.html",
+      "requestor_organization": "id",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/id.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "ᬩᬮᬶ.id",
+    "icann_tld": "ᬩᬮᬶ.id"
+  },
+  {
     "psl_entry_string": "ie",
     "psl_domain": "ie",
     "section": "icann",
@@ -111440,6 +111456,22 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "*.auiusercontent.com",
+    "psl_domain": "auiusercontent.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AgentbaseAI Inc. : https://assistant-ui.com",
+      "requestor_organization": "AgentbaseAI Inc.",
+      "requestor_organization_url": "https://assistant-ui.com",
+      "requestor_contact_name": "Simon Farshid",
+      "requestor_contact_email": "security@assistant-ui.com"
+    },
+    "icann_normalized_domain": "auiusercontent.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "beep.pl",
     "psl_domain": "beep.pl",
     "section": "private",
@@ -126288,6 +126320,38 @@
     "icann_tld": "app"
   },
   {
+    "psl_entry_string": "brave.dev",
+    "psl_domain": "brave.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Brave : https://brave.com",
+      "requestor_organization": "Brave",
+      "requestor_organization_url": "https://brave.com",
+      "requestor_contact_name": "Andrea Brancaleoni",
+      "requestor_contact_email": "abrancaleoni@brave.com"
+    },
+    "icann_normalized_domain": "brave.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "*.s.brave.dev",
+    "psl_domain": "s.brave.dev",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Brave : https://brave.com",
+      "requestor_organization": "Brave",
+      "requestor_organization_url": "https://brave.com",
+      "requestor_contact_name": "Andrea Brancaleoni",
+      "requestor_contact_email": "abrancaleoni@brave.com"
+    },
+    "icann_normalized_domain": "brave.dev",
+    "icann_tld": "dev"
+  },
+  {
     "psl_entry_string": "brave.io",
     "psl_domain": "brave.io",
     "section": "private",
@@ -138704,6 +138768,38 @@
     "icann_tld": "cloud"
   },
   {
+    "psl_entry_string": "gadget.app",
+    "psl_domain": "gadget.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Gadget Software Inc. : https://gadget.dev",
+      "requestor_organization": "Gadget Software Inc.",
+      "requestor_organization_url": "https://gadget.dev",
+      "requestor_contact_name": "Harry Brundage",
+      "requestor_contact_email": "security@gadget.dev"
+    },
+    "icann_normalized_domain": "gadget.app",
+    "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "gadget.host",
+    "psl_domain": "gadget.host",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Gadget Software Inc. : https://gadget.dev",
+      "requestor_organization": "Gadget Software Inc.",
+      "requestor_organization_url": "https://gadget.dev",
+      "requestor_contact_name": "Harry Brundage",
+      "requestor_contact_email": "security@gadget.dev"
+    },
+    "icann_normalized_domain": "gadget.host",
+    "icann_tld": "host"
+  },
+  {
     "psl_entry_string": "aliases121.com",
     "psl_domain": "aliases121.com",
     "section": "private",
@@ -141294,6 +141390,22 @@
     },
     "icann_normalized_domain": "grayjayleagues.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "grebedoc.dev",
+    "psl_domain": "grebedoc.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Grebedoc : https://grebedoc.dev",
+      "requestor_organization": "Grebedoc",
+      "requestor_organization_url": "https://grebedoc.dev",
+      "requestor_contact_name": "Catherine Zotova",
+      "requestor_contact_email": "admin@grebedoc.dev"
+    },
+    "icann_normalized_domain": "grebedoc.dev",
+    "icann_tld": "dev"
   },
   {
     "psl_entry_string": "günstigbestellen.de",
@@ -147312,6 +147424,38 @@
     "icann_tld": "net"
   },
   {
+    "psl_entry_string": "servicebus.usgovcloudapi.net",
+    "psl_domain": "servicebus.usgovcloudapi.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "icann_normalized_domain": "usgovcloudapi.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "usgovcloudapp.net",
+    "psl_domain": "usgovcloudapp.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "icann_normalized_domain": "usgovcloudapp.net",
+    "icann_tld": "net"
+  },
+  {
     "psl_entry_string": "blob.core.windows.net",
     "psl_domain": "blob.core.windows.net",
     "section": "private",
@@ -147342,6 +147486,38 @@
     },
     "icann_normalized_domain": "windows.net",
     "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "azure-api.us",
+    "psl_domain": "azure-api.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "icann_normalized_domain": "azure-api.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "azurewebsites.us",
+    "psl_domain": "azurewebsites.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "icann_normalized_domain": "azurewebsites.us",
+    "icann_tld": "us"
   },
   {
     "psl_entry_string": "routingthecloud.com",
@@ -150174,22 +150350,6 @@
     },
     "icann_normalized_domain": "prvcy.page",
     "icann_tld": "page"
-  },
-  {
-    "psl_entry_string": "obl.ong",
-    "psl_domain": "obl.ong",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Obl.ong : https://obl.ong",
-      "requestor_organization": "Obl.ong",
-      "requestor_organization_url": "https://obl.ong",
-      "requestor_contact_name": "Reese Armstrong",
-      "requestor_contact_email": "team@obl.ong"
-    },
-    "icann_normalized_domain": "obl.ong",
-    "icann_tld": "ong"
   },
   {
     "psl_entry_string": "observablehq.cloud",
@@ -160446,6 +160606,22 @@
     },
     "icann_normalized_domain": "xs4all.space",
     "icann_tld": "space"
+  },
+  {
+    "psl_entry_string": "xtooldevice.com",
+    "psl_domain": "xtooldevice.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "xTool : https://xtool.com",
+      "requestor_organization": "xTool",
+      "requestor_organization_url": "https://xtool.com",
+      "requestor_contact_name": "Echo",
+      "requestor_contact_email": "admin@xtool.com"
+    },
+    "icann_normalized_domain": "xtooldevice.com",
+    "icann_tld": "com"
   },
   {
     "psl_entry_string": "yandexcloud.net",
