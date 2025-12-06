@@ -135008,6 +135008,22 @@
     "icann_tld": "cloud"
   },
   {
+    "psl_entry_string": "preview.emergentagent.com",
+    "psl_domain": "preview.emergentagent.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Emergent : https://emergent.sh",
+      "requestor_organization": "Emergent",
+      "requestor_organization_url": "https://emergent.sh",
+      "requestor_contact_name": "Emergent Security Team",
+      "requestor_contact_email": "security@emergent.sh"
+    },
+    "icann_normalized_domain": "emergentagent.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "emergent.host",
     "psl_domain": "emergent.host",
     "section": "private",
@@ -151472,22 +151488,6 @@
     "icann_tld": "us"
   },
   {
-    "psl_entry_string": "lk3.ru",
-    "psl_domain": "lk3.ru",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "PE Ulyanov Kirill Sergeevich : https://airy.host",
-      "requestor_organization": "PE Ulyanov Kirill Sergeevich",
-      "requestor_organization_url": "https://airy.host",
-      "requestor_contact_name": "Kirill Ulyanov",
-      "requestor_contact_email": "k.ulyanov@airy.host"
-    },
-    "icann_normalized_domain": "lk3.ru",
-    "icann_tld": "ru"
-  },
-  {
     "psl_entry_string": "mypep.link",
     "psl_domain": "mypep.link",
     "section": "private",
@@ -152638,6 +152638,38 @@
     },
     "icann_normalized_domain": "spawn.cc",
     "icann_tld": "cc"
+  },
+  {
+    "psl_entry_string": "*.clusters.rdpa.co",
+    "psl_domain": "clusters.rdpa.co",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Redpanda Data : https://redpanda.com",
+      "requestor_organization": "Redpanda Data",
+      "requestor_organization_url": "https://redpanda.com",
+      "requestor_contact_name": "Infrastructure Team",
+      "requestor_contact_email": "security@redpanda.com"
+    },
+    "icann_normalized_domain": "rdpa.co",
+    "icann_tld": "co"
+  },
+  {
+    "psl_entry_string": "*.srvrless.rdpa.co",
+    "psl_domain": "srvrless.rdpa.co",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Redpanda Data : https://redpanda.com",
+      "requestor_organization": "Redpanda Data",
+      "requestor_organization_url": "https://redpanda.com",
+      "requestor_contact_name": "Infrastructure Team",
+      "requestor_contact_email": "security@redpanda.com"
+    },
+    "icann_normalized_domain": "rdpa.co",
+    "icann_tld": "co"
   },
   {
     "psl_entry_string": "onrender.com",
