@@ -93142,8 +93142,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-11-08T15:16:38Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-11-08T15:16:38Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-12-06T15:17:27Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-12-06T15:17:27Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -106646,8 +106646,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "sony : Sony Corporation",
-      "requestor_organization": "sony : Sony Corporation",
+      "requestor_description": "sony : Sony Group Corporation",
+      "requestor_organization": "sony : Sony Group Corporation",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -129934,6 +129934,54 @@
     },
     "icann_normalized_domain": "shop.th",
     "icann_tld": "th"
+  },
+  {
+    "psl_entry_string": "co.scot",
+    "psl_domain": "co.scot",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dotScot Domains : https://domains.scot/",
+      "requestor_organization": "dotScot Domains",
+      "requestor_organization_url": "https://domains.scot/",
+      "requestor_contact_name": "DNS Team",
+      "requestor_contact_email": "dns@domains.scot"
+    },
+    "icann_normalized_domain": "co.scot",
+    "icann_tld": "scot"
+  },
+  {
+    "psl_entry_string": "me.scot",
+    "psl_domain": "me.scot",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dotScot Domains : https://domains.scot/",
+      "requestor_organization": "dotScot Domains",
+      "requestor_organization_url": "https://domains.scot/",
+      "requestor_contact_name": "DNS Team",
+      "requestor_contact_email": "dns@domains.scot"
+    },
+    "icann_normalized_domain": "me.scot",
+    "icann_tld": "scot"
+  },
+  {
+    "psl_entry_string": "org.scot",
+    "psl_domain": "org.scot",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dotScot Domains : https://domains.scot/",
+      "requestor_organization": "dotScot Domains",
+      "requestor_organization_url": "https://domains.scot/",
+      "requestor_contact_name": "DNS Team",
+      "requestor_contact_email": "dns@domains.scot"
+    },
+    "icann_normalized_domain": "org.scot",
+    "icann_tld": "scot"
   },
   {
     "psl_entry_string": "drayddns.com",
