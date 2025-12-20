@@ -15936,6 +15936,54 @@
     "icann_tld": "org.gy"
   },
   {
+    "psl_entry_string": "onhercules.app",
+    "psl_domain": "onhercules.app",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Hercules : https://hercules.app",
+      "requestor_organization": "Hercules",
+      "requestor_organization_url": "https://hercules.app",
+      "requestor_contact_name": "Brendan Falk",
+      "requestor_contact_email": "security@hercules.app"
+    },
+    "icann_normalized_domain": "onhercules.app",
+    "icann_tld": "onhercules.app"
+  },
+  {
+    "psl_entry_string": "hercules-app.com",
+    "psl_domain": "hercules-app.com",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Hercules : https://hercules.app",
+      "requestor_organization": "Hercules",
+      "requestor_organization_url": "https://hercules.app",
+      "requestor_contact_name": "Brendan Falk",
+      "requestor_contact_email": "security@hercules.app"
+    },
+    "icann_normalized_domain": "hercules-app.com",
+    "icann_tld": "hercules-app.com"
+  },
+  {
+    "psl_entry_string": "hercules-dev.com",
+    "psl_domain": "hercules-dev.com",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Hercules : https://hercules.app",
+      "requestor_organization": "Hercules",
+      "requestor_organization_url": "https://hercules.app",
+      "requestor_contact_name": "Brendan Falk",
+      "requestor_contact_email": "security@hercules.app"
+    },
+    "icann_normalized_domain": "hercules-dev.com",
+    "icann_tld": "hercules-dev.com"
+  },
+  {
     "psl_entry_string": "hk",
     "psl_domain": "hk",
     "section": "icann",
@@ -125344,6 +125392,22 @@
     "icann_tld": "online"
   },
   {
+    "psl_entry_string": "antagonist.cloud",
+    "psl_domain": "antagonist.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Antagonist B.V. : https://www.antagonist.nl/",
+      "requestor_organization": "Antagonist B.V.",
+      "requestor_organization_url": "https://www.antagonist.nl/",
+      "requestor_contact_name": "Sander Hoentjen",
+      "requestor_contact_email": "systeembeheer@antagonist.nl"
+    },
+    "icann_normalized_domain": "antagonist.cloud",
+    "icann_tld": "cloud"
+  },
+  {
     "psl_entry_string": "apigee.io",
     "psl_domain": "apigee.io",
     "section": "private",
@@ -125390,6 +125454,246 @@
     },
     "icann_normalized_domain": "siiites.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "int.apple",
+    "psl_domain": "int.apple",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
+  },
+  {
+    "psl_entry_string": "*.cloud.int.apple",
+    "psl_domain": "cloud.int.apple",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
+  },
+  {
+    "psl_entry_string": "*.r.cloud.int.apple",
+    "psl_domain": "r.cloud.int.apple",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
+  },
+  {
+    "psl_entry_string": "*.ap-north-1.r.cloud.int.apple",
+    "psl_domain": "ap-north-1.r.cloud.int.apple",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
+  },
+  {
+    "psl_entry_string": "*.ap-south-1.r.cloud.int.apple",
+    "psl_domain": "ap-south-1.r.cloud.int.apple",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
+  },
+  {
+    "psl_entry_string": "*.ap-south-2.r.cloud.int.apple",
+    "psl_domain": "ap-south-2.r.cloud.int.apple",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
+  },
+  {
+    "psl_entry_string": "*.eu-central-1.r.cloud.int.apple",
+    "psl_domain": "eu-central-1.r.cloud.int.apple",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
+  },
+  {
+    "psl_entry_string": "*.eu-north-1.r.cloud.int.apple",
+    "psl_domain": "eu-north-1.r.cloud.int.apple",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
+  },
+  {
+    "psl_entry_string": "*.us-central-1.r.cloud.int.apple",
+    "psl_domain": "us-central-1.r.cloud.int.apple",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
+  },
+  {
+    "psl_entry_string": "*.us-central-2.r.cloud.int.apple",
+    "psl_domain": "us-central-2.r.cloud.int.apple",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
+  },
+  {
+    "psl_entry_string": "*.us-east-1.r.cloud.int.apple",
+    "psl_domain": "us-east-1.r.cloud.int.apple",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
+  },
+  {
+    "psl_entry_string": "*.us-east-2.r.cloud.int.apple",
+    "psl_domain": "us-east-2.r.cloud.int.apple",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
+  },
+  {
+    "psl_entry_string": "*.us-west-1.r.cloud.int.apple",
+    "psl_domain": "us-west-1.r.cloud.int.apple",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
+  },
+  {
+    "psl_entry_string": "*.us-west-2.r.cloud.int.apple",
+    "psl_domain": "us-west-2.r.cloud.int.apple",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
+  },
+  {
+    "psl_entry_string": "*.us-west-3.r.cloud.int.apple",
+    "psl_domain": "us-west-3.r.cloud.int.apple",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Apple : https://www.apple.com",
+      "requestor_organization": "Apple",
+      "requestor_organization_url": "https://www.apple.com",
+      "requestor_contact_name": "Apple DNS",
+      "requestor_contact_email": "dnscontact@apple.com"
+    },
+    "icann_normalized_domain": "int.apple",
+    "icann_tld": "apple"
   },
   {
     "psl_entry_string": "appspacehosted.com",
@@ -125454,6 +125758,22 @@
     },
     "icann_normalized_domain": "appwrite.global",
     "icann_tld": "global"
+  },
+  {
+    "psl_entry_string": "appwrite.network",
+    "psl_domain": "appwrite.network",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Appwrite : https://appwrite.io",
+      "requestor_organization": "Appwrite",
+      "requestor_organization_url": "https://appwrite.io",
+      "requestor_contact_name": "Steven Nguyen",
+      "requestor_contact_email": "security@appwrite.io"
+    },
+    "icann_normalized_domain": "appwrite.network",
+    "icann_tld": "network"
   },
   {
     "psl_entry_string": "*.appwrite.run",
@@ -129872,15 +130192,63 @@
     "icann_tld": "biz"
   },
   {
+    "psl_entry_string": "ccwu.cc",
+    "psl_domain": "ccwu.cc",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "DNSHE : https://www.dnshe.com",
+      "requestor_organization": "DNSHE",
+      "requestor_organization_url": "https://www.dnshe.com",
+      "requestor_contact_name": "DNSHE Team",
+      "requestor_contact_email": "support@dnshe.com"
+    },
+    "icann_normalized_domain": "ccwu.cc",
+    "icann_tld": "cc"
+  },
+  {
+    "psl_entry_string": "cc.cd",
+    "psl_domain": "cc.cd",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "DNSHE : https://www.dnshe.com",
+      "requestor_organization": "DNSHE",
+      "requestor_organization_url": "https://www.dnshe.com",
+      "requestor_contact_name": "DNSHE Team",
+      "requestor_contact_email": "support@dnshe.com"
+    },
+    "icann_normalized_domain": "cc.cd",
+    "icann_tld": "cd"
+  },
+  {
+    "psl_entry_string": "us.ci",
+    "psl_domain": "us.ci",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "DNSHE : https://www.dnshe.com",
+      "requestor_organization": "DNSHE",
+      "requestor_organization_url": "https://www.dnshe.com",
+      "requestor_contact_name": "DNSHE Team",
+      "requestor_contact_email": "support@dnshe.com"
+    },
+    "icann_normalized_domain": "us.ci",
+    "icann_tld": "ci"
+  },
+  {
     "psl_entry_string": "de5.net",
     "psl_domain": "de5.net",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "DNSHE : https://de5.net",
+      "requestor_description": "DNSHE : https://www.dnshe.com",
       "requestor_organization": "DNSHE",
-      "requestor_organization_url": "https://de5.net",
+      "requestor_organization_url": "https://www.dnshe.com",
       "requestor_contact_name": "DNSHE Team",
       "requestor_contact_email": "support@dnshe.com"
     },
@@ -135088,22 +135456,6 @@
     "icann_tld": "host"
   },
   {
-    "psl_entry_string": "en-root.fr",
-    "psl_domain": "en-root.fr",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "En root‽ : https://en-root.org",
-      "requestor_organization": "En root‽",
-      "requestor_organization_url": "https://en-root.org",
-      "requestor_contact_name": "Emmanuel Raviart",
-      "requestor_contact_email": "emmanuel@raviart.com"
-    },
-    "icann_normalized_domain": "en-root.fr",
-    "icann_tld": "fr"
-  },
-  {
     "psl_entry_string": "mytuleap.com",
     "psl_domain": "mytuleap.com",
     "section": "private",
@@ -138080,6 +138432,22 @@
     "icann_tld": "app"
   },
   {
+    "psl_entry_string": "sprites.app",
+    "psl_domain": "sprites.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "fly.io : https://fly.io",
+      "requestor_organization": "fly.io",
+      "requestor_organization_url": "https://fly.io",
+      "requestor_contact_name": "Kurt Mackey",
+      "requestor_contact_email": "ops@fly.io"
+    },
+    "icann_normalized_domain": "sprites.app",
+    "icann_tld": "app"
+  },
+  {
     "psl_entry_string": "fly.dev",
     "psl_domain": "fly.dev",
     "section": "private",
@@ -138090,74 +138458,10 @@
       "requestor_organization": "fly.io",
       "requestor_organization_url": "https://fly.io",
       "requestor_contact_name": "Kurt Mackey",
-      "requestor_contact_email": "kurt@fly.io"
+      "requestor_contact_email": "ops@fly.io"
     },
     "icann_normalized_domain": "fly.dev",
     "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "shw.io",
-    "psl_domain": "shw.io",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "fly.io : https://fly.io",
-      "requestor_organization": "fly.io",
-      "requestor_organization_url": "https://fly.io",
-      "requestor_contact_name": "Kurt Mackey",
-      "requestor_contact_email": "kurt@fly.io"
-    },
-    "icann_normalized_domain": "shw.io",
-    "icann_tld": "io"
-  },
-  {
-    "psl_entry_string": "edgeapp.net",
-    "psl_domain": "edgeapp.net",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "fly.io : https://fly.io",
-      "requestor_organization": "fly.io",
-      "requestor_organization_url": "https://fly.io",
-      "requestor_contact_name": "Kurt Mackey",
-      "requestor_contact_email": "kurt@fly.io"
-    },
-    "icann_normalized_domain": "edgeapp.net",
-    "icann_tld": "net"
-  },
-  {
-    "psl_entry_string": "forgeblocks.com",
-    "psl_domain": "forgeblocks.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Forgerock : https://www.forgerock.com",
-      "requestor_organization": "Forgerock",
-      "requestor_organization_url": "https://www.forgerock.com",
-      "requestor_contact_name": "Roderick Parr",
-      "requestor_contact_email": "roderick.parr@forgerock.com"
-    },
-    "icann_normalized_domain": "forgeblocks.com",
-    "icann_tld": "com"
-  },
-  {
-    "psl_entry_string": "id.forgerock.io",
-    "psl_domain": "id.forgerock.io",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Forgerock : https://www.forgerock.com",
-      "requestor_organization": "Forgerock",
-      "requestor_organization_url": "https://www.forgerock.com",
-      "requestor_contact_name": "Roderick Parr",
-      "requestor_contact_email": "roderick.parr@forgerock.com"
-    },
-    "icann_normalized_domain": "forgerock.io",
-    "icann_tld": "io"
   },
   {
     "psl_entry_string": "e2b.app",
@@ -142480,6 +142784,22 @@
     "icann_tld": "host"
   },
   {
+    "psl_entry_string": "indevs.in",
+    "psl_domain": "indevs.in",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Indevs : https://indevs.in",
+      "requestor_organization": "Indevs",
+      "requestor_organization_url": "https://indevs.in",
+      "requestor_contact_name": "Sudheer Bhuvana",
+      "requestor_contact_email": "security@admin.indevs.in"
+    },
+    "icann_normalized_domain": "indevs.in",
+    "icann_tld": "in"
+  },
+  {
     "psl_entry_string": "dyn-berlin.de",
     "psl_domain": "dyn-berlin.de",
     "section": "private",
@@ -146702,6 +147022,38 @@
     },
     "icann_normalized_domain": "magentosite.cloud",
     "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "magicpatterns.app",
+    "psl_domain": "magicpatterns.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Magic Patterns : https://www.magicpatterns.com",
+      "requestor_organization": "Magic Patterns",
+      "requestor_organization_url": "https://www.magicpatterns.com",
+      "requestor_contact_name": "Teddy Ni",
+      "requestor_contact_email": "security@magicpatterns.com"
+    },
+    "icann_normalized_domain": "magicpatterns.app",
+    "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "magicpatternsapp.com",
+    "psl_domain": "magicpatternsapp.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Magic Patterns : https://www.magicpatterns.com",
+      "requestor_organization": "Magic Patterns",
+      "requestor_organization_url": "https://www.magicpatterns.com",
+      "requestor_contact_name": "Teddy Ni",
+      "requestor_contact_email": "security@magicpatterns.com"
+    },
+    "icann_normalized_domain": "magicpatternsapp.com",
+    "icann_tld": "com"
   },
   {
     "psl_entry_string": "hb.cldmail.ru",
@@ -151568,6 +151920,38 @@
     "icann_tld": "cloud"
   },
   {
+    "psl_entry_string": "forgeblocks.com",
+    "psl_domain": "forgeblocks.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Ping Identity : https://www.pingidentity.com",
+      "requestor_organization": "Ping Identity",
+      "requestor_organization_url": "https://www.pingidentity.com",
+      "requestor_contact_name": "Ping Identity",
+      "requestor_contact_email": "security@pingidentity.com"
+    },
+    "icann_normalized_domain": "forgeblocks.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "id.forgerock.io",
+    "psl_domain": "id.forgerock.io",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Ping Identity : https://www.pingidentity.com",
+      "requestor_organization": "Ping Identity",
+      "requestor_organization_url": "https://www.pingidentity.com",
+      "requestor_contact_name": "Ping Identity",
+      "requestor_contact_email": "security@pingidentity.com"
+    },
+    "icann_normalized_domain": "forgerock.io",
+    "icann_tld": "io"
+  },
+  {
     "psl_entry_string": "support.site",
     "psl_domain": "support.site",
     "section": "private",
@@ -151710,38 +152094,6 @@
     },
     "icann_normalized_domain": "tst.site",
     "icann_tld": "site"
-  },
-  {
-    "psl_entry_string": "platter-app.dev",
-    "psl_domain": "platter-app.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Platter : https://platter.dev",
-      "requestor_organization": "Platter",
-      "requestor_organization_url": "https://platter.dev",
-      "requestor_contact_name": "Patrick Flor",
-      "requestor_contact_email": "patrick@platter.dev"
-    },
-    "icann_normalized_domain": "platter-app.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "platterp.us",
-    "psl_domain": "platterp.us",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Platter : https://platter.dev",
-      "requestor_organization": "Platter",
-      "requestor_organization_url": "https://platter.dev",
-      "requestor_contact_name": "Patrick Flor",
-      "requestor_contact_email": "patrick@platter.dev"
-    },
-    "icann_normalized_domain": "platterp.us",
-    "icann_tld": "us"
   },
   {
     "psl_entry_string": "pley.games",
@@ -152014,6 +152366,22 @@
     },
     "icann_normalized_domain": "protonet.io",
     "icann_tld": "io"
+  },
+  {
+    "psl_entry_string": "platter-app.dev",
+    "psl_domain": "platter-app.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "PSL Sandbox : https://github.com/groundcat/PSL-Sandbox",
+      "requestor_organization": "PSL Sandbox",
+      "requestor_organization_url": "https://github.com/groundcat/PSL-Sandbox",
+      "requestor_contact_name": "groundcat",
+      "requestor_contact_email": "psl-sandbox@alumni.upenn.edu"
+    },
+    "icann_normalized_domain": "platter-app.dev",
+    "icann_tld": "dev"
   },
   {
     "psl_entry_string": "e.id",
@@ -154672,6 +155040,22 @@
     "icann_tld": "io"
   },
   {
+    "psl_entry_string": "sav.case",
+    "psl_domain": "sav.case",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Sav.com, LLC : https://marketing.sav.com/",
+      "requestor_organization": "Sav.com, LLC",
+      "requestor_organization_url": "https://marketing.sav.com/",
+      "requestor_contact_name": "Mukul Kudegave",
+      "requestor_contact_email": "mukul@sav.com"
+    },
+    "icann_normalized_domain": "sav.case",
+    "icann_tld": "case"
+  },
+  {
     "psl_entry_string": "logoip.com",
     "psl_domain": "logoip.com",
     "section": "private",
@@ -157262,22 +157646,6 @@
     },
     "icann_normalized_domain": "storebase.store",
     "icann_tld": "store"
-  },
-  {
-    "psl_entry_string": "storipress.app",
-    "psl_domain": "storipress.app",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Storipress : https://storipress.com",
-      "requestor_organization": "Storipress",
-      "requestor_organization_url": "https://storipress.com",
-      "requestor_contact_name": "Benno Liu",
-      "requestor_contact_email": "benno@storipress.com"
-    },
-    "icann_normalized_domain": "storipress.app",
-    "icann_tld": "app"
   },
   {
     "psl_entry_string": "storj.farm",
