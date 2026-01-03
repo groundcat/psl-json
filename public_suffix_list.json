@@ -141824,6 +141824,22 @@
     "icann_tld": "de"
   },
   {
+    "psl_entry_string": "gv.uy",
+    "psl_domain": "gv.uy",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "GV.UY : https://nic.gv.uy",
+      "requestor_organization": "GV.UY",
+      "requestor_organization_url": "https://nic.gv.uy",
+      "requestor_contact_name": "cheng",
+      "requestor_contact_email": "admin@mailto.al"
+    },
+    "icann_normalized_domain": "gv.uy",
+    "icann_tld": "uy"
+  },
+  {
     "psl_entry_string": "hackclub.app",
     "psl_domain": "hackclub.app",
     "section": "private",
@@ -158590,6 +158606,86 @@
     },
     "icann_normalized_domain": "directwp.eu",
     "icann_tld": "eu"
+  },
+  {
+    "psl_entry_string": "ec.cc",
+    "psl_domain": "ec.cc",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "TechEdge Limited: https://www.nic.uk.cc/",
+      "requestor_organization": "TechEdge Limited",
+      "requestor_organization_url": "https://www.nic.uk.cc/",
+      "requestor_contact_name": "TechEdge Developer",
+      "requestor_contact_email": "support@nic.uk.cc"
+    },
+    "icann_normalized_domain": "ec.cc",
+    "icann_tld": "cc"
+  },
+  {
+    "psl_entry_string": "eu.cc",
+    "psl_domain": "eu.cc",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "TechEdge Limited: https://www.nic.uk.cc/",
+      "requestor_organization": "TechEdge Limited",
+      "requestor_organization_url": "https://www.nic.uk.cc/",
+      "requestor_contact_name": "TechEdge Developer",
+      "requestor_contact_email": "support@nic.uk.cc"
+    },
+    "icann_normalized_domain": "eu.cc",
+    "icann_tld": "cc"
+  },
+  {
+    "psl_entry_string": "gu.cc",
+    "psl_domain": "gu.cc",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "TechEdge Limited: https://www.nic.uk.cc/",
+      "requestor_organization": "TechEdge Limited",
+      "requestor_organization_url": "https://www.nic.uk.cc/",
+      "requestor_contact_name": "TechEdge Developer",
+      "requestor_contact_email": "support@nic.uk.cc"
+    },
+    "icann_normalized_domain": "gu.cc",
+    "icann_tld": "cc"
+  },
+  {
+    "psl_entry_string": "uk.cc",
+    "psl_domain": "uk.cc",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "TechEdge Limited: https://www.nic.uk.cc/",
+      "requestor_organization": "TechEdge Limited",
+      "requestor_organization_url": "https://www.nic.uk.cc/",
+      "requestor_contact_name": "TechEdge Developer",
+      "requestor_contact_email": "support@nic.uk.cc"
+    },
+    "icann_normalized_domain": "uk.cc",
+    "icann_tld": "cc"
+  },
+  {
+    "psl_entry_string": "us.cc",
+    "psl_domain": "us.cc",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "TechEdge Limited: https://www.nic.uk.cc/",
+      "requestor_organization": "TechEdge Limited",
+      "requestor_organization_url": "https://www.nic.uk.cc/",
+      "requestor_contact_name": "TechEdge Developer",
+      "requestor_contact_email": "support@nic.uk.cc"
+    },
+    "icann_normalized_domain": "us.cc",
+    "icann_tld": "cc"
   },
   {
     "psl_entry_string": "edugit.io",
