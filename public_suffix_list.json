@@ -15936,54 +15936,6 @@
     "icann_tld": "org.gy"
   },
   {
-    "psl_entry_string": "onhercules.app",
-    "psl_domain": "onhercules.app",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Hercules : https://hercules.app",
-      "requestor_organization": "Hercules",
-      "requestor_organization_url": "https://hercules.app",
-      "requestor_contact_name": "Brendan Falk",
-      "requestor_contact_email": "security@hercules.app"
-    },
-    "icann_normalized_domain": "onhercules.app",
-    "icann_tld": "onhercules.app"
-  },
-  {
-    "psl_entry_string": "hercules-app.com",
-    "psl_domain": "hercules-app.com",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Hercules : https://hercules.app",
-      "requestor_organization": "Hercules",
-      "requestor_organization_url": "https://hercules.app",
-      "requestor_contact_name": "Brendan Falk",
-      "requestor_contact_email": "security@hercules.app"
-    },
-    "icann_normalized_domain": "hercules-app.com",
-    "icann_tld": "hercules-app.com"
-  },
-  {
-    "psl_entry_string": "hercules-dev.com",
-    "psl_domain": "hercules-dev.com",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Hercules : https://hercules.app",
-      "requestor_organization": "Hercules",
-      "requestor_organization_url": "https://hercules.app",
-      "requestor_contact_name": "Brendan Falk",
-      "requestor_contact_email": "security@hercules.app"
-    },
-    "icann_normalized_domain": "hercules-dev.com",
-    "icann_tld": "hercules-dev.com"
-  },
-  {
     "psl_entry_string": "hk",
     "psl_domain": "hk",
     "section": "icann",
@@ -80720,22 +80672,6 @@
     "icann_tld": "org.sn"
   },
   {
-    "psl_entry_string": "perso.sn",
-    "psl_domain": "perso.sn",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "sn : https://www.iana.org/domains/root/db/sn.html",
-      "requestor_organization": "sn",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/sn.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "perso.sn",
-    "icann_tld": "perso.sn"
-  },
-  {
     "psl_entry_string": "univ.sn",
     "psl_domain": "univ.sn",
     "section": "icann",
@@ -93206,8 +93142,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-12-06T15:17:27Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-12-06T15:17:27Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-01-08T15:25:34Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-01-08T15:25:34Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -107766,8 +107702,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "top : .TOP Registry",
-      "requestor_organization": "top : .TOP Registry",
+      "requestor_description": "top : Hong Kong Zhongze International Limited",
+      "requestor_organization": "top : Hong Kong Zhongze International Limited",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -126016,22 +125952,6 @@
     "icann_tld": "net"
   },
   {
-    "psl_entry_string": "translated.page",
-    "psl_domain": "translated.page",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Authentick UG (haftungsbeschränkt) : https://authentick.net",
-      "requestor_organization": "Authentick UG (haftungsbeschränkt)",
-      "requestor_organization_url": "https://authentick.net",
-      "requestor_contact_name": "Lukas Reschke",
-      "requestor_contact_email": "lukas@authentick.net"
-    },
-    "icann_normalized_domain": "translated.page",
-    "icann_tld": "page"
-  },
-  {
     "psl_entry_string": "myfritz.link",
     "psl_domain": "myfritz.link",
     "section": "private",
@@ -126061,22 +125981,6 @@
       "requestor_contact_email": "a.weise@avm.de"
     },
     "icann_normalized_domain": "myfritz.net",
-    "icann_tld": "net"
-  },
-  {
-    "psl_entry_string": "onavstack.net",
-    "psl_domain": "onavstack.net",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "AVStack Pte. Ltd. : https://avstack.io",
-      "requestor_organization": "AVStack Pte. Ltd.",
-      "requestor_organization_url": "https://avstack.io",
-      "requestor_contact_name": "Jasper Hugo",
-      "requestor_contact_email": "jasper@avstack.io"
-    },
-    "icann_normalized_domain": "onavstack.net",
     "icann_tld": "net"
   },
   {
@@ -126846,6 +126750,22 @@
     },
     "icann_normalized_domain": "bubbleapps.io",
     "icann_tld": "io"
+  },
+  {
+    "psl_entry_string": "*.bwcloud-os-instance.de",
+    "psl_domain": "bwcloud-os-instance.de",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "bwCloud-OS : https://bwcloud-os.de/",
+      "requestor_organization": "bwCloud-OS",
+      "requestor_organization_url": "https://bwcloud-os.de/",
+      "requestor_contact_name": "Klara Mall",
+      "requestor_contact_email": "dns@bwcloud-os.de"
+    },
+    "icann_normalized_domain": "bwcloud-os-instance.de",
+    "icann_tld": "de"
   },
   {
     "psl_entry_string": "uk0.bigv.io",
@@ -129806,6 +129726,38 @@
     },
     "icann_normalized_domain": "deta.dev",
     "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "deuxfleurs.eu",
+    "psl_domain": "deuxfleurs.eu",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Deuxfleurs : https://deuxfleurs.fr",
+      "requestor_organization": "Deuxfleurs",
+      "requestor_organization_url": "https://deuxfleurs.fr",
+      "requestor_contact_name": "Aeddis Desauw",
+      "requestor_contact_email": "ca@deuxfleurs.fr"
+    },
+    "icann_normalized_domain": "deuxfleurs.eu",
+    "icann_tld": "eu"
+  },
+  {
+    "psl_entry_string": "deuxfleurs.page",
+    "psl_domain": "deuxfleurs.page",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Deuxfleurs : https://deuxfleurs.fr",
+      "requestor_organization": "Deuxfleurs",
+      "requestor_organization_url": "https://deuxfleurs.fr",
+      "requestor_contact_name": "Aeddis Desauw",
+      "requestor_contact_email": "ca@deuxfleurs.fr"
+    },
+    "icann_normalized_domain": "deuxfleurs.page",
+    "icann_tld": "page"
   },
   {
     "psl_entry_string": "*.at.ply.gg",
@@ -142112,6 +142064,54 @@
     "icann_tld": "org"
   },
   {
+    "psl_entry_string": "onhercules.app",
+    "psl_domain": "onhercules.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Hercules : https://hercules.app",
+      "requestor_organization": "Hercules",
+      "requestor_organization_url": "https://hercules.app",
+      "requestor_contact_name": "Brendan Falk",
+      "requestor_contact_email": "security@hercules.app"
+    },
+    "icann_normalized_domain": "onhercules.app",
+    "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "hercules-app.com",
+    "psl_domain": "hercules-app.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Hercules : https://hercules.app",
+      "requestor_organization": "Hercules",
+      "requestor_organization_url": "https://hercules.app",
+      "requestor_contact_name": "Brendan Falk",
+      "requestor_contact_email": "security@hercules.app"
+    },
+    "icann_normalized_domain": "hercules-app.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "hercules-dev.com",
+    "psl_domain": "hercules-dev.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Hercules : https://hercules.app",
+      "requestor_organization": "Hercules",
+      "requestor_organization_url": "https://hercules.app",
+      "requestor_contact_name": "Brendan Falk",
+      "requestor_contact_email": "security@hercules.app"
+    },
+    "icann_normalized_domain": "hercules-dev.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "herokuapp.com",
     "psl_domain": "herokuapp.com",
     "section": "private",
@@ -142830,22 +142830,6 @@
     },
     "icann_normalized_domain": "wpmudev.host",
     "icann_tld": "host"
-  },
-  {
-    "psl_entry_string": "indevs.in",
-    "psl_domain": "indevs.in",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Indevs : https://indevs.in",
-      "requestor_organization": "Indevs",
-      "requestor_organization_url": "https://indevs.in",
-      "requestor_contact_name": "Sudheer Bhuvana",
-      "requestor_contact_email": "security@admin.indevs.in"
-    },
-    "icann_normalized_domain": "indevs.in",
-    "icann_tld": "in"
   },
   {
     "psl_entry_string": "dyn-berlin.de",
@@ -151616,22 +151600,6 @@
     "icann_tld": "com"
   },
   {
-    "psl_entry_string": "skygearapp.com",
-    "psl_domain": "skygearapp.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Oursky Limited : https://authgear.com/",
-      "requestor_organization": "Oursky Limited",
-      "requestor_organization_url": "https://authgear.com/",
-      "requestor_contact_name": "Authgear Team",
-      "requestor_contact_email": "hello@authgear.com"
-    },
-    "icann_normalized_domain": "skygearapp.com",
-    "icann_tld": "com"
-  },
-  {
     "psl_entry_string": "outsystemscloud.com",
     "psl_domain": "outsystemscloud.com",
     "section": "private",
@@ -152313,10 +152281,26 @@
       "requestor_description": "PROJECT ELIV : https://eliv.kr/",
       "requestor_organization": "PROJECT ELIV",
       "requestor_organization_url": "https://eliv.kr/",
-      "requestor_contact_name": "PROJECT ELIV Domain Team",
+      "requestor_contact_name": "PROJECT ELIV DomainName Team",
       "requestor_contact_email": "team@eliv.kr"
     },
     "icann_normalized_domain": "c01.kr",
+    "icann_tld": "kr"
+  },
+  {
+    "psl_entry_string": "eliv-api.kr",
+    "psl_domain": "eliv-api.kr",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "PROJECT ELIV : https://eliv.kr/",
+      "requestor_organization": "PROJECT ELIV",
+      "requestor_organization_url": "https://eliv.kr/",
+      "requestor_contact_name": "PROJECT ELIV DomainName Team",
+      "requestor_contact_email": "team@eliv.kr"
+    },
+    "icann_normalized_domain": "eliv-api.kr",
     "icann_tld": "kr"
   },
   {
@@ -152329,7 +152313,7 @@
       "requestor_description": "PROJECT ELIV : https://eliv.kr/",
       "requestor_organization": "PROJECT ELIV",
       "requestor_organization_url": "https://eliv.kr/",
-      "requestor_contact_name": "PROJECT ELIV Domain Team",
+      "requestor_contact_name": "PROJECT ELIV DomainName Team",
       "requestor_contact_email": "team@eliv.kr"
     },
     "icann_normalized_domain": "eliv-cdn.kr",
@@ -152345,7 +152329,7 @@
       "requestor_description": "PROJECT ELIV : https://eliv.kr/",
       "requestor_organization": "PROJECT ELIV",
       "requestor_organization_url": "https://eliv.kr/",
-      "requestor_contact_name": "PROJECT ELIV Domain Team",
+      "requestor_contact_name": "PROJECT ELIV DomainName Team",
       "requestor_contact_email": "team@eliv.kr"
     },
     "icann_normalized_domain": "eliv-dns.kr",
@@ -152361,7 +152345,7 @@
       "requestor_description": "PROJECT ELIV : https://eliv.kr/",
       "requestor_organization": "PROJECT ELIV",
       "requestor_organization_url": "https://eliv.kr/",
-      "requestor_contact_name": "PROJECT ELIV Domain Team",
+      "requestor_contact_name": "PROJECT ELIV DomainName Team",
       "requestor_contact_email": "team@eliv.kr"
     },
     "icann_normalized_domain": "mmv.kr",
@@ -152377,7 +152361,7 @@
       "requestor_description": "PROJECT ELIV : https://eliv.kr/",
       "requestor_organization": "PROJECT ELIV",
       "requestor_organization_url": "https://eliv.kr/",
-      "requestor_contact_name": "PROJECT ELIV Domain Team",
+      "requestor_contact_name": "PROJECT ELIV DomainName Team",
       "requestor_contact_email": "team@eliv.kr"
     },
     "icann_normalized_domain": "vki.kr",
@@ -157456,6 +157440,22 @@
     "icann_tld": "zone"
   },
   {
+    "psl_entry_string": "indevs.in",
+    "psl_domain": "indevs.in",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Stackryze : https://stackryze.com",
+      "requestor_organization": "Stackryze",
+      "requestor_organization_url": "https://stackryze.com",
+      "requestor_contact_name": "Sudheer Bhuvana",
+      "requestor_contact_email": "security@stackryze.com"
+    },
+    "icann_normalized_domain": "indevs.in",
+    "icann_tld": "in"
+  },
+  {
     "psl_entry_string": "musician.io",
     "psl_domain": "musician.io",
     "section": "private",
@@ -159469,214 +159469,6 @@
       "requestor_contact_email": "adm@staff.tuxfamily.org"
     },
     "icann_normalized_domain": "tuxfamily.org",
-    "icann_tld": "org"
-  },
-  {
-    "psl_entry_string": "dd-dns.de",
-    "psl_domain": "dd-dns.de",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "TwoDNS : https://www.twodns.de/",
-      "requestor_organization": "TwoDNS",
-      "requestor_organization_url": "https://www.twodns.de/",
-      "requestor_contact_name": "TwoDNS-Support",
-      "requestor_contact_email": "support@two-dns.de"
-    },
-    "icann_normalized_domain": "dd-dns.de",
-    "icann_tld": "de"
-  },
-  {
-    "psl_entry_string": "dray-dns.de",
-    "psl_domain": "dray-dns.de",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "TwoDNS : https://www.twodns.de/",
-      "requestor_organization": "TwoDNS",
-      "requestor_organization_url": "https://www.twodns.de/",
-      "requestor_contact_name": "TwoDNS-Support",
-      "requestor_contact_email": "support@two-dns.de"
-    },
-    "icann_normalized_domain": "dray-dns.de",
-    "icann_tld": "de"
-  },
-  {
-    "psl_entry_string": "draydns.de",
-    "psl_domain": "draydns.de",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "TwoDNS : https://www.twodns.de/",
-      "requestor_organization": "TwoDNS",
-      "requestor_organization_url": "https://www.twodns.de/",
-      "requestor_contact_name": "TwoDNS-Support",
-      "requestor_contact_email": "support@two-dns.de"
-    },
-    "icann_normalized_domain": "draydns.de",
-    "icann_tld": "de"
-  },
-  {
-    "psl_entry_string": "dyn-vpn.de",
-    "psl_domain": "dyn-vpn.de",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "TwoDNS : https://www.twodns.de/",
-      "requestor_organization": "TwoDNS",
-      "requestor_organization_url": "https://www.twodns.de/",
-      "requestor_contact_name": "TwoDNS-Support",
-      "requestor_contact_email": "support@two-dns.de"
-    },
-    "icann_normalized_domain": "dyn-vpn.de",
-    "icann_tld": "de"
-  },
-  {
-    "psl_entry_string": "dynvpn.de",
-    "psl_domain": "dynvpn.de",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "TwoDNS : https://www.twodns.de/",
-      "requestor_organization": "TwoDNS",
-      "requestor_organization_url": "https://www.twodns.de/",
-      "requestor_contact_name": "TwoDNS-Support",
-      "requestor_contact_email": "support@two-dns.de"
-    },
-    "icann_normalized_domain": "dynvpn.de",
-    "icann_tld": "de"
-  },
-  {
-    "psl_entry_string": "mein-vigor.de",
-    "psl_domain": "mein-vigor.de",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "TwoDNS : https://www.twodns.de/",
-      "requestor_organization": "TwoDNS",
-      "requestor_organization_url": "https://www.twodns.de/",
-      "requestor_contact_name": "TwoDNS-Support",
-      "requestor_contact_email": "support@two-dns.de"
-    },
-    "icann_normalized_domain": "mein-vigor.de",
-    "icann_tld": "de"
-  },
-  {
-    "psl_entry_string": "my-vigor.de",
-    "psl_domain": "my-vigor.de",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "TwoDNS : https://www.twodns.de/",
-      "requestor_organization": "TwoDNS",
-      "requestor_organization_url": "https://www.twodns.de/",
-      "requestor_contact_name": "TwoDNS-Support",
-      "requestor_contact_email": "support@two-dns.de"
-    },
-    "icann_normalized_domain": "my-vigor.de",
-    "icann_tld": "de"
-  },
-  {
-    "psl_entry_string": "my-wan.de",
-    "psl_domain": "my-wan.de",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "TwoDNS : https://www.twodns.de/",
-      "requestor_organization": "TwoDNS",
-      "requestor_organization_url": "https://www.twodns.de/",
-      "requestor_contact_name": "TwoDNS-Support",
-      "requestor_contact_email": "support@two-dns.de"
-    },
-    "icann_normalized_domain": "my-wan.de",
-    "icann_tld": "de"
-  },
-  {
-    "psl_entry_string": "syno-ds.de",
-    "psl_domain": "syno-ds.de",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "TwoDNS : https://www.twodns.de/",
-      "requestor_organization": "TwoDNS",
-      "requestor_organization_url": "https://www.twodns.de/",
-      "requestor_contact_name": "TwoDNS-Support",
-      "requestor_contact_email": "support@two-dns.de"
-    },
-    "icann_normalized_domain": "syno-ds.de",
-    "icann_tld": "de"
-  },
-  {
-    "psl_entry_string": "synology-diskstation.de",
-    "psl_domain": "synology-diskstation.de",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "TwoDNS : https://www.twodns.de/",
-      "requestor_organization": "TwoDNS",
-      "requestor_organization_url": "https://www.twodns.de/",
-      "requestor_contact_name": "TwoDNS-Support",
-      "requestor_contact_email": "support@two-dns.de"
-    },
-    "icann_normalized_domain": "synology-diskstation.de",
-    "icann_tld": "de"
-  },
-  {
-    "psl_entry_string": "synology-ds.de",
-    "psl_domain": "synology-ds.de",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "TwoDNS : https://www.twodns.de/",
-      "requestor_organization": "TwoDNS",
-      "requestor_organization_url": "https://www.twodns.de/",
-      "requestor_contact_name": "TwoDNS-Support",
-      "requestor_contact_email": "support@two-dns.de"
-    },
-    "icann_normalized_domain": "synology-ds.de",
-    "icann_tld": "de"
-  },
-  {
-    "psl_entry_string": "diskstation.eu",
-    "psl_domain": "diskstation.eu",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "TwoDNS : https://www.twodns.de/",
-      "requestor_organization": "TwoDNS",
-      "requestor_organization_url": "https://www.twodns.de/",
-      "requestor_contact_name": "TwoDNS-Support",
-      "requestor_contact_email": "support@two-dns.de"
-    },
-    "icann_normalized_domain": "diskstation.eu",
-    "icann_tld": "eu"
-  },
-  {
-    "psl_entry_string": "diskstation.org",
-    "psl_domain": "diskstation.org",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "TwoDNS : https://www.twodns.de/",
-      "requestor_organization": "TwoDNS",
-      "requestor_organization_url": "https://www.twodns.de/",
-      "requestor_contact_name": "TwoDNS-Support",
-      "requestor_contact_email": "support@two-dns.de"
-    },
-    "icann_normalized_domain": "diskstation.org",
     "icann_tld": "org"
   },
   {
