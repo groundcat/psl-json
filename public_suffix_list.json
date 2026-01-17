@@ -145440,6 +145440,38 @@
     "icann_tld": "de"
   },
   {
+    "psl_entry_string": "kiloapps.ai",
+    "psl_domain": "kiloapps.ai",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Kilo Code, Inc. : https://kilo.ai",
+      "requestor_organization": "Kilo Code, Inc.",
+      "requestor_organization_url": "https://kilo.ai",
+      "requestor_contact_name": "Remon Oldenbeuving",
+      "requestor_contact_email": "security@kilocode.ai"
+    },
+    "icann_normalized_domain": "kiloapps.ai",
+    "icann_tld": "ai"
+  },
+  {
+    "psl_entry_string": "kiloapps.io",
+    "psl_domain": "kiloapps.io",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Kilo Code, Inc. : https://kilo.ai",
+      "requestor_organization": "Kilo Code, Inc.",
+      "requestor_organization_url": "https://kilo.ai",
+      "requestor_contact_name": "Remon Oldenbeuving",
+      "requestor_contact_email": "security@kilocode.ai"
+    },
+    "icann_normalized_domain": "kiloapps.io",
+    "icann_tld": "io"
+  },
+  {
     "psl_entry_string": "kinghost.net",
     "psl_domain": "kinghost.net",
     "section": "private",
@@ -160606,6 +160638,38 @@
     },
     "icann_normalized_domain": "panel.gg",
     "icann_tld": "gg"
+  },
+  {
+    "psl_entry_string": "base44.app",
+    "psl_domain": "base44.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Wix.com, Inc. : https://www.wix.com",
+      "requestor_organization": "Wix.com, Inc.",
+      "requestor_organization_url": "https://www.wix.com",
+      "requestor_contact_name": "Shahar Talmi / Alon Kochba",
+      "requestor_contact_email": "publicsuffixlist@wix.com"
+    },
+    "icann_normalized_domain": "base44.app",
+    "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "base44-sandbox.com",
+    "psl_domain": "base44-sandbox.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Wix.com, Inc. : https://www.wix.com",
+      "requestor_organization": "Wix.com, Inc.",
+      "requestor_organization_url": "https://www.wix.com",
+      "requestor_contact_name": "Shahar Talmi / Alon Kochba",
+      "requestor_contact_email": "publicsuffixlist@wix.com"
+    },
+    "icann_normalized_domain": "base44-sandbox.com",
+    "icann_tld": "com"
   },
   {
     "psl_entry_string": "wixsite.com",
