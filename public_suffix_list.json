@@ -127504,6 +127504,22 @@
     "icann_tld": "ua"
   },
   {
+    "psl_entry_string": "discourse.diy",
+    "psl_domain": "discourse.diy",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Civilized Discourse Construction Kit, Inc. : https://www.discourse.org/",
+      "requestor_organization": "Civilized Discourse Construction Kit, Inc.",
+      "requestor_organization_url": "https://www.discourse.org/",
+      "requestor_contact_name": "Rishabh Nambiar, Michael Brown, Rafael dos Santos Silva",
+      "requestor_contact_email": "team@discourse.org"
+    },
+    "icann_normalized_domain": "discourse.diy",
+    "icann_tld": "diy"
+  },
+  {
     "psl_entry_string": "discourse.group",
     "psl_domain": "discourse.group",
     "section": "private",
@@ -127513,7 +127529,7 @@
       "requestor_description": "Civilized Discourse Construction Kit, Inc. : https://www.discourse.org/",
       "requestor_organization": "Civilized Discourse Construction Kit, Inc.",
       "requestor_organization_url": "https://www.discourse.org/",
-      "requestor_contact_name": "Rishabh Nambiar & Michael Brown",
+      "requestor_contact_name": "Rishabh Nambiar, Michael Brown, Rafael dos Santos Silva",
       "requestor_contact_email": "team@discourse.org"
     },
     "icann_normalized_domain": "discourse.group",
@@ -127529,7 +127545,7 @@
       "requestor_description": "Civilized Discourse Construction Kit, Inc. : https://www.discourse.org/",
       "requestor_organization": "Civilized Discourse Construction Kit, Inc.",
       "requestor_organization_url": "https://www.discourse.org/",
-      "requestor_contact_name": "Rishabh Nambiar & Michael Brown",
+      "requestor_contact_name": "Rishabh Nambiar, Michael Brown, Rafael dos Santos Silva",
       "requestor_contact_email": "team@discourse.org"
     },
     "icann_normalized_domain": "discourse.team",
@@ -128910,6 +128926,22 @@
     },
     "icann_normalized_domain": "mil.ru",
     "icann_tld": "ru"
+  },
+  {
+    "psl_entry_string": "corespeed.app",
+    "psl_domain": "corespeed.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "CoreSpeed, Inc. : https://corespeed.io",
+      "requestor_organization": "CoreSpeed, Inc.",
+      "requestor_organization_url": "https://corespeed.io",
+      "requestor_contact_name": "CoreSpeed Team",
+      "requestor_contact_email": "ops@corespeed.io"
+    },
+    "icann_normalized_domain": "corespeed.app",
+    "icann_tld": "app"
   },
   {
     "psl_entry_string": "dyn.cosidns.de",
@@ -145600,6 +145632,38 @@
     "icann_tld": "de"
   },
   {
+    "psl_entry_string": "shiptoday.app",
+    "psl_domain": "shiptoday.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Laravel Holdings, Inc. : https://laravel.com",
+      "requestor_organization": "Laravel Holdings, Inc.",
+      "requestor_organization_url": "https://laravel.com",
+      "requestor_contact_name": "André Valentin & James Brooks",
+      "requestor_contact_email": "security@laravel.com"
+    },
+    "icann_normalized_domain": "shiptoday.app",
+    "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "shiptoday.build",
+    "psl_domain": "shiptoday.build",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Laravel Holdings, Inc. : https://laravel.com",
+      "requestor_organization": "Laravel Holdings, Inc.",
+      "requestor_organization_url": "https://laravel.com",
+      "requestor_contact_name": "André Valentin & James Brooks",
+      "requestor_contact_email": "security@laravel.com"
+    },
+    "icann_normalized_domain": "shiptoday.build",
+    "icann_tld": "build"
+  },
+  {
     "psl_entry_string": "laravel.cloud",
     "psl_domain": "laravel.cloud",
     "section": "private",
@@ -148126,6 +148190,38 @@
     },
     "icann_normalized_domain": "csx.cc",
     "icann_tld": "cc"
+  },
+  {
+    "psl_entry_string": "miren.app",
+    "psl_domain": "miren.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Miren, Inc. : https://miren.dev",
+      "requestor_organization": "Miren, Inc.",
+      "requestor_organization_url": "https://miren.dev",
+      "requestor_contact_name": "Miren Product Team",
+      "requestor_contact_email": "team-product@miren.dev"
+    },
+    "icann_normalized_domain": "miren.app",
+    "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "miren.systems",
+    "psl_domain": "miren.systems",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Miren, Inc. : https://miren.dev",
+      "requestor_organization": "Miren, Inc.",
+      "requestor_organization_url": "https://miren.dev",
+      "requestor_contact_name": "Miren Product Team",
+      "requestor_contact_email": "team-product@miren.dev"
+    },
+    "icann_normalized_domain": "miren.systems",
+    "icann_tld": "systems"
   },
   {
     "psl_entry_string": "mydbserver.com",
@@ -156990,6 +157086,22 @@
     },
     "icann_normalized_domain": "nx.gw",
     "icann_tld": "gw"
+  },
+  {
+    "psl_entry_string": "spawnbase.app",
+    "psl_domain": "spawnbase.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Spawnbase : https://spawnbase.ai",
+      "requestor_organization": "Spawnbase",
+      "requestor_organization_url": "https://spawnbase.ai",
+      "requestor_contact_name": "Alexander Zuev",
+      "requestor_contact_email": "security@spawnbase.ai"
+    },
+    "icann_normalized_domain": "spawnbase.app",
+    "icann_tld": "app"
   },
   {
     "psl_entry_string": "customer.speedpartner.de",
