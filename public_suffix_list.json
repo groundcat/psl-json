@@ -93142,8 +93142,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-01-08T15:25:34Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-01-08T15:25:34Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-01-29T15:35:06Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-01-29T15:35:06Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -104886,8 +104886,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "radio : European Broadcasting Union (EBU)",
-      "requestor_organization": "radio : European Broadcasting Union (EBU)",
+      "requestor_description": "radio : Digity, LLC",
+      "requestor_organization": "radio : Digity, LLC",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -108694,8 +108694,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "weather : International Business Machines Corporation",
-      "requestor_organization": "weather : International Business Machines Corporation",
+      "requestor_description": "weather : The Weather Company, LLC",
+      "requestor_organization": "weather : The Weather Company, LLC",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -113054,6 +113054,22 @@
     },
     "icann_normalized_domain": "amazoncognito.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu",
+    "psl_domain": "auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Cognito",
+      "requestor_organization": "Amazon Cognito",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonwebservices.eu",
+    "icann_tld": "eu"
   },
   {
     "psl_entry_string": "*.compute.amazonaws.com.cn",
@@ -120560,6 +120576,22 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "s3-website.dualstack.us-gov-east-1.amazonaws.com",
+    "psl_domain": "s3-website.dualstack.us-gov-east-1.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon S3",
+      "requestor_organization": "Amazon S3",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "s3.us-gov-east-1.amazonaws.com",
     "psl_domain": "s3.us-gov-east-1.amazonaws.com",
     "section": "private",
@@ -120706,6 +120738,22 @@
   {
     "psl_entry_string": "s3-fips.dualstack.us-gov-west-1.amazonaws.com",
     "psl_domain": "s3-fips.dualstack.us-gov-west-1.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon S3",
+      "requestor_organization": "Amazon S3",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "s3-website.dualstack.us-gov-west-1.amazonaws.com",
+    "psl_domain": "s3-website.dualstack.us-gov-west-1.amazonaws.com",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -124928,6 +124976,22 @@
     "icann_tld": "aws"
   },
   {
+    "psl_entry_string": "transfer-webapp.ap-southeast-7.on.aws",
+    "psl_domain": "transfer-webapp.ap-southeast-7.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
     "psl_entry_string": "transfer-webapp.ca-central-1.on.aws",
     "psl_domain": "transfer-webapp.ca-central-1.on.aws",
     "section": "private",
@@ -125122,6 +125186,22 @@
   {
     "psl_entry_string": "transfer-webapp.me-south-1.on.aws",
     "psl_domain": "transfer-webapp.me-south-1.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.mx-central-1.on.aws",
+    "psl_domain": "transfer-webapp.mx-central-1.on.aws",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -145440,6 +145520,70 @@
     "icann_tld": "cloud"
   },
   {
+    "psl_entry_string": "keenetic.io",
+    "psl_domain": "keenetic.io",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Keenetic : https://keenetic.com",
+      "requestor_organization": "Keenetic",
+      "requestor_organization_url": "https://keenetic.com",
+      "requestor_contact_name": "Alexey Nikitin",
+      "requestor_contact_email": "cloud@keenetic.net"
+    },
+    "icann_normalized_domain": "keenetic.io",
+    "icann_tld": "io"
+  },
+  {
+    "psl_entry_string": "keenetic.link",
+    "psl_domain": "keenetic.link",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Keenetic : https://keenetic.com",
+      "requestor_organization": "Keenetic",
+      "requestor_organization_url": "https://keenetic.com",
+      "requestor_contact_name": "Alexey Nikitin",
+      "requestor_contact_email": "cloud@keenetic.net"
+    },
+    "icann_normalized_domain": "keenetic.link",
+    "icann_tld": "link"
+  },
+  {
+    "psl_entry_string": "keenetic.name",
+    "psl_domain": "keenetic.name",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Keenetic : https://keenetic.com",
+      "requestor_organization": "Keenetic",
+      "requestor_organization_url": "https://keenetic.com",
+      "requestor_contact_name": "Alexey Nikitin",
+      "requestor_contact_email": "cloud@keenetic.net"
+    },
+    "icann_normalized_domain": "keenetic.name",
+    "icann_tld": "name"
+  },
+  {
+    "psl_entry_string": "keenetic.pro",
+    "psl_domain": "keenetic.pro",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Keenetic : https://keenetic.com",
+      "requestor_organization": "Keenetic",
+      "requestor_organization_url": "https://keenetic.com",
+      "requestor_contact_name": "Alexey Nikitin",
+      "requestor_contact_email": "cloud@keenetic.net"
+    },
+    "icann_normalized_domain": "keenetic.pro",
+    "icann_tld": "pro"
+  },
+  {
     "psl_entry_string": "ae.kg",
     "psl_domain": "ae.kg",
     "section": "private",
@@ -155088,8 +155232,216 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "*.aa.crm.dev",
+    "psl_domain": "aa.crm.dev",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Salesforce.com, Inc. : https://salesforce.com/",
+      "requestor_organization": "Salesforce.com, Inc.",
+      "requestor_organization_url": "https://salesforce.com/",
+      "requestor_contact_name": "Salesforce Public Suffix List Team",
+      "requestor_contact_email": "public-suffix-list@salesforce.com"
+    },
+    "icann_normalized_domain": "crm.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "*.ab.crm.dev",
+    "psl_domain": "ab.crm.dev",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Salesforce.com, Inc. : https://salesforce.com/",
+      "requestor_organization": "Salesforce.com, Inc.",
+      "requestor_organization_url": "https://salesforce.com/",
+      "requestor_contact_name": "Salesforce Public Suffix List Team",
+      "requestor_contact_email": "public-suffix-list@salesforce.com"
+    },
+    "icann_normalized_domain": "crm.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "*.ac.crm.dev",
+    "psl_domain": "ac.crm.dev",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Salesforce.com, Inc. : https://salesforce.com/",
+      "requestor_organization": "Salesforce.com, Inc.",
+      "requestor_organization_url": "https://salesforce.com/",
+      "requestor_contact_name": "Salesforce Public Suffix List Team",
+      "requestor_contact_email": "public-suffix-list@salesforce.com"
+    },
+    "icann_normalized_domain": "crm.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "*.ad.crm.dev",
+    "psl_domain": "ad.crm.dev",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Salesforce.com, Inc. : https://salesforce.com/",
+      "requestor_organization": "Salesforce.com, Inc.",
+      "requestor_organization_url": "https://salesforce.com/",
+      "requestor_contact_name": "Salesforce Public Suffix List Team",
+      "requestor_contact_email": "public-suffix-list@salesforce.com"
+    },
+    "icann_normalized_domain": "crm.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "*.ae.crm.dev",
+    "psl_domain": "ae.crm.dev",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Salesforce.com, Inc. : https://salesforce.com/",
+      "requestor_organization": "Salesforce.com, Inc.",
+      "requestor_organization_url": "https://salesforce.com/",
+      "requestor_contact_name": "Salesforce Public Suffix List Team",
+      "requestor_contact_email": "public-suffix-list@salesforce.com"
+    },
+    "icann_normalized_domain": "crm.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "*.af.crm.dev",
+    "psl_domain": "af.crm.dev",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Salesforce.com, Inc. : https://salesforce.com/",
+      "requestor_organization": "Salesforce.com, Inc.",
+      "requestor_organization_url": "https://salesforce.com/",
+      "requestor_contact_name": "Salesforce Public Suffix List Team",
+      "requestor_contact_email": "public-suffix-list@salesforce.com"
+    },
+    "icann_normalized_domain": "crm.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "*.ci.crm.dev",
+    "psl_domain": "ci.crm.dev",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Salesforce.com, Inc. : https://salesforce.com/",
+      "requestor_organization": "Salesforce.com, Inc.",
+      "requestor_organization_url": "https://salesforce.com/",
+      "requestor_contact_name": "Salesforce Public Suffix List Team",
+      "requestor_contact_email": "public-suffix-list@salesforce.com"
+    },
+    "icann_normalized_domain": "crm.dev",
+    "icann_tld": "dev"
+  },
+  {
     "psl_entry_string": "*.d.crm.dev",
     "psl_domain": "d.crm.dev",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Salesforce.com, Inc. : https://salesforce.com/",
+      "requestor_organization": "Salesforce.com, Inc.",
+      "requestor_organization_url": "https://salesforce.com/",
+      "requestor_contact_name": "Salesforce Public Suffix List Team",
+      "requestor_contact_email": "public-suffix-list@salesforce.com"
+    },
+    "icann_normalized_domain": "crm.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "*.pa.crm.dev",
+    "psl_domain": "pa.crm.dev",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Salesforce.com, Inc. : https://salesforce.com/",
+      "requestor_organization": "Salesforce.com, Inc.",
+      "requestor_organization_url": "https://salesforce.com/",
+      "requestor_contact_name": "Salesforce Public Suffix List Team",
+      "requestor_contact_email": "public-suffix-list@salesforce.com"
+    },
+    "icann_normalized_domain": "crm.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "*.pb.crm.dev",
+    "psl_domain": "pb.crm.dev",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Salesforce.com, Inc. : https://salesforce.com/",
+      "requestor_organization": "Salesforce.com, Inc.",
+      "requestor_organization_url": "https://salesforce.com/",
+      "requestor_contact_name": "Salesforce Public Suffix List Team",
+      "requestor_contact_email": "public-suffix-list@salesforce.com"
+    },
+    "icann_normalized_domain": "crm.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "*.pc.crm.dev",
+    "psl_domain": "pc.crm.dev",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Salesforce.com, Inc. : https://salesforce.com/",
+      "requestor_organization": "Salesforce.com, Inc.",
+      "requestor_organization_url": "https://salesforce.com/",
+      "requestor_contact_name": "Salesforce Public Suffix List Team",
+      "requestor_contact_email": "public-suffix-list@salesforce.com"
+    },
+    "icann_normalized_domain": "crm.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "*.pd.crm.dev",
+    "psl_domain": "pd.crm.dev",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Salesforce.com, Inc. : https://salesforce.com/",
+      "requestor_organization": "Salesforce.com, Inc.",
+      "requestor_organization_url": "https://salesforce.com/",
+      "requestor_contact_name": "Salesforce Public Suffix List Team",
+      "requestor_contact_email": "public-suffix-list@salesforce.com"
+    },
+    "icann_normalized_domain": "crm.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "*.pe.crm.dev",
+    "psl_domain": "pe.crm.dev",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Salesforce.com, Inc. : https://salesforce.com/",
+      "requestor_organization": "Salesforce.com, Inc.",
+      "requestor_organization_url": "https://salesforce.com/",
+      "requestor_contact_name": "Salesforce Public Suffix List Team",
+      "requestor_contact_email": "public-suffix-list@salesforce.com"
+    },
+    "icann_normalized_domain": "crm.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "*.pf.crm.dev",
+    "psl_domain": "pf.crm.dev",
     "section": "private",
     "is_wildcard": true,
     "is_negation": false,
@@ -156942,6 +157294,22 @@
     },
     "icann_normalized_domain": "mafelo.net",
     "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "sol.site",
+    "psl_domain": "sol.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Solana Name Service :  https://sns.id",
+      "requestor_organization": "Solana Name Service",
+      "requestor_organization_url": "https://sns.id",
+      "requestor_contact_name": "Solana Name Service",
+      "requestor_contact_email": "contact@sns.id"
+    },
+    "icann_normalized_domain": "sol.site",
+    "icann_tld": "site"
   },
   {
     "psl_entry_string": "playstation-cloud.com",
