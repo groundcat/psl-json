@@ -111008,54 +111008,6 @@
     "icann_tld": "pl"
   },
   {
-    "psl_entry_string": "12chars.dev",
-    "psl_domain": "12chars.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "12CHARS : https://12chars.com",
-      "requestor_organization": "12CHARS",
-      "requestor_organization_url": "https://12chars.com",
-      "requestor_contact_name": "Kenny Niehage",
-      "requestor_contact_email": "psl@12chars.com"
-    },
-    "icann_normalized_domain": "12chars.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "12chars.it",
-    "psl_domain": "12chars.it",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "12CHARS : https://12chars.com",
-      "requestor_organization": "12CHARS",
-      "requestor_organization_url": "https://12chars.com",
-      "requestor_contact_name": "Kenny Niehage",
-      "requestor_contact_email": "psl@12chars.com"
-    },
-    "icann_normalized_domain": "12chars.it",
-    "icann_tld": "it"
-  },
-  {
-    "psl_entry_string": "12chars.pro",
-    "psl_domain": "12chars.pro",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "12CHARS : https://12chars.com",
-      "requestor_organization": "12CHARS",
-      "requestor_organization_url": "https://12chars.com",
-      "requestor_contact_name": "Kenny Niehage",
-      "requestor_contact_email": "psl@12chars.com"
-    },
-    "icann_normalized_domain": "12chars.pro",
-    "icann_tld": "pro"
-  },
-  {
     "psl_entry_string": "cc.ua",
     "psl_domain": "cc.ua",
     "section": "private",
@@ -135008,6 +134960,38 @@
     "icann_tld": "ws"
   },
   {
+    "psl_entry_string": "1cooldns.com",
+    "psl_domain": "1cooldns.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dynu.com : https://www.dynu.com/",
+      "requestor_organization": "Dynu.com",
+      "requestor_organization_url": "https://www.dynu.com/",
+      "requestor_contact_name": "Sue Ye",
+      "requestor_contact_email": "psl-contact@dynu.com"
+    },
+    "icann_normalized_domain": "1cooldns.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "bumbleshrimp.com",
+    "psl_domain": "bumbleshrimp.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dynu.com : https://www.dynu.com/",
+      "requestor_organization": "Dynu.com",
+      "requestor_organization_url": "https://www.dynu.com/",
+      "requestor_contact_name": "Sue Ye",
+      "requestor_contact_email": "psl-contact@dynu.com"
+    },
+    "icann_normalized_domain": "bumbleshrimp.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "ddnsfree.com",
     "psl_domain": "ddnsfree.com",
     "section": "private",
@@ -135018,7 +135002,7 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "ddnsfree.com",
     "icann_tld": "com"
@@ -135034,9 +135018,57 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "ddnsgeek.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "ddnsguru.com",
+    "psl_domain": "ddnsguru.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dynu.com : https://www.dynu.com/",
+      "requestor_organization": "Dynu.com",
+      "requestor_organization_url": "https://www.dynu.com/",
+      "requestor_contact_name": "Sue Ye",
+      "requestor_contact_email": "psl-contact@dynu.com"
+    },
+    "icann_normalized_domain": "ddnsguru.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "dynuddns.com",
+    "psl_domain": "dynuddns.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dynu.com : https://www.dynu.com/",
+      "requestor_organization": "Dynu.com",
+      "requestor_organization_url": "https://www.dynu.com/",
+      "requestor_contact_name": "Sue Ye",
+      "requestor_contact_email": "psl-contact@dynu.com"
+    },
+    "icann_normalized_domain": "dynuddns.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "dynuhosting.com",
+    "psl_domain": "dynuhosting.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dynu.com : https://www.dynu.com/",
+      "requestor_organization": "Dynu.com",
+      "requestor_organization_url": "https://www.dynu.com/",
+      "requestor_contact_name": "Sue Ye",
+      "requestor_contact_email": "psl-contact@dynu.com"
+    },
+    "icann_normalized_domain": "dynuhosting.com",
     "icann_tld": "com"
   },
   {
@@ -135050,7 +135082,7 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "giize.com",
     "icann_tld": "com"
@@ -135066,7 +135098,7 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "gleeze.com",
     "icann_tld": "com"
@@ -135082,7 +135114,7 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "kozow.com",
     "icann_tld": "com"
@@ -135098,7 +135130,7 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "loseyourip.com",
     "icann_tld": "com"
@@ -135114,9 +135146,25 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "ooguy.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "pivohosting.com",
+    "psl_domain": "pivohosting.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dynu.com : https://www.dynu.com/",
+      "requestor_organization": "Dynu.com",
+      "requestor_organization_url": "https://www.dynu.com/",
+      "requestor_contact_name": "Sue Ye",
+      "requestor_contact_email": "psl-contact@dynu.com"
+    },
+    "icann_normalized_domain": "pivohosting.com",
     "icann_tld": "com"
   },
   {
@@ -135130,9 +135178,25 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "theworkpc.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "wiredbladehosting.com",
+    "psl_domain": "wiredbladehosting.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dynu.com : https://www.dynu.com/",
+      "requestor_organization": "Dynu.com",
+      "requestor_organization_url": "https://www.dynu.com/",
+      "requestor_contact_name": "Sue Ye",
+      "requestor_contact_email": "psl-contact@dynu.com"
+    },
+    "icann_normalized_domain": "wiredbladehosting.com",
     "icann_tld": "com"
   },
   {
@@ -135146,7 +135210,7 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "casacam.net",
     "icann_tld": "net"
@@ -135162,9 +135226,73 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "dynu.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "dynuddns.net",
+    "psl_domain": "dynuddns.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dynu.com : https://www.dynu.com/",
+      "requestor_organization": "Dynu.com",
+      "requestor_organization_url": "https://www.dynu.com/",
+      "requestor_contact_name": "Sue Ye",
+      "requestor_contact_email": "psl-contact@dynu.com"
+    },
+    "icann_normalized_domain": "dynuddns.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "mysynology.net",
+    "psl_domain": "mysynology.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dynu.com : https://www.dynu.com/",
+      "requestor_organization": "Dynu.com",
+      "requestor_organization_url": "https://www.dynu.com/",
+      "requestor_contact_name": "Sue Ye",
+      "requestor_contact_email": "psl-contact@dynu.com"
+    },
+    "icann_normalized_domain": "mysynology.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "opik.net",
+    "psl_domain": "opik.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dynu.com : https://www.dynu.com/",
+      "requestor_organization": "Dynu.com",
+      "requestor_organization_url": "https://www.dynu.com/",
+      "requestor_contact_name": "Sue Ye",
+      "requestor_contact_email": "psl-contact@dynu.com"
+    },
+    "icann_normalized_domain": "opik.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "spryt.net",
+    "psl_domain": "spryt.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dynu.com : https://www.dynu.com/",
+      "requestor_organization": "Dynu.com",
+      "requestor_organization_url": "https://www.dynu.com/",
+      "requestor_contact_name": "Sue Ye",
+      "requestor_contact_email": "psl-contact@dynu.com"
+    },
+    "icann_normalized_domain": "spryt.net",
     "icann_tld": "net"
   },
   {
@@ -135178,7 +135306,7 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "accesscam.org",
     "icann_tld": "org"
@@ -135194,7 +135322,7 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "camdvr.org",
     "icann_tld": "org"
@@ -135210,7 +135338,7 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "freeddns.org",
     "icann_tld": "org"
@@ -135226,9 +135354,25 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "mywire.org",
+    "icann_tld": "org"
+  },
+  {
+    "psl_entry_string": "roxa.org",
+    "psl_domain": "roxa.org",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dynu.com : https://www.dynu.com/",
+      "requestor_organization": "Dynu.com",
+      "requestor_organization_url": "https://www.dynu.com/",
+      "requestor_contact_name": "Sue Ye",
+      "requestor_contact_email": "psl-contact@dynu.com"
+    },
+    "icann_normalized_domain": "roxa.org",
     "icann_tld": "org"
   },
   {
@@ -135242,7 +135386,7 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "webredirect.org",
     "icann_tld": "org"
@@ -135258,7 +135402,7 @@
       "requestor_organization": "Dynu.com",
       "requestor_organization_url": "https://www.dynu.com/",
       "requestor_contact_name": "Sue Ye",
-      "requestor_contact_email": "sue@dynu.com"
+      "requestor_contact_email": "psl-contact@dynu.com"
     },
     "icann_normalized_domain": "myddns.rocks",
     "icann_tld": "rocks"
@@ -145392,22 +145536,6 @@
     "icann_tld": "site"
   },
   {
-    "psl_entry_string": "*.cns.joyent.com",
-    "psl_domain": "cns.joyent.com",
-    "section": "private",
-    "is_wildcard": true,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Joyent : https://www.joyent.com/",
-      "requestor_organization": "Joyent",
-      "requestor_organization_url": "https://www.joyent.com/",
-      "requestor_contact_name": "Brian Bennett",
-      "requestor_contact_email": "brian.bennett@joyent.com"
-    },
-    "icann_normalized_domain": "joyent.com",
-    "icann_tld": "com"
-  },
-  {
     "psl_entry_string": "*.triton.zone",
     "psl_domain": "triton.zone",
     "section": "private",
@@ -148128,6 +148256,54 @@
     "icann_tld": "net"
   },
   {
+    "psl_entry_string": "blob.core.usgovcloudapi.net",
+    "psl_domain": "blob.core.usgovcloudapi.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "icann_normalized_domain": "usgovcloudapi.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "file.core.usgovcloudapi.net",
+    "psl_domain": "file.core.usgovcloudapi.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "icann_normalized_domain": "usgovcloudapi.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "web.core.usgovcloudapi.net",
+    "psl_domain": "web.core.usgovcloudapi.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "icann_normalized_domain": "usgovcloudapi.net",
+    "icann_tld": "net"
+  },
+  {
     "psl_entry_string": "servicebus.usgovcloudapi.net",
     "psl_domain": "servicebus.usgovcloudapi.net",
     "section": "private",
@@ -148160,8 +148336,56 @@
     "icann_tld": "net"
   },
   {
+    "psl_entry_string": "usgovtrafficmanager.net",
+    "psl_domain": "usgovtrafficmanager.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "icann_normalized_domain": "usgovtrafficmanager.net",
+    "icann_tld": "net"
+  },
+  {
     "psl_entry_string": "blob.core.windows.net",
     "psl_domain": "blob.core.windows.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "icann_normalized_domain": "windows.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "file.core.windows.net",
+    "psl_domain": "file.core.windows.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "icann_normalized_domain": "windows.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "web.core.windows.net",
+    "psl_domain": "web.core.windows.net",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
