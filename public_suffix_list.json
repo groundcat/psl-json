@@ -90288,6 +90288,22 @@
     "icann_tld": "hoabinh.vn"
   },
   {
+    "psl_entry_string": "hue.vn",
+    "psl_domain": "hue.vn",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "vn geographical names",
+      "requestor_organization": "vn geographical names",
+      "requestor_organization_url": null,
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "hue.vn",
+    "icann_tld": "hue.vn"
+  },
+  {
     "psl_entry_string": "hungyen.vn",
     "psl_domain": "hungyen.vn",
     "section": "icann",
@@ -93142,8 +93158,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-01-29T15:35:06Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-01-29T15:35:06Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-07T15:24:45Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-07T15:24:45Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -99438,22 +99454,6 @@
     },
     "icann_normalized_domain": "golf",
     "icann_tld": "golf"
-  },
-  {
-    "psl_entry_string": "goo",
-    "psl_domain": "goo",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "goo : NTT DOCOMO, INC.",
-      "requestor_organization": "goo : NTT DOCOMO, INC.",
-      "requestor_organization_url": null,
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "goo",
-    "icann_tld": "goo"
   },
   {
     "psl_entry_string": "goodyear",
@@ -128864,8 +128864,72 @@
     "icann_tld": "cloud"
   },
   {
+    "psl_entry_string": "eu-west-1.convex.cloud",
+    "psl_domain": "eu-west-1.convex.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Convex : https://convex.dev/",
+      "requestor_organization": "Convex",
+      "requestor_organization_url": "https://convex.dev/",
+      "requestor_contact_name": "James Cowling",
+      "requestor_contact_email": "security@convex.dev"
+    },
+    "icann_normalized_domain": "convex.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "us-east-1.convex.cloud",
+    "psl_domain": "us-east-1.convex.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Convex : https://convex.dev/",
+      "requestor_organization": "Convex",
+      "requestor_organization_url": "https://convex.dev/",
+      "requestor_contact_name": "James Cowling",
+      "requestor_contact_email": "security@convex.dev"
+    },
+    "icann_normalized_domain": "convex.cloud",
+    "icann_tld": "cloud"
+  },
+  {
     "psl_entry_string": "convex.site",
     "psl_domain": "convex.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Convex : https://convex.dev/",
+      "requestor_organization": "Convex",
+      "requestor_organization_url": "https://convex.dev/",
+      "requestor_contact_name": "James Cowling",
+      "requestor_contact_email": "security@convex.dev"
+    },
+    "icann_normalized_domain": "convex.site",
+    "icann_tld": "site"
+  },
+  {
+    "psl_entry_string": "eu-west-1.convex.site",
+    "psl_domain": "eu-west-1.convex.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Convex : https://convex.dev/",
+      "requestor_organization": "Convex",
+      "requestor_organization_url": "https://convex.dev/",
+      "requestor_contact_name": "James Cowling",
+      "requestor_contact_email": "security@convex.dev"
+    },
+    "icann_normalized_domain": "convex.site",
+    "icann_tld": "site"
+  },
+  {
+    "psl_entry_string": "us-east-1.convex.site",
+    "psl_domain": "us-east-1.convex.site",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -129730,6 +129794,22 @@
   {
     "psl_entry_string": "deno.net",
     "psl_domain": "deno.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Deno Land Inc : https://deno.com/",
+      "requestor_organization": "Deno Land Inc",
+      "requestor_organization_url": "https://deno.com/",
+      "requestor_contact_name": "Luca Casonato",
+      "requestor_contact_email": "hostmaster@deno.com"
+    },
+    "icann_normalized_domain": "deno.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "sandbox.deno.net",
+    "psl_domain": "sandbox.deno.net",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -142990,6 +143070,22 @@
     },
     "icann_normalized_domain": "iliadboxos.it",
     "icann_tld": "it"
+  },
+  {
+    "psl_entry_string": "imagine.diy",
+    "psl_domain": "imagine.diy",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Imagine : https://imagine.dev",
+      "requestor_organization": "Imagine",
+      "requestor_organization_url": "https://imagine.dev",
+      "requestor_contact_name": "Steven Nguyen",
+      "requestor_contact_email": "security@imagine.dev"
+    },
+    "icann_normalized_domain": "imagine.diy",
+    "icann_tld": "diy"
   },
   {
     "psl_entry_string": "imagine-proxy.work",
