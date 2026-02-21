@@ -93158,8 +93158,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-07T15:24:45Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-07T15:24:45Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-18T15:51:43Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-18T15:51:43Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -103782,8 +103782,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "onl : iRegistry GmbH",
-      "requestor_organization": "onl : iRegistry GmbH",
+      "requestor_description": "onl : Jolly Host, LLC",
+      "requestor_organization": "onl : Jolly Host, LLC",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -108854,8 +108854,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "wien : punkt.wien GmbH",
-      "requestor_organization": "wien : punkt.wien GmbH",
+      "requestor_description": "wien : domainworx Service & Management GmbH",
+      "requestor_organization": "wien : domainworx Service & Management GmbH",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -108974,22 +108974,6 @@
     },
     "icann_normalized_domain": "wme",
     "icann_tld": "wme"
-  },
-  {
-    "psl_entry_string": "wolterskluwer",
-    "psl_domain": "wolterskluwer",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "wolterskluwer : Wolters Kluwer N.V.",
-      "requestor_organization": "wolterskluwer : Wolters Kluwer N.V.",
-      "requestor_organization_url": null,
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "wolterskluwer",
-    "icann_tld": "wolterskluwer"
   },
   {
     "psl_entry_string": "woodside",
@@ -145710,6 +145694,22 @@
     },
     "icann_normalized_domain": "kapsi.fi",
     "icann_tld": "fi"
+  },
+  {
+    "psl_entry_string": "kdns.fr",
+    "psl_domain": "kdns.fr",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "KataBump : https://katabump.com",
+      "requestor_organization": "KataBump",
+      "requestor_organization_url": "https://katabump.com",
+      "requestor_contact_name": "Thibault Lapeyre",
+      "requestor_contact_email": "contact@katabump.com"
+    },
+    "icann_normalized_domain": "kdns.fr",
+    "icann_tld": "fr"
   },
   {
     "psl_entry_string": "ezproxy.kuleuven.be",
