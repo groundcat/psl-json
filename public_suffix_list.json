@@ -54912,20 +54912,100 @@
     "icann_tld": "org.kg"
   },
   {
-    "psl_entry_string": "*.kh",
+    "psl_entry_string": "kh",
     "psl_domain": "kh",
     "section": "icann",
-    "is_wildcard": true,
+    "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "kh : http://www.mptc.gov.kh/dns_registration.htm",
+      "requestor_description": "kh : https://trc.gov.kh",
       "requestor_organization": "kh",
-      "requestor_organization_url": "http://www.mptc.gov.kh/dns_registration.htm",
+      "requestor_organization_url": "https://trc.gov.kh",
       "requestor_contact_name": null,
-      "requestor_contact_email": null
+      "requestor_contact_email": "khnic@trc.gov.kh"
     },
     "icann_normalized_domain": "kh",
     "icann_tld": "kh"
+  },
+  {
+    "psl_entry_string": "com.kh",
+    "psl_domain": "com.kh",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "kh : https://trc.gov.kh",
+      "requestor_organization": "kh",
+      "requestor_organization_url": "https://trc.gov.kh",
+      "requestor_contact_name": null,
+      "requestor_contact_email": "khnic@trc.gov.kh"
+    },
+    "icann_normalized_domain": "com.kh",
+    "icann_tld": "com.kh"
+  },
+  {
+    "psl_entry_string": "edu.kh",
+    "psl_domain": "edu.kh",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "kh : https://trc.gov.kh",
+      "requestor_organization": "kh",
+      "requestor_organization_url": "https://trc.gov.kh",
+      "requestor_contact_name": null,
+      "requestor_contact_email": "khnic@trc.gov.kh"
+    },
+    "icann_normalized_domain": "edu.kh",
+    "icann_tld": "edu.kh"
+  },
+  {
+    "psl_entry_string": "gov.kh",
+    "psl_domain": "gov.kh",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "kh : https://trc.gov.kh",
+      "requestor_organization": "kh",
+      "requestor_organization_url": "https://trc.gov.kh",
+      "requestor_contact_name": null,
+      "requestor_contact_email": "khnic@trc.gov.kh"
+    },
+    "icann_normalized_domain": "gov.kh",
+    "icann_tld": "gov.kh"
+  },
+  {
+    "psl_entry_string": "net.kh",
+    "psl_domain": "net.kh",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "kh : https://trc.gov.kh",
+      "requestor_organization": "kh",
+      "requestor_organization_url": "https://trc.gov.kh",
+      "requestor_contact_name": null,
+      "requestor_contact_email": "khnic@trc.gov.kh"
+    },
+    "icann_normalized_domain": "net.kh",
+    "icann_tld": "net.kh"
+  },
+  {
+    "psl_entry_string": "org.kh",
+    "psl_domain": "org.kh",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "kh : https://trc.gov.kh",
+      "requestor_organization": "kh",
+      "requestor_organization_url": "https://trc.gov.kh",
+      "requestor_contact_name": null,
+      "requestor_contact_email": "khnic@trc.gov.kh"
+    },
+    "icann_normalized_domain": "org.kh",
+    "icann_tld": "org.kh"
   },
   {
     "psl_entry_string": "ki",
@@ -126278,14 +126358,30 @@
     "is_wildcard": true,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "Beget Ltd",
-      "requestor_organization": "Beget Ltd",
-      "requestor_organization_url": null,
-      "requestor_contact_name": "Lev Nekrasov",
-      "requestor_contact_email": "lnekrasov@beget.com"
+      "requestor_description": "Beget LLC : https://beget.com",
+      "requestor_organization": "Beget LLC",
+      "requestor_organization_url": "https://beget.com",
+      "requestor_contact_name": "Lev Nekrasov & Nikita Radchenko",
+      "requestor_contact_email": "admin@beget.com"
     },
     "icann_normalized_domain": "beget.app",
     "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "*.begetcdn.cloud",
+    "psl_domain": "begetcdn.cloud",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Beget LLC : https://beget.com",
+      "requestor_organization": "Beget LLC",
+      "requestor_organization_url": "https://beget.com",
+      "requestor_contact_name": "Lev Nekrasov & Nikita Radchenko",
+      "requestor_contact_email": "admin@beget.com"
+    },
+    "icann_normalized_domain": "begetcdn.cloud",
+    "icann_tld": "cloud"
   },
   {
     "psl_entry_string": "pages.gay",
@@ -130096,6 +130192,70 @@
     "icann_tld": "xyz"
   },
   {
+    "psl_entry_string": "mybox.company",
+    "psl_domain": "mybox.company",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dhosting.pl Sp. z o.o. : https://dhosting.pl/",
+      "requestor_organization": "dhosting.pl Sp. z o.o.",
+      "requestor_organization_url": "https://dhosting.pl/",
+      "requestor_contact_name": "Szczepan Redzioch",
+      "requestor_contact_email": "bok@dhosting.pl"
+    },
+    "icann_normalized_domain": "mybox.company",
+    "icann_tld": "company"
+  },
+  {
+    "psl_entry_string": "intouch.email",
+    "psl_domain": "intouch.email",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dhosting.pl Sp. z o.o. : https://dhosting.pl/",
+      "requestor_organization": "dhosting.pl Sp. z o.o.",
+      "requestor_organization_url": "https://dhosting.pl/",
+      "requestor_contact_name": "Szczepan Redzioch",
+      "requestor_contact_email": "bok@dhosting.pl"
+    },
+    "icann_normalized_domain": "intouch.email",
+    "icann_tld": "email"
+  },
+  {
+    "psl_entry_string": "mybox.me",
+    "psl_domain": "mybox.me",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dhosting.pl Sp. z o.o. : https://dhosting.pl/",
+      "requestor_organization": "dhosting.pl Sp. z o.o.",
+      "requestor_organization_url": "https://dhosting.pl/",
+      "requestor_contact_name": "Szczepan Redzioch",
+      "requestor_contact_email": "bok@dhosting.pl"
+    },
+    "icann_normalized_domain": "mybox.me",
+    "icann_tld": "me"
+  },
+  {
+    "psl_entry_string": "mybox.page",
+    "psl_domain": "mybox.page",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dhosting.pl Sp. z o.o. : https://dhosting.pl/",
+      "requestor_organization": "dhosting.pl Sp. z o.o.",
+      "requestor_organization_url": "https://dhosting.pl/",
+      "requestor_contact_name": "Szczepan Redzioch",
+      "requestor_contact_email": "bok@dhosting.pl"
+    },
+    "icann_normalized_domain": "mybox.page",
+    "icann_tld": "page"
+  },
+  {
     "psl_entry_string": "dfirma.pl",
     "psl_domain": "dfirma.pl",
     "section": "private",
@@ -130105,7 +130265,7 @@
       "requestor_description": "dhosting.pl Sp. z o.o. : https://dhosting.pl/",
       "requestor_organization": "dhosting.pl Sp. z o.o.",
       "requestor_organization_url": "https://dhosting.pl/",
-      "requestor_contact_name": "Michal Kokoszkiewicz",
+      "requestor_contact_name": "Szczepan Redzioch",
       "requestor_contact_email": "bok@dhosting.pl"
     },
     "icann_normalized_domain": "dfirma.pl",
@@ -130121,7 +130281,7 @@
       "requestor_description": "dhosting.pl Sp. z o.o. : https://dhosting.pl/",
       "requestor_organization": "dhosting.pl Sp. z o.o.",
       "requestor_organization_url": "https://dhosting.pl/",
-      "requestor_contact_name": "Michal Kokoszkiewicz",
+      "requestor_contact_name": "Szczepan Redzioch",
       "requestor_contact_email": "bok@dhosting.pl"
     },
     "icann_normalized_domain": "dkonto.pl",
@@ -130137,7 +130297,7 @@
       "requestor_description": "dhosting.pl Sp. z o.o. : https://dhosting.pl/",
       "requestor_organization": "dhosting.pl Sp. z o.o.",
       "requestor_organization_url": "https://dhosting.pl/",
-      "requestor_contact_name": "Michal Kokoszkiewicz",
+      "requestor_contact_name": "Szczepan Redzioch",
       "requestor_contact_email": "bok@dhosting.pl"
     },
     "icann_normalized_domain": "you2.pl",
@@ -161406,6 +161566,38 @@
     },
     "icann_normalized_domain": "windsurf.build",
     "icann_tld": "build"
+  },
+  {
+    "psl_entry_string": "drive-platform.com",
+    "psl_domain": "drive-platform.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "WirelessCar : https://wirelesscar.com",
+      "requestor_organization": "WirelessCar",
+      "requestor_organization_url": "https://wirelesscar.com",
+      "requestor_contact_name": "Martin Lindberg",
+      "requestor_contact_email": "drive-platform@wirelesscar.com"
+    },
+    "icann_normalized_domain": "drive-platform.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "drive-platform.io",
+    "psl_domain": "drive-platform.io",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "WirelessCar : https://wirelesscar.com",
+      "requestor_organization": "WirelessCar",
+      "requestor_organization_url": "https://wirelesscar.com",
+      "requestor_contact_name": "Martin Lindberg",
+      "requestor_contact_email": "drive-platform@wirelesscar.com"
+    },
+    "icann_normalized_domain": "drive-platform.io",
+    "icann_tld": "io"
   },
   {
     "psl_entry_string": "panel.gg",
