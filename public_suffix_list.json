@@ -111840,6 +111840,38 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "ms.fun",
+    "psl_domain": "ms.fun",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Alibaba Cloud API Gateway",
+      "requestor_organization": "Alibaba Cloud API Gateway",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "Alibaba Cloud Security",
+      "requestor_contact_email": "cloud_product_security_team@alibaba-inc.com"
+    },
+    "icann_normalized_domain": "ms.fun",
+    "icann_tld": "fun"
+  },
+  {
+    "psl_entry_string": "ms.show",
+    "psl_domain": "ms.show",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Alibaba Cloud API Gateway",
+      "requestor_organization": "Alibaba Cloud API Gateway",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "Alibaba Cloud Security",
+      "requestor_contact_email": "cloud_product_security_team@alibaba-inc.com"
+    },
+    "icann_normalized_domain": "ms.show",
+    "icann_tld": "show"
+  },
+  {
     "psl_entry_string": "kasserver.com",
     "psl_domain": "kasserver.com",
     "section": "private",
@@ -147840,22 +147872,6 @@
     "icann_tld": "org"
   },
   {
-    "psl_entry_string": "mazeplay.com",
-    "psl_domain": "mazeplay.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Maze Play : https://www.mazeplay.com",
-      "requestor_organization": "Maze Play",
-      "requestor_organization_url": "https://www.mazeplay.com",
-      "requestor_contact_name": "Adam Humpherys",
-      "requestor_contact_email": "adam@mws.dev"
-    },
-    "icann_normalized_domain": "mazeplay.com",
-    "icann_tld": "com"
-  },
-  {
     "psl_entry_string": "mcdir.me",
     "psl_domain": "mcdir.me",
     "section": "private",
@@ -149070,6 +149086,22 @@
     },
     "icann_normalized_domain": "pp.ru",
     "icann_tld": "ru"
+  },
+  {
+    "psl_entry_string": "my.be",
+    "psl_domain": "my.be",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "MyOwn srl : https://www.myown.eu/",
+      "requestor_organization": "MyOwn srl",
+      "requestor_organization_url": "https://www.myown.eu/",
+      "requestor_contact_name": "Stephane Bouvard",
+      "requestor_contact_email": "support@myown.eu"
+    },
+    "icann_normalized_domain": "my.be",
+    "icann_tld": "be"
   },
   {
     "psl_entry_string": "hostedpi.com",
