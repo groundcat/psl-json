@@ -137113,7 +137113,23 @@
       "requestor_description": "Expo : https://expo.dev/",
       "requestor_organization": "Expo",
       "requestor_organization_url": "https://expo.dev/",
-      "requestor_contact_name": "James Ide",
+      "requestor_contact_name": "Phil Pluckthun",
+      "requestor_contact_email": "psl@expo.dev"
+    },
+    "icann_normalized_domain": "expo.app",
+    "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "on.expo.app",
+    "psl_domain": "on.expo.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Expo : https://expo.dev/",
+      "requestor_organization": "Expo",
+      "requestor_organization_url": "https://expo.dev/",
+      "requestor_contact_name": "Phil Pluckthun",
       "requestor_contact_email": "psl@expo.dev"
     },
     "icann_normalized_domain": "expo.app",
@@ -137129,7 +137145,23 @@
       "requestor_description": "Expo : https://expo.dev/",
       "requestor_organization": "Expo",
       "requestor_organization_url": "https://expo.dev/",
-      "requestor_contact_name": "James Ide",
+      "requestor_contact_name": "Phil Pluckthun",
+      "requestor_contact_email": "psl@expo.dev"
+    },
+    "icann_normalized_domain": "expo.app",
+    "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "on.staging.expo.app",
+    "psl_domain": "on.staging.expo.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Expo : https://expo.dev/",
+      "requestor_organization": "Expo",
+      "requestor_organization_url": "https://expo.dev/",
+      "requestor_contact_name": "Phil Pluckthun",
       "requestor_contact_email": "psl@expo.dev"
     },
     "icann_normalized_domain": "expo.app",
@@ -145806,22 +145838,6 @@
     },
     "icann_normalized_domain": "jouwweb.site",
     "icann_tld": "site"
-  },
-  {
-    "psl_entry_string": "*.triton.zone",
-    "psl_domain": "triton.zone",
-    "section": "private",
-    "is_wildcard": true,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Joyent : https://www.joyent.com/",
-      "requestor_organization": "Joyent",
-      "requestor_organization_url": "https://www.joyent.com/",
-      "requestor_contact_name": "Brian Bennett",
-      "requestor_contact_email": "brian.bennett@joyent.com"
-    },
-    "icann_normalized_domain": "triton.zone",
-    "icann_tld": "zone"
   },
   {
     "psl_entry_string": "js.org",
@@ -160462,6 +160478,22 @@
     },
     "icann_normalized_domain": "transurl.nl",
     "icann_tld": "nl"
+  },
+  {
+    "psl_entry_string": "*.triton.zone",
+    "psl_domain": "triton.zone",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Triton Data Center project : https://tritondatacenter.com",
+      "requestor_organization": "Triton Data Center project",
+      "requestor_organization_url": "https://tritondatacenter.com",
+      "requestor_contact_name": "Triton Data Center staff",
+      "requestor_contact_email": "tickets@tritondatacenter.com"
+    },
+    "icann_normalized_domain": "triton.zone",
+    "icann_tld": "zone"
   },
   {
     "psl_entry_string": "tunnelmole.net",
