@@ -137104,6 +137104,22 @@
     "icann_tld": "dev"
   },
   {
+    "psl_entry_string": "exe.xyz",
+    "psl_domain": "exe.xyz",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Exe : https://exe.dev",
+      "requestor_organization": "Exe",
+      "requestor_organization_url": "https://exe.dev",
+      "requestor_contact_name": "Josh Bleecher Snyder",
+      "requestor_contact_email": "security@exe.dev"
+    },
+    "icann_normalized_domain": "exe.xyz",
+    "icann_tld": "xyz"
+  },
+  {
     "psl_entry_string": "expo.app",
     "psl_domain": "expo.app",
     "section": "private",
