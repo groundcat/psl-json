@@ -138832,6 +138832,22 @@
     "icann_tld": "io"
   },
   {
+    "psl_entry_string": "payload.dev",
+    "psl_domain": "payload.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Figma : https://www.figma.com",
+      "requestor_organization": "Figma",
+      "requestor_organization_url": "https://www.figma.com",
+      "requestor_contact_name": "Nick Frost",
+      "requestor_contact_email": "psl@figma.com"
+    },
+    "icann_normalized_domain": "payload.dev",
+    "icann_tld": "dev"
+  },
+  {
     "psl_entry_string": "figma.site",
     "psl_domain": "figma.site",
     "section": "private",
@@ -152734,6 +152750,22 @@
     },
     "icann_normalized_domain": "mypep.link",
     "icann_tld": "link"
+  },
+  {
+    "psl_entry_string": "pplx.app",
+    "psl_domain": "pplx.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Perplexity AI : https://www.perplexity.ai/",
+      "requestor_organization": "Perplexity AI",
+      "requestor_organization_url": "https://www.perplexity.ai/",
+      "requestor_contact_name": "Alec Xiang",
+      "requestor_contact_email": "security@perplexity.ai"
+    },
+    "icann_normalized_domain": "pplx.app",
+    "icann_tld": "app"
   },
   {
     "psl_entry_string": "perspecta.cloud",
