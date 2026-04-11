@@ -93238,8 +93238,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-18T15:51:43Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-18T15:51:43Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-04-10T15:53:10Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-04-10T15:53:10Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -96198,8 +96198,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "circle : Amazon Registry Services, Inc.",
-      "requestor_organization": "circle : Amazon Registry Services, Inc.",
+      "requestor_description": "circle : Jolly Host, LLC",
+      "requestor_organization": "circle : Jolly Host, LLC",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -99606,8 +99606,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "got : Amazon Registry Services, Inc.",
-      "requestor_organization": "got : Amazon Registry Services, Inc.",
+      "requestor_description": "got : Jolly Host, LLC",
+      "requestor_organization": "got : Jolly Host, LLC",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -101094,8 +101094,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "jot : Amazon Registry Services, Inc.",
-      "requestor_organization": "jot : Amazon Registry Services, Inc.",
+      "requestor_description": "jot : Jolly Host, LLC",
+      "requestor_organization": "jot : Jolly Host, LLC",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -125472,6 +125472,22 @@
     "icann_tld": "online"
   },
   {
+    "psl_entry_string": "opentunnel.xyz",
+    "psl_domain": "opentunnel.xyz",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Anomaly : https://opencode.ai",
+      "requestor_organization": "Anomaly",
+      "requestor_organization_url": "https://opencode.ai",
+      "requestor_contact_name": "Dax Raad",
+      "requestor_contact_email": "security@anoma.ly"
+    },
+    "icann_normalized_domain": "opentunnel.xyz",
+    "icann_tld": "xyz"
+  },
+  {
     "psl_entry_string": "antagonist.cloud",
     "psl_domain": "antagonist.cloud",
     "section": "private",
@@ -129934,6 +129950,22 @@
     },
     "icann_normalized_domain": "deno.net",
     "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "deployagent.com",
+    "psl_domain": "deployagent.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "DeployAgent : https://deployagent.com",
+      "requestor_organization": "DeployAgent",
+      "requestor_organization_url": "https://deployagent.com",
+      "requestor_contact_name": "Danny",
+      "requestor_contact_email": "security@deployagent.com"
+    },
+    "icann_normalized_domain": "deployagent.com",
+    "icann_tld": "com"
   },
   {
     "psl_entry_string": "dedyn.io",
@@ -142896,6 +142928,22 @@
     "icann_tld": "pub"
   },
   {
+    "psl_entry_string": "seprox.hooc.me",
+    "psl_domain": "seprox.hooc.me",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "HOOC AG : https://www.hooc.ch",
+      "requestor_organization": "HOOC AG",
+      "requestor_organization_url": "https://www.hooc.ch",
+      "requestor_contact_name": "Fabrizio Steiner",
+      "requestor_contact_email": "info@hooc.ch"
+    },
+    "icann_normalized_domain": "hooc.me",
+    "icann_tld": "me"
+  },
+  {
     "psl_entry_string": "hoplix.shop",
     "psl_domain": "hoplix.shop",
     "section": "private",
@@ -145886,6 +145934,150 @@
     },
     "icann_normalized_domain": "js.org",
     "icann_tld": "org"
+  },
+  {
+    "psl_entry_string": "elastic.k2.cloud",
+    "psl_domain": "elastic.k2.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "K2 Cloud : https://k2.cloud/",
+      "requestor_organization": "K2 Cloud",
+      "requestor_organization_url": "https://k2.cloud/",
+      "requestor_contact_name": "K2 Cloud",
+      "requestor_contact_email": "compliance@k2.cloud"
+    },
+    "icann_normalized_domain": "k2.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "lb.ru-msk.k2.cloud",
+    "psl_domain": "lb.ru-msk.k2.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "K2 Cloud : https://k2.cloud/",
+      "requestor_organization": "K2 Cloud",
+      "requestor_organization_url": "https://k2.cloud/",
+      "requestor_contact_name": "K2 Cloud",
+      "requestor_contact_email": "compliance@k2.cloud"
+    },
+    "icann_normalized_domain": "k2.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "s3.ru-msk.k2.cloud",
+    "psl_domain": "s3.ru-msk.k2.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "K2 Cloud : https://k2.cloud/",
+      "requestor_organization": "K2 Cloud",
+      "requestor_organization_url": "https://k2.cloud/",
+      "requestor_contact_name": "K2 Cloud",
+      "requestor_contact_email": "compliance@k2.cloud"
+    },
+    "icann_normalized_domain": "k2.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "website.ru-msk.k2.cloud",
+    "psl_domain": "website.ru-msk.k2.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "K2 Cloud : https://k2.cloud/",
+      "requestor_organization": "K2 Cloud",
+      "requestor_organization_url": "https://k2.cloud/",
+      "requestor_contact_name": "K2 Cloud",
+      "requestor_contact_email": "compliance@k2.cloud"
+    },
+    "icann_normalized_domain": "k2.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "lb.ru-spb.k2.cloud",
+    "psl_domain": "lb.ru-spb.k2.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "K2 Cloud : https://k2.cloud/",
+      "requestor_organization": "K2 Cloud",
+      "requestor_organization_url": "https://k2.cloud/",
+      "requestor_contact_name": "K2 Cloud",
+      "requestor_contact_email": "compliance@k2.cloud"
+    },
+    "icann_normalized_domain": "k2.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "s3.ru-spb.k2.cloud",
+    "psl_domain": "s3.ru-spb.k2.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "K2 Cloud : https://k2.cloud/",
+      "requestor_organization": "K2 Cloud",
+      "requestor_organization_url": "https://k2.cloud/",
+      "requestor_contact_name": "K2 Cloud",
+      "requestor_contact_email": "compliance@k2.cloud"
+    },
+    "icann_normalized_domain": "k2.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "website.ru-spb.k2.cloud",
+    "psl_domain": "website.ru-spb.k2.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "K2 Cloud : https://k2.cloud/",
+      "requestor_organization": "K2 Cloud",
+      "requestor_organization_url": "https://k2.cloud/",
+      "requestor_contact_name": "K2 Cloud",
+      "requestor_contact_email": "compliance@k2.cloud"
+    },
+    "icann_normalized_domain": "k2.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "s3.k2.cloud",
+    "psl_domain": "s3.k2.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "K2 Cloud : https://k2.cloud/",
+      "requestor_organization": "K2 Cloud",
+      "requestor_organization_url": "https://k2.cloud/",
+      "requestor_contact_name": "K2 Cloud",
+      "requestor_contact_email": "compliance@k2.cloud"
+    },
+    "icann_normalized_domain": "k2.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "website.k2.cloud",
+    "psl_domain": "website.k2.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "K2 Cloud : https://k2.cloud/",
+      "requestor_organization": "K2 Cloud",
+      "requestor_organization_url": "https://k2.cloud/",
+      "requestor_contact_name": "K2 Cloud",
+      "requestor_contact_email": "compliance@k2.cloud"
+    },
+    "icann_normalized_domain": "k2.cloud",
+    "icann_tld": "cloud"
   },
   {
     "psl_entry_string": "kaas.gg",
@@ -151296,6 +151488,406 @@
     "icann_tld": "run"
   },
   {
+    "psl_entry_string": "aberdeen.wa.us",
+    "psl_domain": "aberdeen.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "bainbridge-isl.wa.us",
+    "psl_domain": "bainbridge-isl.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "bellevue.wa.us",
+    "psl_domain": "bellevue.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "bremerton.wa.us",
+    "psl_domain": "bremerton.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "centralia.wa.us",
+    "psl_domain": "centralia.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "chehalis.wa.us",
+    "psl_domain": "chehalis.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "forks.wa.us",
+    "psl_domain": "forks.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "gig-harbor.wa.us",
+    "psl_domain": "gig-harbor.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "hoquiam.wa.us",
+    "psl_domain": "hoquiam.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "keyport.wa.us",
+    "psl_domain": "keyport.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "kingston.wa.us",
+    "psl_domain": "kingston.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "olympia.wa.us",
+    "psl_domain": "olympia.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "port-angeles.wa.us",
+    "psl_domain": "port-angeles.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "port-ludlow.wa.us",
+    "psl_domain": "port-ludlow.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "port-orchard.wa.us",
+    "psl_domain": "port-orchard.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "port-townsend.wa.us",
+    "psl_domain": "port-townsend.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "poulsbo.wa.us",
+    "psl_domain": "poulsbo.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "redmond.wa.us",
+    "psl_domain": "redmond.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "renton.wa.us",
+    "psl_domain": "renton.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "sea.wa.us",
+    "psl_domain": "sea.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "seattle.wa.us",
+    "psl_domain": "seattle.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "sequim.wa.us",
+    "psl_domain": "sequim.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "shelton.wa.us",
+    "psl_domain": "shelton.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "silverdale.wa.us",
+    "psl_domain": "silverdale.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
+    "psl_entry_string": "yarrow-point.wa.us",
+    "psl_domain": "yarrow-point.wa.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Northwest Nexus dba NuOz : https://nuoz.net/",
+      "requestor_organization": "Northwest Nexus dba NuOz",
+      "requestor_organization_url": "https://nuoz.net/",
+      "requestor_contact_name": "Peter Briggs on behalf of NuOz",
+      "requestor_contact_email": "domainsadmin@nuoz.com"
+    },
+    "icann_normalized_domain": "wa.us",
+    "icann_tld": "us"
+  },
+  {
     "psl_entry_string": "noticeable.news",
     "psl_domain": "noticeable.news",
     "section": "private",
@@ -152573,22 +153165,6 @@
       "requestor_contact_email": "derek@pagefog.com"
     },
     "icann_normalized_domain": "pgfog.com",
-    "icann_tld": "com"
-  },
-  {
-    "psl_entry_string": "pagexl.com",
-    "psl_domain": "pagexl.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "PageXL : https://pagexl.com",
-      "requestor_organization": "PageXL",
-      "requestor_organization_url": "https://pagexl.com",
-      "requestor_contact_name": "Yann Guichard",
-      "requestor_contact_email": "yann@pagexl.com"
-    },
-    "icann_normalized_domain": "pagexl.com",
     "icann_tld": "com"
   },
   {
@@ -158528,6 +159104,22 @@
     "icann_tld": "zone"
   },
   {
+    "psl_entry_string": "sryze.cc",
+    "psl_domain": "sryze.cc",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Stackryze : https://stackryze.com",
+      "requestor_organization": "Stackryze",
+      "requestor_organization_url": "https://stackryze.com",
+      "requestor_contact_name": "Sudheer Bhuvana",
+      "requestor_contact_email": "security@stackryze.com"
+    },
+    "icann_normalized_domain": "sryze.cc",
+    "icann_tld": "cc"
+  },
+  {
     "psl_entry_string": "indevs.in",
     "psl_domain": "indevs.in",
     "section": "private",
@@ -161150,6 +161742,38 @@
     },
     "icann_normalized_domain": "deus-canvas.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "vivenushop.com",
+    "psl_domain": "vivenushop.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "vivenu GmbH : https://vivenu.com/",
+      "requestor_organization": "vivenu GmbH",
+      "requestor_organization_url": "https://vivenu.com/",
+      "requestor_contact_name": "Marvin Frick",
+      "requestor_contact_email": "ops@vivenu.com"
+    },
+    "icann_normalized_domain": "vivenushop.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "vivenushop.dev",
+    "psl_domain": "vivenushop.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "vivenu GmbH : https://vivenu.com/",
+      "requestor_organization": "vivenu GmbH",
+      "requestor_organization_url": "https://vivenu.com/",
+      "requestor_contact_name": "Marvin Frick",
+      "requestor_contact_email": "ops@vivenu.com"
+    },
+    "icann_normalized_domain": "vivenushop.dev",
+    "icann_tld": "dev"
   },
   {
     "psl_entry_string": "voorloper.cloud",
