@@ -125504,6 +125504,22 @@
     "icann_tld": "cloud"
   },
   {
+    "psl_entry_string": "claude.app",
+    "psl_domain": "claude.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Anthropic : https://www.anthropic.com/",
+      "requestor_organization": "Anthropic",
+      "requestor_organization_url": "https://www.anthropic.com/",
+      "requestor_contact_name": "Sid Bidasaria",
+      "requestor_contact_email": "security@anthropic.com"
+    },
+    "icann_normalized_domain": "claude.app",
+    "icann_tld": "app"
+  },
+  {
     "psl_entry_string": "apigee.io",
     "psl_domain": "apigee.io",
     "section": "private",
@@ -126080,6 +126096,54 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "*.atlassian-3p.com",
+    "psl_domain": "atlassian-3p.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Atlassian : https://atlassian.com",
+      "requestor_organization": "Atlassian",
+      "requestor_organization_url": "https://atlassian.com",
+      "requestor_contact_name": "Benjamin McAlary",
+      "requestor_contact_email": "edge-services@atlassian.com"
+    },
+    "icann_normalized_domain": "atlassian-3p.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.atlassian-3p-us-gov-mod.com",
+    "psl_domain": "atlassian-3p-us-gov-mod.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Atlassian : https://atlassian.com",
+      "requestor_organization": "Atlassian",
+      "requestor_organization_url": "https://atlassian.com",
+      "requestor_contact_name": "Benjamin McAlary",
+      "requestor_contact_email": "edge-services@atlassian.com"
+    },
+    "icann_normalized_domain": "atlassian-3p-us-gov-mod.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.atlassian-isolated-3p.com",
+    "psl_domain": "atlassian-isolated-3p.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Atlassian : https://atlassian.com",
+      "requestor_organization": "Atlassian",
+      "requestor_organization_url": "https://atlassian.com",
+      "requestor_contact_name": "Benjamin McAlary",
+      "requestor_contact_email": "edge-services@atlassian.com"
+    },
+    "icann_normalized_domain": "atlassian-isolated-3p.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "cdn.prod.atlassian-dev.net",
     "psl_domain": "cdn.prod.atlassian-dev.net",
     "section": "private",
@@ -126089,8 +126153,8 @@
       "requestor_description": "Atlassian : https://atlassian.com",
       "requestor_organization": "Atlassian",
       "requestor_organization_url": "https://atlassian.com",
-      "requestor_contact_name": "Sam Smyth",
-      "requestor_contact_email": "devloop@atlassian.com"
+      "requestor_contact_name": "Benjamin McAlary",
+      "requestor_contact_email": "edge-services@atlassian.com"
     },
     "icann_normalized_domain": "atlassian-dev.net",
     "icann_tld": "net"
@@ -129966,6 +130030,38 @@
     },
     "icann_normalized_domain": "deployagent.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "piebox.site",
+    "psl_domain": "piebox.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "DeployAgent : https://deployagent.com",
+      "requestor_organization": "DeployAgent",
+      "requestor_organization_url": "https://deployagent.com",
+      "requestor_contact_name": "Danny",
+      "requestor_contact_email": "security@deployagent.com"
+    },
+    "icann_normalized_domain": "piebox.site",
+    "icann_tld": "site"
+  },
+  {
+    "psl_entry_string": "deployagent.space",
+    "psl_domain": "deployagent.space",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "DeployAgent : https://deployagent.com",
+      "requestor_organization": "DeployAgent",
+      "requestor_organization_url": "https://deployagent.com",
+      "requestor_contact_name": "Danny",
+      "requestor_contact_email": "security@deployagent.com"
+    },
+    "icann_normalized_domain": "deployagent.space",
+    "icann_tld": "space"
   },
   {
     "psl_entry_string": "dedyn.io",
@@ -137232,6 +137328,22 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "fspages.org",
+    "psl_domain": "fspages.org",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "fachschaften.org: https://fachschaften.org/",
+      "requestor_organization": "fachschaften.org",
+      "requestor_organization_url": "https://fachschaften.org/",
+      "requestor_contact_name": "Felix Schäfer",
+      "requestor_contact_email": "security@fachschaften.org"
+    },
+    "icann_normalized_domain": "fspages.org",
+    "icann_tld": "org"
+  },
+  {
     "psl_entry_string": "ru.net",
     "psl_domain": "ru.net",
     "section": "private",
@@ -142254,38 +142366,6 @@
     },
     "icann_normalized_domain": "pymnt.uk",
     "icann_tld": "uk"
-  },
-  {
-    "psl_entry_string": "cloudapps.digital",
-    "psl_domain": "cloudapps.digital",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "GOV.UK Platform as a Service : https://www.cloud.service.gov.uk/",
-      "requestor_organization": "GOV.UK Platform as a Service",
-      "requestor_organization_url": "https://www.cloud.service.gov.uk/",
-      "requestor_contact_name": "Tom Whitwell",
-      "requestor_contact_email": "gov-uk-paas-support@digital.cabinet-office.gov.uk"
-    },
-    "icann_normalized_domain": "cloudapps.digital",
-    "icann_tld": "digital"
-  },
-  {
-    "psl_entry_string": "london.cloudapps.digital",
-    "psl_domain": "london.cloudapps.digital",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "GOV.UK Platform as a Service : https://www.cloud.service.gov.uk/",
-      "requestor_organization": "GOV.UK Platform as a Service",
-      "requestor_organization_url": "https://www.cloud.service.gov.uk/",
-      "requestor_contact_name": "Tom Whitwell",
-      "requestor_contact_email": "gov-uk-paas-support@digital.cabinet-office.gov.uk"
-    },
-    "icann_normalized_domain": "cloudapps.digital",
-    "icann_tld": "digital"
   },
   {
     "psl_entry_string": "gov.nl",
@@ -148317,6 +148397,22 @@
       "requestor_contact_email": "public-suffix@meta.com"
     },
     "icann_normalized_domain": "fbsbx.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.metaaiusercontent.com",
+    "psl_domain": "metaaiusercontent.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Meta Platforms, Inc. : https://meta.com/",
+      "requestor_organization": "Meta Platforms, Inc.",
+      "requestor_organization_url": "https://meta.com/",
+      "requestor_contact_name": "Jacob Cordero",
+      "requestor_contact_email": "public-suffix@meta.com"
+    },
+    "icann_normalized_domain": "metaaiusercontent.com",
     "icann_tld": "com"
   },
   {
