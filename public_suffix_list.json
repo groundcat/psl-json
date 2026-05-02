@@ -93238,8 +93238,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-04-15T16:04:02Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-04-15T16:04:02Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-04-30T16:18:08Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-04-30T16:18:08Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -93974,8 +93974,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "aol : Yahoo Inc.",
-      "requestor_organization": "aol : Yahoo Inc.",
+      "requestor_description": "aol : AOL Media LLC",
+      "requestor_organization": "aol : AOL Media LLC",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -158046,6 +158046,54 @@
     },
     "icann_normalized_domain": "sh.cn",
     "icann_tld": "cn"
+  },
+  {
+    "psl_entry_string": "vicp.fun",
+    "psl_domain": "vicp.fun",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Shanghai Oray Information Technology Co., Ltd.: https://www.oray.com/",
+      "requestor_organization": "Shanghai Oray Information Technology Co., Ltd.",
+      "requestor_organization_url": "https://www.oray.com/",
+      "requestor_contact_name": ": Shanghai Oray Information Technology Co., Ltd",
+      "requestor_contact_email": "registrar@oray.com"
+    },
+    "icann_normalized_domain": "vicp.fun",
+    "icann_tld": "fun"
+  },
+  {
+    "psl_entry_string": "yicp.fun",
+    "psl_domain": "yicp.fun",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Shanghai Oray Information Technology Co., Ltd.: https://www.oray.com/",
+      "requestor_organization": "Shanghai Oray Information Technology Co., Ltd.",
+      "requestor_organization_url": "https://www.oray.com/",
+      "requestor_contact_name": ": Shanghai Oray Information Technology Co., Ltd",
+      "requestor_contact_email": "registrar@oray.com"
+    },
+    "icann_normalized_domain": "yicp.fun",
+    "icann_tld": "fun"
+  },
+  {
+    "psl_entry_string": "zicp.fun",
+    "psl_domain": "zicp.fun",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Shanghai Oray Information Technology Co., Ltd.: https://www.oray.com/",
+      "requestor_organization": "Shanghai Oray Information Technology Co., Ltd.",
+      "requestor_organization_url": "https://www.oray.com/",
+      "requestor_contact_name": ": Shanghai Oray Information Technology Co., Ltd",
+      "requestor_contact_email": "registrar@oray.com"
+    },
+    "icann_normalized_domain": "zicp.fun",
+    "icann_tld": "fun"
   },
   {
     "psl_entry_string": "sheezy.games",
