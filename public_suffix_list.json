@@ -129408,22 +129408,6 @@
     "icann_tld": "cz"
   },
   {
-    "psl_entry_string": "on.crisp.email",
-    "psl_domain": "on.crisp.email",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Crisp IM SAS : https://crisp.chat/",
-      "requestor_organization": "Crisp IM SAS",
-      "requestor_organization_url": "https://crisp.chat/",
-      "requestor_contact_name": "Baptiste Jamin",
-      "requestor_contact_email": "hostmaster@crisp.chat"
-    },
-    "icann_normalized_domain": "crisp.email",
-    "icann_tld": "email"
-  },
-  {
     "psl_entry_string": "*.cryptonomic.net",
     "psl_domain": "cryptonomic.net",
     "section": "private",
@@ -163182,6 +163166,38 @@
     },
     "icann_normalized_domain": "zerops.app",
     "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "prg1-zerops.zone",
+    "psl_domain": "prg1-zerops.zone",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Zerops : https://zerops.io/",
+      "requestor_organization": "Zerops",
+      "requestor_organization_url": "https://zerops.io/",
+      "requestor_contact_name": "Zerops Team",
+      "requestor_contact_email": "security@zerops.io"
+    },
+    "icann_normalized_domain": "prg1-zerops.zone",
+    "icann_tld": "zone"
+  },
+  {
+    "psl_entry_string": "*.zerops.zone",
+    "psl_domain": "zerops.zone",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Zerops : https://zerops.io/",
+      "requestor_organization": "Zerops",
+      "requestor_organization_url": "https://zerops.io/",
+      "requestor_contact_name": "Zerops Team",
+      "requestor_contact_email": "security@zerops.io"
+    },
+    "icann_normalized_domain": "zerops.zone",
+    "icann_tld": "zone"
   },
   {
     "psl_entry_string": "bss.design",
