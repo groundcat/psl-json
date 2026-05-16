@@ -87856,38 +87856,6 @@
     "icann_tld": "lib.nc.us"
   },
   {
-    "psl_entry_string": "cc.nd.us",
-    "psl_domain": "cc.nd.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "cc.nd.us",
-    "icann_tld": "cc.nd.us"
-  },
-  {
-    "psl_entry_string": "lib.nd.us",
-    "psl_domain": "lib.nd.us",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "us : https://www.iana.org/domains/root/db/us.html",
-      "requestor_organization": "us",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/us.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "lib.nd.us",
-    "icann_tld": "lib.nd.us"
-  },
-  {
     "psl_entry_string": "cc.ne.us",
     "psl_domain": "cc.ne.us",
     "section": "icann",
@@ -143232,6 +143200,22 @@
     "icann_tld": "ng"
   },
   {
+    "psl_entry_string": "hstgr.cloud",
+    "psl_domain": "hstgr.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Hostinger : https://hostinger.com",
+      "requestor_organization": "Hostinger",
+      "requestor_organization_url": "https://hostinger.com",
+      "requestor_contact_name": "Valentinas Cirba",
+      "requestor_contact_email": "domains@hostinger.com"
+    },
+    "icann_normalized_domain": "hstgr.cloud",
+    "icann_tld": "cloud"
+  },
+  {
     "psl_entry_string": "hostyhosting.io",
     "psl_domain": "hostyhosting.io",
     "section": "private",
@@ -160782,6 +160766,38 @@
     },
     "icann_normalized_domain": "tickets.io",
     "icann_tld": "io"
+  },
+  {
+    "psl_entry_string": "t3.storage.dev",
+    "psl_domain": "t3.storage.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Tigris Data, Inc. : https://www.tigrisdata.com",
+      "requestor_organization": "Tigris Data, Inc.",
+      "requestor_organization_url": "https://www.tigrisdata.com",
+      "requestor_contact_name": "Bo Cao",
+      "requestor_contact_email": "security@tigrisdata.com"
+    },
+    "icann_normalized_domain": "storage.dev",
+    "icann_tld": "dev"
+  },
+  {
+    "psl_entry_string": "t3.storageapi.dev",
+    "psl_domain": "t3.storageapi.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Tigris Data, Inc. : https://www.tigrisdata.com",
+      "requestor_organization": "Tigris Data, Inc.",
+      "requestor_organization_url": "https://www.tigrisdata.com",
+      "requestor_contact_name": "Bo Cao",
+      "requestor_contact_email": "security@tigrisdata.com"
+    },
+    "icann_normalized_domain": "storageapi.dev",
+    "icann_tld": "dev"
   },
   {
     "psl_entry_string": "arvo.network",
