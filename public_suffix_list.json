@@ -17328,6 +17328,22 @@
     "icann_tld": "ac.id"
   },
   {
+    "psl_entry_string": "ai.id",
+    "psl_domain": "ai.id",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "id : https://www.iana.org/domains/root/db/id.html",
+      "requestor_organization": "id",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/id.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "ai.id",
+    "icann_tld": "ai.id"
+  },
+  {
     "psl_entry_string": "biz.id",
     "psl_domain": "biz.id",
     "section": "icann",
@@ -127056,6 +127072,22 @@
     "icann_tld": "cn"
   },
   {
+    "psl_entry_string": "khsj.cn",
+    "psl_domain": "khsj.cn",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Canva Pty Ltd : https://canva.com/",
+      "requestor_organization": "Canva Pty Ltd",
+      "requestor_organization_url": "https://canva.com/",
+      "requestor_contact_name": "Joel Aquilina",
+      "requestor_contact_email": "publicsuffixlist@canva.com"
+    },
+    "icann_normalized_domain": "khsj.cn",
+    "icann_tld": "cn"
+  },
+  {
     "psl_entry_string": "canva-apps.com",
     "psl_domain": "canva-apps.com",
     "section": "private",
@@ -127118,6 +127150,22 @@
     },
     "icann_normalized_domain": "rice-labs.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "canva.link",
+    "psl_domain": "canva.link",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Canva Pty Ltd : https://canva.com/",
+      "requestor_organization": "Canva Pty Ltd",
+      "requestor_organization_url": "https://canva.com/",
+      "requestor_contact_name": "Joel Aquilina",
+      "requestor_contact_email": "publicsuffixlist@canva.com"
+    },
+    "icann_normalized_domain": "canva.link",
+    "icann_tld": "link"
   },
   {
     "psl_entry_string": "canva.run",
@@ -162048,22 +162096,6 @@
     "icann_tld": "dev"
   },
   {
-    "psl_entry_string": "bookonline.app",
-    "psl_domain": "bookonline.app",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "WebHotelier Technologies Ltd : https://www.webhotelier.net/",
-      "requestor_organization": "WebHotelier Technologies Ltd",
-      "requestor_organization_url": "https://www.webhotelier.net/",
-      "requestor_contact_name": "Apostolos Tsakpinis",
-      "requestor_contact_email": "apostolos.tsakpinis@gmail.com"
-    },
-    "icann_normalized_domain": "bookonline.app",
-    "icann_tld": "app"
-  },
-  {
     "psl_entry_string": "hotelwithflight.com",
     "psl_domain": "hotelwithflight.com",
     "section": "private",
@@ -162074,25 +162106,9 @@
       "requestor_organization": "WebHotelier Technologies Ltd",
       "requestor_organization_url": "https://www.webhotelier.net/",
       "requestor_contact_name": "Apostolos Tsakpinis",
-      "requestor_contact_email": "apostolos.tsakpinis@gmail.com"
+      "requestor_contact_email": "cto@webhotelier.net"
     },
     "icann_normalized_domain": "hotelwithflight.com",
-    "icann_tld": "com"
-  },
-  {
-    "psl_entry_string": "reserve-online.com",
-    "psl_domain": "reserve-online.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "WebHotelier Technologies Ltd : https://www.webhotelier.net/",
-      "requestor_organization": "WebHotelier Technologies Ltd",
-      "requestor_organization_url": "https://www.webhotelier.net/",
-      "requestor_contact_name": "Apostolos Tsakpinis",
-      "requestor_contact_email": "apostolos.tsakpinis@gmail.com"
-    },
-    "icann_normalized_domain": "reserve-online.com",
     "icann_tld": "com"
   },
   {
@@ -162106,10 +162122,26 @@
       "requestor_organization": "WebHotelier Technologies Ltd",
       "requestor_organization_url": "https://www.webhotelier.net/",
       "requestor_contact_name": "Apostolos Tsakpinis",
-      "requestor_contact_email": "apostolos.tsakpinis@gmail.com"
+      "requestor_contact_email": "cto@webhotelier.net"
     },
     "icann_normalized_domain": "reserve-online.net",
     "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "book.online",
+    "psl_domain": "book.online",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "WebHotelier Technologies Ltd : https://www.webhotelier.net/",
+      "requestor_organization": "WebHotelier Technologies Ltd",
+      "requestor_organization_url": "https://www.webhotelier.net/",
+      "requestor_contact_name": "Apostolos Tsakpinis",
+      "requestor_contact_email": "cto@webhotelier.net"
+    },
+    "icann_normalized_domain": "book.online",
+    "icann_tld": "online"
   },
   {
     "psl_entry_string": "cprapid.com",
