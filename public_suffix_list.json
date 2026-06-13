@@ -142000,6 +142000,22 @@
     "icann_tld": "net"
   },
   {
+    "psl_entry_string": "vibehost.space",
+    "psl_domain": "vibehost.space",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "GNTC, Inc. : https://gntc.com/",
+      "requestor_organization": "GNTC, Inc.",
+      "requestor_organization_url": "https://gntc.com/",
+      "requestor_contact_name": "VibeHost Security",
+      "requestor_contact_email": "security@vibehost.com"
+    },
+    "icann_normalized_domain": "vibehost.space",
+    "icann_tld": "space"
+  },
+  {
     "psl_entry_string": "graphic.design",
     "psl_domain": "graphic.design",
     "section": "private",
@@ -152862,6 +152878,22 @@
     },
     "icann_normalized_domain": "oaiusercontent.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "chatgpt.site",
+    "psl_domain": "chatgpt.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "OpenAI : https://openai.com",
+      "requestor_organization": "OpenAI",
+      "requestor_organization_url": "https://openai.com",
+      "requestor_contact_name": "Thomas Shadwell",
+      "requestor_contact_email": "security@openai.com"
+    },
+    "icann_normalized_domain": "chatgpt.site",
+    "icann_tld": "site"
   },
   {
     "psl_entry_string": "opencraft.hosting",
