@@ -130672,20 +130672,228 @@
     "icann_tld": "net"
   },
   {
+    "psl_entry_string": "dnshome.at",
+    "psl_domain": "dnshome.at",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dnsHome : https://www.dnshome.de/",
+      "requestor_organization": "dnsHome",
+      "requestor_organization_url": "https://www.dnshome.de/",
+      "requestor_contact_name": "Norbert Auler",
+      "requestor_contact_email": "mail@dnshome.de"
+    },
+    "icann_normalized_domain": "dnshome.at",
+    "icann_tld": "at"
+  },
+  {
+    "psl_entry_string": "resolve.bar",
+    "psl_domain": "resolve.bar",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dnsHome : https://www.dnshome.de/",
+      "requestor_organization": "dnsHome",
+      "requestor_organization_url": "https://www.dnshome.de/",
+      "requestor_contact_name": "Norbert Auler",
+      "requestor_contact_email": "mail@dnshome.de"
+    },
+    "icann_normalized_domain": "resolve.bar",
+    "icann_tld": "bar"
+  },
+  {
+    "psl_entry_string": "ddns.berlin",
+    "psl_domain": "ddns.berlin",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dnsHome : https://www.dnshome.de/",
+      "requestor_organization": "dnsHome",
+      "requestor_organization_url": "https://www.dnshome.de/",
+      "requestor_contact_name": "Norbert Auler",
+      "requestor_contact_email": "mail@dnshome.de"
+    },
+    "icann_normalized_domain": "ddns.berlin",
+    "icann_tld": "berlin"
+  },
+  {
+    "psl_entry_string": "dnshome.cloud",
+    "psl_domain": "dnshome.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dnsHome : https://www.dnshome.de/",
+      "requestor_organization": "dnsHome",
+      "requestor_organization_url": "https://www.dnshome.de/",
+      "requestor_contact_name": "Norbert Auler",
+      "requestor_contact_email": "mail@dnshome.de"
+    },
+    "icann_normalized_domain": "dnshome.cloud",
+    "icann_tld": "cloud"
+  },
+  {
+    "psl_entry_string": "ddnssec.de",
+    "psl_domain": "ddnssec.de",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dnsHome : https://www.dnshome.de/",
+      "requestor_organization": "dnsHome",
+      "requestor_organization_url": "https://www.dnshome.de/",
+      "requestor_contact_name": "Norbert Auler",
+      "requestor_contact_email": "mail@dnshome.de"
+    },
+    "icann_normalized_domain": "ddnssec.de",
+    "icann_tld": "de"
+  },
+  {
     "psl_entry_string": "dnshome.de",
     "psl_domain": "dnshome.de",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "DNShome : https://www.dnshome.de/",
-      "requestor_organization": "DNShome",
+      "requestor_description": "dnsHome : https://www.dnshome.de/",
+      "requestor_organization": "dnsHome",
       "requestor_organization_url": "https://www.dnshome.de/",
       "requestor_contact_name": "Norbert Auler",
       "requestor_contact_email": "mail@dnshome.de"
     },
     "icann_normalized_domain": "dnshome.de",
     "icann_tld": "de"
+  },
+  {
+    "psl_entry_string": "dyndnssec.de",
+    "psl_domain": "dyndnssec.de",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dnsHome : https://www.dnshome.de/",
+      "requestor_organization": "dnsHome",
+      "requestor_organization_url": "https://www.dnshome.de/",
+      "requestor_contact_name": "Norbert Auler",
+      "requestor_contact_email": "mail@dnshome.de"
+    },
+    "icann_normalized_domain": "dyndnssec.de",
+    "icann_tld": "de"
+  },
+  {
+    "psl_entry_string": "heimdns.de",
+    "psl_domain": "heimdns.de",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dnsHome : https://www.dnshome.de/",
+      "requestor_organization": "dnsHome",
+      "requestor_organization_url": "https://www.dnshome.de/",
+      "requestor_contact_name": "Norbert Auler",
+      "requestor_contact_email": "mail@dnshome.de"
+    },
+    "icann_normalized_domain": "heimdns.de",
+    "icann_tld": "de"
+  },
+  {
+    "psl_entry_string": "srvdns.de",
+    "psl_domain": "srvdns.de",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dnsHome : https://www.dnshome.de/",
+      "requestor_organization": "dnsHome",
+      "requestor_organization_url": "https://www.dnshome.de/",
+      "requestor_contact_name": "Norbert Auler",
+      "requestor_contact_email": "mail@dnshome.de"
+    },
+    "icann_normalized_domain": "srvdns.de",
+    "icann_tld": "de"
+  },
+  {
+    "psl_entry_string": "dnshome.eu",
+    "psl_domain": "dnshome.eu",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dnsHome : https://www.dnshome.de/",
+      "requestor_organization": "dnsHome",
+      "requestor_organization_url": "https://www.dnshome.de/",
+      "requestor_contact_name": "Norbert Auler",
+      "requestor_contact_email": "mail@dnshome.de"
+    },
+    "icann_normalized_domain": "dnshome.eu",
+    "icann_tld": "eu"
+  },
+  {
+    "psl_entry_string": "dnshome.it",
+    "psl_domain": "dnshome.it",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dnsHome : https://www.dnshome.de/",
+      "requestor_organization": "dnsHome",
+      "requestor_organization_url": "https://www.dnshome.de/",
+      "requestor_contact_name": "Norbert Auler",
+      "requestor_contact_email": "mail@dnshome.de"
+    },
+    "icann_normalized_domain": "dnshome.it",
+    "icann_tld": "it"
+  },
+  {
+    "psl_entry_string": "dyn.now",
+    "psl_domain": "dyn.now",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dnsHome : https://www.dnshome.de/",
+      "requestor_organization": "dnsHome",
+      "requestor_organization_url": "https://www.dnshome.de/",
+      "requestor_contact_name": "Norbert Auler",
+      "requestor_contact_email": "mail@dnshome.de"
+    },
+    "icann_normalized_domain": "dyn.now",
+    "icann_tld": "now"
+  },
+  {
+    "psl_entry_string": "heimdns.online",
+    "psl_domain": "heimdns.online",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dnsHome : https://www.dnshome.de/",
+      "requestor_organization": "dnsHome",
+      "requestor_organization_url": "https://www.dnshome.de/",
+      "requestor_contact_name": "Norbert Auler",
+      "requestor_contact_email": "mail@dnshome.de"
+    },
+    "icann_normalized_domain": "heimdns.online",
+    "icann_tld": "online"
+  },
+  {
+    "psl_entry_string": "ddns.wtf",
+    "psl_domain": "ddns.wtf",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "dnsHome : https://www.dnshome.de/",
+      "requestor_organization": "dnsHome",
+      "requestor_organization_url": "https://www.dnshome.de/",
+      "requestor_contact_name": "Norbert Auler",
+      "requestor_contact_email": "mail@dnshome.de"
+    },
+    "icann_normalized_domain": "ddns.wtf",
+    "icann_tld": "wtf"
   },
   {
     "psl_entry_string": "online.th",
@@ -149328,6 +149536,22 @@
     "icann_tld": "space"
   },
   {
+    "psl_entry_string": "mkm.fan",
+    "psl_domain": "mkm.fan",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "MKM : https://mkm.fan/",
+      "requestor_organization": "MKM",
+      "requestor_organization_url": "https://mkm.fan/",
+      "requestor_contact_name": "Kashi Ahmer",
+      "requestor_contact_email": "admin@mkm.fan"
+    },
+    "icann_normalized_domain": "mkm.fan",
+    "icann_tld": "fan"
+  },
+  {
     "psl_entry_string": "mocha.app",
     "psl_domain": "mocha.app",
     "section": "private",
@@ -154078,6 +154302,54 @@
     },
     "icann_normalized_domain": "pubtls.org",
     "icann_tld": "org"
+  },
+  {
+    "psl_entry_string": "puter.app",
+    "psl_domain": "puter.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Puter : https://puter.com",
+      "requestor_organization": "Puter",
+      "requestor_organization_url": "https://puter.com",
+      "requestor_contact_name": "Puter Security Team",
+      "requestor_contact_email": "security@puter.com"
+    },
+    "icann_normalized_domain": "puter.app",
+    "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "puter.site",
+    "psl_domain": "puter.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Puter : https://puter.com",
+      "requestor_organization": "Puter",
+      "requestor_organization_url": "https://puter.com",
+      "requestor_contact_name": "Puter Security Team",
+      "requestor_contact_email": "security@puter.com"
+    },
+    "icann_normalized_domain": "puter.site",
+    "icann_tld": "site"
+  },
+  {
+    "psl_entry_string": "puter.work",
+    "psl_domain": "puter.work",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Puter : https://puter.com",
+      "requestor_organization": "Puter",
+      "requestor_organization_url": "https://puter.com",
+      "requestor_contact_name": "Puter Security Team",
+      "requestor_contact_email": "security@puter.com"
+    },
+    "icann_normalized_domain": "puter.work",
+    "icann_tld": "work"
   },
   {
     "psl_entry_string": "pythonanywhere.com",
