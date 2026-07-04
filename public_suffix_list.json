@@ -148416,22 +148416,6 @@
     "icann_tld": "info"
   },
   {
-    "psl_entry_string": "mayfirst.org",
-    "psl_domain": "mayfirst.org",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "May First - People Link : https://mayfirst.org/",
-      "requestor_organization": "May First - People Link",
-      "requestor_organization_url": "https://mayfirst.org/",
-      "requestor_contact_name": "Jamie McClelland",
-      "requestor_contact_email": "info@mayfirst.org"
-    },
-    "icann_normalized_domain": "mayfirst.org",
-    "icann_tld": "org"
-  },
-  {
     "psl_entry_string": "mcdir.me",
     "psl_domain": "mcdir.me",
     "section": "private",
