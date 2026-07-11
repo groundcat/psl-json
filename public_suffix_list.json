@@ -128880,6 +128880,54 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "sch.ac",
+    "psl_domain": "sch.ac",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Code For Host Inc Ltd : https://codeforhost.com",
+      "requestor_organization": "Code For Host Inc Ltd",
+      "requestor_organization_url": "https://codeforhost.com",
+      "requestor_contact_name": "Mehedi Hasan",
+      "requestor_contact_email": "support@codeforhost.com"
+    },
+    "icann_normalized_domain": "sch.ac",
+    "icann_tld": "ac"
+  },
+  {
+    "psl_entry_string": "dev.cv",
+    "psl_domain": "dev.cv",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Code For Host Inc Ltd : https://codeforhost.com",
+      "requestor_organization": "Code For Host Inc Ltd",
+      "requestor_organization_url": "https://codeforhost.com",
+      "requestor_contact_name": "Mehedi Hasan",
+      "requestor_contact_email": "support@codeforhost.com"
+    },
+    "icann_normalized_domain": "dev.cv",
+    "icann_tld": "cv"
+  },
+  {
+    "psl_entry_string": "store.cv",
+    "psl_domain": "store.cv",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Code For Host Inc Ltd : https://codeforhost.com",
+      "requestor_organization": "Code For Host Inc Ltd",
+      "requestor_organization_url": "https://codeforhost.com",
+      "requestor_contact_name": "Mehedi Hasan",
+      "requestor_contact_email": "support@codeforhost.com"
+    },
+    "icann_normalized_domain": "store.cv",
+    "icann_tld": "cv"
+  },
+  {
     "psl_entry_string": "codeberg.page",
     "psl_domain": "codeberg.page",
     "section": "private",
@@ -143966,38 +144014,6 @@
     },
     "icann_normalized_domain": "oninferno.net",
     "icann_tld": "net"
-  },
-  {
-    "psl_entry_string": "biz.at",
-    "psl_domain": "biz.at",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "info.at : http://www.info.at/",
-      "requestor_organization": "info.at",
-      "requestor_organization_url": "http://www.info.at/",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "biz.at",
-    "icann_tld": "at"
-  },
-  {
-    "psl_entry_string": "info.at",
-    "psl_domain": "info.at",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "info.at : http://www.info.at/",
-      "requestor_organization": "info.at",
-      "requestor_organization_url": "http://www.info.at/",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "info.at",
-    "icann_tld": "at"
   },
   {
     "psl_entry_string": "info.cx",
@@ -163134,6 +163150,22 @@
     },
     "icann_normalized_domain": "wpenginepowered.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "grok.me",
+    "psl_domain": "grok.me",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "xAI : https://x.ai/",
+      "requestor_organization": "xAI",
+      "requestor_organization_url": "https://x.ai/",
+      "requestor_contact_name": "Asim Shrestha",
+      "requestor_contact_email": "security@x.ai"
+    },
+    "icann_normalized_domain": "grok.me",
+    "icann_tld": "me"
   },
   {
     "psl_entry_string": "*.xenonconnect.de",
