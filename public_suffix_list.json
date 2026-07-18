@@ -14640,6 +14640,22 @@
     "icann_tld": "com.ge"
   },
   {
+    "psl_entry_string": "cyb.ge",
+    "psl_domain": "cyb.ge",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ge : https://nic.ge/en/administrator/the-ge-domain-regulations",
+      "requestor_organization": "ge",
+      "requestor_organization_url": "https://nic.ge/en/administrator/the-ge-domain-regulations",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "info@nic.ge"
+    },
+    "icann_normalized_domain": "cyb.ge",
+    "icann_tld": "cyb.ge"
+  },
+  {
     "psl_entry_string": "edu.ge",
     "psl_domain": "edu.ge",
     "section": "icann",
@@ -14672,6 +14688,22 @@
     "icann_tld": "gov.ge"
   },
   {
+    "psl_entry_string": "llc.ge",
+    "psl_domain": "llc.ge",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ge : https://nic.ge/en/administrator/the-ge-domain-regulations",
+      "requestor_organization": "ge",
+      "requestor_organization_url": "https://nic.ge/en/administrator/the-ge-domain-regulations",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "info@nic.ge"
+    },
+    "icann_normalized_domain": "llc.ge",
+    "icann_tld": "llc.ge"
+  },
+  {
     "psl_entry_string": "net.ge",
     "psl_domain": "net.ge",
     "section": "icann",
@@ -14686,6 +14718,22 @@
     },
     "icann_normalized_domain": "net.ge",
     "icann_tld": "net.ge"
+  },
+  {
+    "psl_entry_string": "online.ge",
+    "psl_domain": "online.ge",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ge : https://nic.ge/en/administrator/the-ge-domain-regulations",
+      "requestor_organization": "ge",
+      "requestor_organization_url": "https://nic.ge/en/administrator/the-ge-domain-regulations",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "info@nic.ge"
+    },
+    "icann_normalized_domain": "online.ge",
+    "icann_tld": "online.ge"
   },
   {
     "psl_entry_string": "org.ge",
@@ -14734,6 +14782,22 @@
     },
     "icann_normalized_domain": "school.ge",
     "icann_tld": "school.ge"
+  },
+  {
+    "psl_entry_string": "tnx.ge",
+    "psl_domain": "tnx.ge",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "ge : https://nic.ge/en/administrator/the-ge-domain-regulations",
+      "requestor_organization": "ge",
+      "requestor_organization_url": "https://nic.ge/en/administrator/the-ge-domain-regulations",
+      "requestor_contact_name": "registry",
+      "requestor_contact_email": "info@nic.ge"
+    },
+    "icann_normalized_domain": "tnx.ge",
+    "icann_tld": "tnx.ge"
   },
   {
     "psl_entry_string": "gf",
@@ -18032,6 +18096,22 @@
     "icann_tld": "ac.in"
   },
   {
+    "psl_entry_string": "aero.in",
+    "psl_domain": "aero.in",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
+      "requestor_organization": "in",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
+    },
+    "icann_normalized_domain": "aero.in",
+    "icann_tld": "aero.in"
+  },
+  {
     "psl_entry_string": "ai.in",
     "psl_domain": "ai.in",
     "section": "icann",
@@ -18046,6 +18126,22 @@
     },
     "icann_normalized_domain": "ai.in",
     "icann_tld": "ai.in"
+  },
+  {
+    "psl_entry_string": "alumni.in",
+    "psl_domain": "alumni.in",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
+      "requestor_organization": "in",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
+    },
+    "icann_normalized_domain": "alumni.in",
+    "icann_tld": "alumni.in"
   },
   {
     "psl_entry_string": "am.in",
@@ -18592,6 +18688,22 @@
     "icann_tld": "res.in"
   },
   {
+    "psl_entry_string": "school.in",
+    "psl_domain": "school.in",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
+      "requestor_organization": "in",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
+    },
+    "icann_normalized_domain": "school.in",
+    "icann_tld": "school.in"
+  },
+  {
     "psl_entry_string": "travel.in",
     "psl_domain": "travel.in",
     "section": "icann",
@@ -18622,6 +18734,22 @@
     },
     "icann_normalized_domain": "tv.in",
     "icann_tld": "tv.in"
+  },
+  {
+    "psl_entry_string": "ub.in",
+    "psl_domain": "ub.in",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "in : https://www.iana.org/domains/root/db/in.html",
+      "requestor_organization": "in",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/in.html",
+      "requestor_contact_name": "Gaurav Kansal",
+      "requestor_contact_email": "gaurav.kansal@nic.in"
+    },
+    "icann_normalized_domain": "ub.in",
+    "icann_tld": "ub.in"
   },
   {
     "psl_entry_string": "uk.in",
@@ -60848,6 +60976,38 @@
     "icann_tld": "fylkesbibl.no"
   },
   {
+    "psl_entry_string": "gielda.no",
+    "psl_domain": "gielda.no",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_organization": "no",
+      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "gielda.no",
+    "icann_tld": "gielda.no"
+  },
+  {
+    "psl_entry_string": "herad.no",
+    "psl_domain": "herad.no",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_organization": "no",
+      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "herad.no",
+    "icann_tld": "herad.no"
+  },
+  {
     "psl_entry_string": "idrett.no",
     "psl_domain": "idrett.no",
     "section": "icann",
@@ -60862,6 +61022,22 @@
     },
     "icann_normalized_domain": "idrett.no",
     "icann_tld": "idrett.no"
+  },
+  {
+    "psl_entry_string": "kommune.no",
+    "psl_domain": "kommune.no",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_organization": "no",
+      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "kommune.no",
+    "icann_tld": "kommune.no"
   },
   {
     "psl_entry_string": "museum.no",
@@ -60896,6 +61072,54 @@
     "icann_tld": "priv.no"
   },
   {
+    "psl_entry_string": "suohkan.no",
+    "psl_domain": "suohkan.no",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_organization": "no",
+      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "suohkan.no",
+    "icann_tld": "suohkan.no"
+  },
+  {
+    "psl_entry_string": "tjielte.no",
+    "psl_domain": "tjielte.no",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_organization": "no",
+      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "tjielte.no",
+    "icann_tld": "tjielte.no"
+  },
+  {
+    "psl_entry_string": "uenorge.no",
+    "psl_domain": "uenorge.no",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_organization": "no",
+      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "uenorge.no",
+    "icann_tld": "uenorge.no"
+  },
+  {
     "psl_entry_string": "vgs.no",
     "psl_domain": "vgs.no",
     "section": "icann",
@@ -60926,38 +61150,6 @@
     },
     "icann_normalized_domain": "dep.no",
     "icann_tld": "dep.no"
-  },
-  {
-    "psl_entry_string": "herad.no",
-    "psl_domain": "herad.no",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
-      "requestor_organization": "no",
-      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "herad.no",
-    "icann_tld": "herad.no"
-  },
-  {
-    "psl_entry_string": "kommune.no",
-    "psl_domain": "kommune.no",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
-      "requestor_organization": "no",
-      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "kommune.no",
-    "icann_tld": "kommune.no"
   },
   {
     "psl_entry_string": "mil.no",
@@ -63120,8 +63312,8 @@
     "icann_tld": "åsnes.no"
   },
   {
-    "psl_entry_string": "audnedaln.no",
-    "psl_domain": "audnedaln.no",
+    "psl_entry_string": "audnedal.no",
+    "psl_domain": "audnedal.no",
     "section": "icann",
     "is_wildcard": false,
     "is_negation": false,
@@ -63132,8 +63324,8 @@
       "requestor_contact_name": null,
       "requestor_contact_email": null
     },
-    "icann_normalized_domain": "audnedaln.no",
-    "icann_tld": "audnedaln.no"
+    "icann_normalized_domain": "audnedal.no",
+    "icann_tld": "audnedal.no"
   },
   {
     "psl_entry_string": "aukra.no",
@@ -64896,22 +65088,6 @@
     "icann_tld": "frana.no"
   },
   {
-    "psl_entry_string": "frei.no",
-    "psl_domain": "frei.no",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
-      "requestor_organization": "no",
-      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "frei.no",
-    "icann_tld": "frei.no"
-  },
-  {
     "psl_entry_string": "frogn.no",
     "psl_domain": "frogn.no",
     "section": "icann",
@@ -65710,6 +65886,22 @@
     },
     "icann_normalized_domain": "hamaroy.no",
     "icann_tld": "hamaroy.no"
+  },
+  {
+    "psl_entry_string": "hamarøy.no",
+    "psl_domain": "hamarøy.no",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_organization": "no",
+      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "hamarøy.no",
+    "icann_tld": "hamarøy.no"
   },
   {
     "psl_entry_string": "hammarfeasta.no",
@@ -66574,6 +66766,22 @@
     },
     "icann_normalized_domain": "karlsoy.no",
     "icann_tld": "karlsoy.no"
+  },
+  {
+    "psl_entry_string": "karlsøy.no",
+    "psl_domain": "karlsøy.no",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_organization": "no",
+      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "karlsøy.no",
+    "icann_tld": "karlsøy.no"
   },
   {
     "psl_entry_string": "karmoy.no",
@@ -69584,6 +69792,22 @@
     "icann_tld": "rauma.no"
   },
   {
+    "psl_entry_string": "re.no",
+    "psl_domain": "re.no",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_organization": "no",
+      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "re.no",
+    "icann_tld": "re.no"
+  },
+  {
     "psl_entry_string": "rendalen.no",
     "psl_domain": "rendalen.no",
     "section": "icann",
@@ -72094,6 +72318,22 @@
     },
     "icann_normalized_domain": "ullensvang.no",
     "icann_tld": "ullensvang.no"
+  },
+  {
+    "psl_entry_string": "ulstein.no",
+    "psl_domain": "ulstein.no",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "no : https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_organization": "no",
+      "requestor_organization_url": "https://www.norid.no/en/om-domenenavn/regelverk-for-no/",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "ulstein.no",
+    "icann_tld": "ulstein.no"
   },
   {
     "psl_entry_string": "ulvik.no",
@@ -81806,22 +82046,6 @@
     },
     "icann_normalized_domain": "tj",
     "icann_tld": "tj"
-  },
-  {
-    "psl_entry_string": "ac.tj",
-    "psl_domain": "ac.tj",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "tj : http://www.nic.tj/policy.html",
-      "requestor_organization": "tj",
-      "requestor_organization_url": "http://www.nic.tj/policy.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "ac.tj",
-    "icann_tld": "ac.tj"
   },
   {
     "psl_entry_string": "biz.tj",
@@ -93222,8 +93446,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-06-13T16:12:40Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-06-13T16:12:40Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-07-15T16:20:56Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-07-15T16:20:56Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -101478,8 +101702,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "kyoto : Academic Institution: Kyoto Jyoho Gakuen",
-      "requestor_organization": "kyoto : Academic Institution: Kyoto Jyoho Gakuen",
+      "requestor_description": "kyoto : Academic Institution: The University of Informatics",
+      "requestor_organization": "kyoto : Academic Institution: The University of Informatics",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -144768,6 +144992,54 @@
     "icann_tld": "net"
   },
   {
+    "psl_entry_string": "home64.de",
+    "psl_domain": "home64.de",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "IPv64.net : https://ipv64.net/",
+      "requestor_organization": "IPv64.net",
+      "requestor_organization_url": "https://ipv64.net/",
+      "requestor_contact_name": "Dennis Schröder",
+      "requestor_contact_email": "info@ipv64.net"
+    },
+    "icann_normalized_domain": "home64.de",
+    "icann_tld": "de"
+  },
+  {
+    "psl_entry_string": "ipv64.de",
+    "psl_domain": "ipv64.de",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "IPv64.net : https://ipv64.net/",
+      "requestor_organization": "IPv64.net",
+      "requestor_organization_url": "https://ipv64.net/",
+      "requestor_contact_name": "Dennis Schröder",
+      "requestor_contact_email": "info@ipv64.net"
+    },
+    "icann_normalized_domain": "ipv64.de",
+    "icann_tld": "de"
+  },
+  {
+    "psl_entry_string": "ipv64.net",
+    "psl_domain": "ipv64.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "IPv64.net : https://ipv64.net/",
+      "requestor_organization": "IPv64.net",
+      "requestor_organization_url": "https://ipv64.net/",
+      "requestor_contact_name": "Dennis Schröder",
+      "requestor_contact_email": "info@ipv64.net"
+    },
+    "icann_normalized_domain": "ipv64.net",
+    "icann_tld": "net"
+  },
+  {
     "psl_entry_string": "ir.md",
     "psl_domain": "ir.md",
     "section": "private",
@@ -158010,7 +158282,7 @@
       "requestor_organization": "Scottish Government",
       "requestor_organization_url": "https://www.gov.scot",
       "requestor_contact_name": "Martin Ellis",
-      "requestor_contact_email": "martin.ellis@gov.scot"
+      "requestor_contact_email": "digital-publishing@gov.scot"
     },
     "icann_normalized_domain": "gov.scot",
     "icann_tld": "scot"
@@ -158026,9 +158298,25 @@
       "requestor_organization": "Scottish Government",
       "requestor_organization_url": "https://www.gov.scot",
       "requestor_contact_name": "Martin Ellis",
-      "requestor_contact_email": "martin.ellis@gov.scot"
+      "requestor_contact_email": "digital-publishing@gov.scot"
     },
     "icann_normalized_domain": "gov.scot",
+    "icann_tld": "scot"
+  },
+  {
+    "psl_entry_string": "mygov.scot",
+    "psl_domain": "mygov.scot",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scottish Government : https://www.gov.scot",
+      "requestor_organization": "Scottish Government",
+      "requestor_organization_url": "https://www.gov.scot",
+      "requestor_contact_name": "Martin Ellis",
+      "requestor_contact_email": "digital-publishing@gov.scot"
+    },
+    "icann_normalized_domain": "mygov.scot",
     "icann_tld": "scot"
   },
   {
