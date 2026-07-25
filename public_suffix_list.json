@@ -20256,22 +20256,6 @@
     "icann_tld": "trentin-suedtirol.it"
   },
   {
-    "psl_entry_string": "trentino.it",
-    "psl_domain": "trentino.it",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "it : https://www.iana.org/domains/root/db/it.html",
-      "requestor_organization": "it",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/it.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "trentino.it",
-    "icann_tld": "trentino.it"
-  },
-  {
     "psl_entry_string": "trentino-a-adige.it",
     "psl_domain": "trentino-a-adige.it",
     "section": "icann",
@@ -20592,22 +20576,6 @@
     "icann_tld": "trentinosüd-tirol.it"
   },
   {
-    "psl_entry_string": "trentinosudtirol.it",
-    "psl_domain": "trentinosudtirol.it",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "it : https://www.iana.org/domains/root/db/it.html",
-      "requestor_organization": "it",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/it.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "trentinosudtirol.it",
-    "icann_tld": "trentinosudtirol.it"
-  },
-  {
     "psl_entry_string": "trentinosüdtirol.it",
     "psl_domain": "trentinosüdtirol.it",
     "section": "icann",
@@ -20846,22 +20814,6 @@
     },
     "icann_normalized_domain": "vald-aosta.it",
     "icann_tld": "vald-aosta.it"
-  },
-  {
-    "psl_entry_string": "valdaosta.it",
-    "psl_domain": "valdaosta.it",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "it : https://www.iana.org/domains/root/db/it.html",
-      "requestor_organization": "it",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/it.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "valdaosta.it",
-    "icann_tld": "valdaosta.it"
   },
   {
     "psl_entry_string": "valle-aosta.it",
@@ -21422,22 +21374,6 @@
     },
     "icann_normalized_domain": "aq.it",
     "icann_tld": "aq.it"
-  },
-  {
-    "psl_entry_string": "aquila.it",
-    "psl_domain": "aquila.it",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "it : https://www.iana.org/domains/root/db/it.html",
-      "requestor_organization": "it",
-      "requestor_organization_url": "https://www.iana.org/domains/root/db/it.html",
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "aquila.it",
-    "icann_tld": "aquila.it"
   },
   {
     "psl_entry_string": "ar.it",
@@ -25008,6 +24944,54 @@
     "icann_tld": "ss.it"
   },
   {
+    "psl_entry_string": "su.it",
+    "psl_domain": "su.it",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "it : https://www.iana.org/domains/root/db/it.html",
+      "requestor_organization": "it",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/it.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "su.it",
+    "icann_tld": "su.it"
+  },
+  {
+    "psl_entry_string": "sud-sardegna.it",
+    "psl_domain": "sud-sardegna.it",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "it : https://www.iana.org/domains/root/db/it.html",
+      "requestor_organization": "it",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/it.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "sud-sardegna.it",
+    "icann_tld": "sud-sardegna.it"
+  },
+  {
+    "psl_entry_string": "sudsardegna.it",
+    "psl_domain": "sudsardegna.it",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "it : https://www.iana.org/domains/root/db/it.html",
+      "requestor_organization": "it",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/it.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "sudsardegna.it",
+    "icann_tld": "sudsardegna.it"
+  },
+  {
     "psl_entry_string": "südtirol.it",
     "psl_domain": "südtirol.it",
     "section": "icann",
@@ -25328,6 +25312,22 @@
     "icann_tld": "trapani.it"
   },
   {
+    "psl_entry_string": "trentino.it",
+    "psl_domain": "trentino.it",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "it : https://www.iana.org/domains/root/db/it.html",
+      "requestor_organization": "it",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/it.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "trentino.it",
+    "icann_tld": "trentino.it"
+  },
+  {
     "psl_entry_string": "trento.it",
     "psl_domain": "trento.it",
     "section": "icann",
@@ -25614,6 +25614,22 @@
     },
     "icann_normalized_domain": "verbania.it",
     "icann_tld": "verbania.it"
+  },
+  {
+    "psl_entry_string": "verbano-cusio-ossola.it",
+    "psl_domain": "verbano-cusio-ossola.it",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "it : https://www.iana.org/domains/root/db/it.html",
+      "requestor_organization": "it",
+      "requestor_organization_url": "https://www.iana.org/domains/root/db/it.html",
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "verbano-cusio-ossola.it",
+    "icann_tld": "verbano-cusio-ossola.it"
   },
   {
     "psl_entry_string": "vercelli.it",
@@ -93446,8 +93462,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-07-15T16:20:56Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-07-15T16:20:56Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-07-24T16:40:16Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-07-24T16:40:16Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -109006,6 +109022,22 @@
     },
     "icann_normalized_domain": "weatherchannel",
     "icann_tld": "weatherchannel"
+  },
+  {
+    "psl_entry_string": "web",
+    "psl_domain": "web",
+    "section": "icann",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "web : VeriSign, Inc.",
+      "requestor_organization": "web : VeriSign, Inc.",
+      "requestor_organization_url": null,
+      "requestor_contact_name": null,
+      "requestor_contact_email": null
+    },
+    "icann_normalized_domain": "web",
+    "icann_tld": "web"
   },
   {
     "psl_entry_string": "webcam",
@@ -127200,54 +127232,6 @@
     "icann_tld": "de"
   },
   {
-    "psl_entry_string": "uk0.bigv.io",
-    "psl_domain": "uk0.bigv.io",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Bytemark Hosting : https://www.bytemark.co.uk",
-      "requestor_organization": "Bytemark Hosting",
-      "requestor_organization_url": "https://www.bytemark.co.uk",
-      "requestor_contact_name": "Paul Cammish",
-      "requestor_contact_email": "paul.cammish@bytemark.co.uk"
-    },
-    "icann_normalized_domain": "bigv.io",
-    "icann_tld": "io"
-  },
-  {
-    "psl_entry_string": "dh.bytemark.co.uk",
-    "psl_domain": "dh.bytemark.co.uk",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Bytemark Hosting : https://www.bytemark.co.uk",
-      "requestor_organization": "Bytemark Hosting",
-      "requestor_organization_url": "https://www.bytemark.co.uk",
-      "requestor_contact_name": "Paul Cammish",
-      "requestor_contact_email": "paul.cammish@bytemark.co.uk"
-    },
-    "icann_normalized_domain": "co.uk",
-    "icann_tld": "uk"
-  },
-  {
-    "psl_entry_string": "vm.bytemark.co.uk",
-    "psl_domain": "vm.bytemark.co.uk",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Bytemark Hosting : https://www.bytemark.co.uk",
-      "requestor_organization": "Bytemark Hosting",
-      "requestor_organization_url": "https://www.bytemark.co.uk",
-      "requestor_contact_name": "Paul Cammish",
-      "requestor_contact_email": "paul.cammish@bytemark.co.uk"
-    },
-    "icann_normalized_domain": "co.uk",
-    "icann_tld": "uk"
-  },
-  {
     "psl_entry_string": "cafjs.com",
     "psl_domain": "cafjs.com",
     "section": "private",
@@ -129696,22 +129680,6 @@
     "icann_tld": "cz"
   },
   {
-    "psl_entry_string": "*.cryptonomic.net",
-    "psl_domain": "cryptonomic.net",
-    "section": "private",
-    "is_wildcard": true,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Cryptonomic : https://cryptonomic.net/",
-      "requestor_organization": "Cryptonomic",
-      "requestor_organization_url": "https://cryptonomic.net/",
-      "requestor_contact_name": "Andrew Cady",
-      "requestor_contact_email": "public-suffix-list@cryptonomic.net"
-    },
-    "icann_normalized_domain": "cryptonomic.net",
-    "icann_tld": "net"
-  },
-  {
     "psl_entry_string": "cfolks.pl",
     "psl_domain": "cfolks.pl",
     "section": "private",
@@ -130350,38 +130318,6 @@
     },
     "icann_normalized_domain": "dedyn.io",
     "icann_tld": "io"
-  },
-  {
-    "psl_entry_string": "deta.app",
-    "psl_domain": "deta.app",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Deta : https://www.deta.sh/",
-      "requestor_organization": "Deta",
-      "requestor_organization_url": "https://www.deta.sh/",
-      "requestor_contact_name": "Aavash Shrestha",
-      "requestor_contact_email": "aavash@deta.sh"
-    },
-    "icann_normalized_domain": "deta.app",
-    "icann_tld": "app"
-  },
-  {
-    "psl_entry_string": "deta.dev",
-    "psl_domain": "deta.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Deta : https://www.deta.sh/",
-      "requestor_organization": "Deta",
-      "requestor_organization_url": "https://www.deta.sh/",
-      "requestor_contact_name": "Aavash Shrestha",
-      "requestor_contact_email": "aavash@deta.sh"
-    },
-    "icann_normalized_domain": "deta.dev",
-    "icann_tld": "dev"
   },
   {
     "psl_entry_string": "deuxfleurs.eu",
@@ -137790,22 +137726,6 @@
     },
     "icann_normalized_domain": "expo.app",
     "icann_tld": "app"
-  },
-  {
-    "psl_entry_string": "onfabrica.com",
-    "psl_domain": "onfabrica.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Fabrica Technologies, Inc. : https://www.fabrica.dev/",
-      "requestor_organization": "Fabrica Technologies, Inc.",
-      "requestor_organization_url": "https://www.fabrica.dev/",
-      "requestor_contact_name": "Eric Jiang",
-      "requestor_contact_email": "eric@fabrica.dev"
-    },
-    "icann_normalized_domain": "onfabrica.com",
-    "icann_tld": "com"
   },
   {
     "psl_entry_string": "fspages.org",
@@ -154176,6 +154096,22 @@
     "icann_tld": "site"
   },
   {
+    "psl_entry_string": "playcode.site",
+    "psl_domain": "playcode.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Playcode : https://playcode.io",
+      "requestor_organization": "Playcode",
+      "requestor_organization_url": "https://playcode.io",
+      "requestor_contact_name": "Ruslan Ianberdin",
+      "requestor_contact_email": "security@playcode.io"
+    },
+    "icann_normalized_domain": "playcode.site",
+    "icann_tld": "site"
+  },
+  {
     "psl_entry_string": "pley.games",
     "psl_domain": "pley.games",
     "section": "private",
@@ -154446,22 +154382,6 @@
     },
     "icann_normalized_domain": "project-study.com",
     "icann_tld": "com"
-  },
-  {
-    "psl_entry_string": "protonet.io",
-    "psl_domain": "protonet.io",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Protonet GmbH : http://protonet.io",
-      "requestor_organization": "Protonet GmbH",
-      "requestor_organization_url": "http://protonet.io",
-      "requestor_contact_name": "Martin Meier",
-      "requestor_contact_email": "admin@protonet.io"
-    },
-    "icann_normalized_domain": "protonet.io",
-    "icann_tld": "io"
   },
   {
     "psl_entry_string": "platter-app.dev",
@@ -155869,22 +155789,6 @@
       "requestor_contact_email": "tim@resin.io"
     },
     "icann_normalized_domain": "resinstaging.io",
-    "icann_tld": "io"
-  },
-  {
-    "psl_entry_string": "hzc.io",
-    "psl_domain": "hzc.io",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "RethinkDB : https://www.rethinkdb.com/",
-      "requestor_organization": "RethinkDB",
-      "requestor_organization_url": "https://www.rethinkdb.com/",
-      "requestor_contact_name": "Chris Kastorff",
-      "requestor_contact_email": "info@rethinkdb.com"
-    },
-    "icann_normalized_domain": "hzc.io",
     "icann_tld": "io"
   },
   {
@@ -159920,22 +159824,6 @@
     "icann_tld": "site"
   },
   {
-    "psl_entry_string": "api.stdlib.com",
-    "psl_domain": "api.stdlib.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Standard Library : https://stdlib.com",
-      "requestor_organization": "Standard Library",
-      "requestor_organization_url": "https://stdlib.com",
-      "requestor_contact_name": "Jacob Lee",
-      "requestor_contact_email": "jacob@stdlib.com"
-    },
-    "icann_normalized_domain": "stdlib.com",
-    "icann_tld": "com"
-  },
-  {
     "psl_entry_string": "statichost.page",
     "psl_domain": "statichost.page",
     "section": "private",
@@ -160158,22 +160046,6 @@
     },
     "icann_normalized_domain": "storebase.store",
     "icann_tld": "store"
-  },
-  {
-    "psl_entry_string": "storj.farm",
-    "psl_domain": "storj.farm",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Storj Labs Inc. : https://storj.io/",
-      "requestor_organization": "Storj Labs Inc.",
-      "requestor_organization_url": "https://storj.io/",
-      "requestor_contact_name": "Philip Hutchins",
-      "requestor_contact_email": "hostmaster@storj.io"
-    },
-    "icann_normalized_domain": "storj.farm",
-    "icann_tld": "farm"
   },
   {
     "psl_entry_string": "strapiapp.com",
