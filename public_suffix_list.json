@@ -111408,22 +111408,6 @@
     "icann_tld": "com"
   },
   {
-    "psl_entry_string": "*.on-acorn.io",
-    "psl_domain": "on-acorn.io",
-    "section": "private",
-    "is_wildcard": true,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Acorn Labs : https://acorn.io",
-      "requestor_organization": "Acorn Labs",
-      "requestor_organization_url": "https://acorn.io",
-      "requestor_contact_name": "Craig Jellick",
-      "requestor_contact_email": "domains@acorn.io"
-    },
-    "icann_normalized_domain": "on-acorn.io",
-    "icann_tld": "io"
-  },
-  {
     "psl_entry_string": "activetrail.biz",
     "psl_domain": "activetrail.biz",
     "section": "private",
