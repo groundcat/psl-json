@@ -111424,22 +111424,6 @@
     "icann_tld": "biz"
   },
   {
-    "psl_entry_string": "adaptable.app",
-    "psl_domain": "adaptable.app",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Adaptable.io : https://adaptable.io",
-      "requestor_organization": "Adaptable.io",
-      "requestor_organization_url": "https://adaptable.io",
-      "requestor_contact_name": "Mark Terrel",
-      "requestor_contact_email": "support@adaptable.io"
-    },
-    "icann_normalized_domain": "adaptable.app",
-    "icann_tld": "app"
-  },
-  {
     "psl_entry_string": "myaddr.dev",
     "psl_domain": "myaddr.dev",
     "section": "private",
@@ -111744,10 +111728,10 @@
     "icann_tld": "app"
   },
   {
-    "psl_entry_string": "aivencloud.com",
+    "psl_entry_string": "*.aivencloud.com",
     "psl_domain": "aivencloud.com",
     "section": "private",
-    "is_wildcard": false,
+    "is_wildcard": true,
     "is_negation": false,
     "requestor": {
       "requestor_description": "Aiven : https://aiven.io/",
@@ -125744,6 +125728,54 @@
     "icann_tld": "app"
   },
   {
+    "psl_entry_string": "claudeusercontent.com",
+    "psl_domain": "claudeusercontent.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Anthropic : https://www.anthropic.com/",
+      "requestor_organization": "Anthropic",
+      "requestor_organization_url": "https://www.anthropic.com/",
+      "requestor_contact_name": "Sid Bidasaria",
+      "requestor_contact_email": "security@anthropic.com"
+    },
+    "icann_normalized_domain": "claudeusercontent.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "frame.claudeusercontent.com",
+    "psl_domain": "frame.claudeusercontent.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Anthropic : https://www.anthropic.com/",
+      "requestor_organization": "Anthropic",
+      "requestor_organization_url": "https://www.anthropic.com/",
+      "requestor_contact_name": "Sid Bidasaria",
+      "requestor_contact_email": "security@anthropic.com"
+    },
+    "icann_normalized_domain": "claudeusercontent.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.cursorusercontent.com",
+    "psl_domain": "cursorusercontent.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Anysphere Inc : https://cursor.com",
+      "requestor_organization": "Anysphere Inc",
+      "requestor_organization_url": "https://cursor.com",
+      "requestor_contact_name": "Benson Liu",
+      "requestor_contact_email": "security@cursor.com"
+    },
+    "icann_normalized_domain": "cursorusercontent.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "apigee.io",
     "psl_domain": "apigee.io",
     "section": "private",
@@ -129134,6 +129166,38 @@
     },
     "icann_normalized_domain": "codeberg.page",
     "icann_tld": "page"
+  },
+  {
+    "psl_entry_string": "codepen.app",
+    "psl_domain": "codepen.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "CodePen : https://codepen.io",
+      "requestor_organization": "CodePen",
+      "requestor_organization_url": "https://codepen.io",
+      "requestor_contact_name": "Stephen Shaw",
+      "requestor_contact_email": "support@codepen.io"
+    },
+    "icann_normalized_domain": "codepen.app",
+    "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "codepen.dev",
+    "psl_domain": "codepen.dev",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "CodePen : https://codepen.io",
+      "requestor_organization": "CodePen",
+      "requestor_organization_url": "https://codepen.io",
+      "requestor_contact_name": "Stephen Shaw",
+      "requestor_contact_email": "support@codepen.io"
+    },
+    "icann_normalized_domain": "codepen.dev",
+    "icann_tld": "dev"
   },
   {
     "psl_entry_string": "csb.app",
@@ -143200,6 +143264,22 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "here.now",
+    "psl_domain": "here.now",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "here.now : https://here.now/",
+      "requestor_organization": "here.now",
+      "requestor_organization_url": "https://here.now/",
+      "requestor_contact_name": "Adam Ludwin",
+      "requestor_contact_email": "hello@here.now"
+    },
+    "icann_normalized_domain": "here.now",
+    "icann_tld": "now"
+  },
+  {
     "psl_entry_string": "herokuapp.com",
     "psl_domain": "herokuapp.com",
     "section": "private",
@@ -144720,6 +144800,22 @@
     "icann_tld": "xyz"
   },
   {
+    "psl_entry_string": "online-server.cloud",
+    "psl_domain": "online-server.cloud",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "IONOS SE : https://www.ionos.com/",
+      "requestor_organization": "IONOS SE",
+      "requestor_organization_url": "https://www.ionos.com/",
+      "requestor_contact_name": "Anton Mehlmann",
+      "requestor_contact_email": "security@ionos.com"
+    },
+    "icann_normalized_domain": "online-server.cloud",
+    "icann_tld": "cloud"
+  },
+  {
     "psl_entry_string": "apps-1and1.com",
     "psl_domain": "apps-1and1.com",
     "section": "private",
@@ -144729,7 +144825,7 @@
       "requestor_description": "IONOS SE : https://www.ionos.com/",
       "requestor_organization": "IONOS SE",
       "requestor_organization_url": "https://www.ionos.com/",
-      "requestor_contact_name": "Henrik Willert",
+      "requestor_contact_name": "Anton Mehlmann",
       "requestor_contact_email": "security@ionos.com"
     },
     "icann_normalized_domain": "apps-1and1.com",
@@ -144745,7 +144841,7 @@
       "requestor_description": "IONOS SE : https://www.ionos.com/",
       "requestor_organization": "IONOS SE",
       "requestor_organization_url": "https://www.ionos.com/",
-      "requestor_contact_name": "Henrik Willert",
+      "requestor_contact_name": "Anton Mehlmann",
       "requestor_contact_email": "security@ionos.com"
     },
     "icann_normalized_domain": "live-website.com",
@@ -144761,7 +144857,7 @@
       "requestor_description": "IONOS SE : https://www.ionos.com/",
       "requestor_organization": "IONOS SE",
       "requestor_organization_url": "https://www.ionos.com/",
-      "requestor_contact_name": "Henrik Willert",
+      "requestor_contact_name": "Anton Mehlmann",
       "requestor_contact_email": "security@ionos.com"
     },
     "icann_normalized_domain": "webspace-host.com",
@@ -144777,7 +144873,7 @@
       "requestor_description": "IONOS SE : https://www.ionos.com/",
       "requestor_organization": "IONOS SE",
       "requestor_organization_url": "https://www.ionos.com/",
-      "requestor_contact_name": "Henrik Willert",
+      "requestor_contact_name": "Anton Mehlmann",
       "requestor_contact_email": "security@ionos.com"
     },
     "icann_normalized_domain": "apps-1and1.net",
@@ -144793,7 +144889,7 @@
       "requestor_description": "IONOS SE : https://www.ionos.com/",
       "requestor_organization": "IONOS SE",
       "requestor_organization_url": "https://www.ionos.com/",
-      "requestor_contact_name": "Henrik Willert",
+      "requestor_contact_name": "Anton Mehlmann",
       "requestor_contact_email": "security@ionos.com"
     },
     "icann_normalized_domain": "websitebuilder.online",
@@ -144809,7 +144905,7 @@
       "requestor_description": "IONOS SE : https://www.ionos.com/",
       "requestor_organization": "IONOS SE",
       "requestor_organization_url": "https://www.ionos.com/",
-      "requestor_contact_name": "Henrik Willert",
+      "requestor_contact_name": "Anton Mehlmann",
       "requestor_contact_email": "security@ionos.com"
     },
     "icann_normalized_domain": "app-ionos.space",
@@ -158142,6 +158238,54 @@
     },
     "icann_normalized_domain": "dedibox.fr",
     "icann_tld": "fr"
+  },
+  {
+    "psl_entry_string": "scw.site",
+    "psl_domain": "scw.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.site",
+    "icann_tld": "site"
+  },
+  {
+    "psl_entry_string": "ams.scw.site",
+    "psl_domain": "ams.scw.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.site",
+    "icann_tld": "site"
+  },
+  {
+    "psl_entry_string": "waw.scw.site",
+    "psl_domain": "waw.scw.site",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Scaleway : https://www.scaleway.com/",
+      "requestor_organization": "Scaleway",
+      "requestor_organization_url": "https://www.scaleway.com/",
+      "requestor_contact_name": "Scaleway PSL Maintainer",
+      "requestor_contact_email": "psl-maintainers@scaleway.com"
+    },
+    "icann_normalized_domain": "scw.site",
+    "icann_tld": "site"
   },
   {
     "psl_entry_string": "schokokeks.net",
