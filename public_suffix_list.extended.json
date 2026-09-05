@@ -12846,7 +12846,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -26663,7 +26663,7 @@
       "requestor_contact_email": "tanyaling@cnnic.cn"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -32321,7 +32321,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -32363,7 +32363,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -32445,7 +32445,7 @@
     },
     "dns": {
       "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -33100,8 +33100,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_ns_error": true,
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -33141,7 +33141,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -33264,7 +33264,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -35519,7 +35519,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -40521,7 +40521,7 @@
       "requestor_contact_email": "uognoc@triton.uog.edu"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -141873,7 +141873,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -152697,7 +152697,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -211204,7 +211204,7 @@
       "requestor_contact_email": "admin@nic.TM"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -326155,6 +326155,47 @@
     "icann_tld": "cn"
   },
   {
+    "psl_entry_string": "canva-code.cn",
+    "psl_domain": "canva-code.cn",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Canva Pty Ltd : https://canva.com/",
+      "requestor_organization": "Canva Pty Ltd",
+      "requestor_organization_url": "https://canva.com/",
+      "requestor_contact_name": "Joel Aquilina",
+      "requestor_contact_email": "publicsuffixlist@canva.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "canva-code.cn",
+    "icann_tld": "cn"
+  },
+  {
     "psl_entry_string": "my.canvasite.cn",
     "psl_domain": "my.canvasite.cn",
     "section": "private",
@@ -330678,7 +330719,7 @@
       "requestor_contact_email": "angelo@lahacker.net"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -334560,6 +334601,47 @@
     "icann_tld": "io"
   },
   {
+    "psl_entry_string": "opencloud.me",
+    "psl_domain": "opencloud.me",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Dfinity Foundation: https://dfinity.org/",
+      "requestor_organization": "Dfinity Foundation",
+      "requestor_organization_url": "https://dfinity.org/",
+      "requestor_contact_name": "Dfinity Team",
+      "requestor_contact_email": "domains@dfinity.org"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "opencloud.me",
+    "icann_tld": "me"
+  },
+  {
     "psl_entry_string": "*.icp.net",
     "psl_domain": "icp.net",
     "section": "private",
@@ -335435,7 +335517,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -348473,7 +348555,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -348637,7 +348719,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -348719,7 +348801,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -351260,7 +351342,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -365078,7 +365160,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -366266,7 +366348,7 @@
       "requestor_contact_email": "admin@mailto.al"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -367169,7 +367251,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -372663,7 +372745,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -373592,88 +373674,6 @@
     "icann_tld": "fi"
   },
   {
-    "psl_entry_string": "demo.datacenter.fi",
-    "psl_domain": "demo.datacenter.fi",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Jelastic, Inc. : https://jelastic.com/",
-      "requestor_organization": "Jelastic, Inc.",
-      "requestor_organization_url": "https://jelastic.com/",
-      "requestor_contact_name": "Ihor Kolodyuk",
-      "requestor_contact_email": "ik@jelastic.com"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "datacenter.fi",
-    "icann_tld": "fi"
-  },
-  {
-    "psl_entry_string": "paas.datacenter.fi",
-    "psl_domain": "paas.datacenter.fi",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Jelastic, Inc. : https://jelastic.com/",
-      "requestor_organization": "Jelastic, Inc.",
-      "requestor_organization_url": "https://jelastic.com/",
-      "requestor_contact_name": "Ihor Kolodyuk",
-      "requestor_contact_email": "ik@jelastic.com"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "datacenter.fi",
-    "icann_tld": "fi"
-  },
-  {
     "psl_entry_string": "jele.host",
     "psl_domain": "jele.host",
     "section": "private",
@@ -373892,7 +373892,7 @@
       "requestor_contact_email": "ik@jelastic.com"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -376993,6 +376993,88 @@
     },
     "icann_normalized_domain": "on-vapor.com",
     "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.eth.limo",
+    "psl_domain": "eth.limo",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Last Mile Labs, Inc : https://eth.limo",
+      "requestor_organization": "Last Mile Labs, Inc",
+      "requestor_organization_url": "https://eth.limo",
+      "requestor_contact_name": "eth.limo team",
+      "requestor_contact_email": "security@eth.limo"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "eth.limo",
+    "icann_tld": "limo"
+  },
+  {
+    "psl_entry_string": "*.eth.link",
+    "psl_domain": "eth.link",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Last Mile Labs, Inc : https://eth.limo",
+      "requestor_organization": "Last Mile Labs, Inc",
+      "requestor_organization_url": "https://eth.limo",
+      "requestor_contact_name": "eth.limo team",
+      "requestor_contact_email": "security@eth.limo"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "eth.link",
+    "icann_tld": "link"
   },
   {
     "psl_entry_string": "git-repos.de",
@@ -382694,6 +382776,2958 @@
     "icann_tld": "net"
   },
   {
+    "psl_entry_string": "australiacentral-01.azurewebsites.net",
+    "psl_domain": "australiacentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "australiacentral2-01.azurewebsites.net",
+    "psl_domain": "australiacentral2-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "australiaeast-01.azurewebsites.net",
+    "psl_domain": "australiaeast-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "australiasoutheast-01.azurewebsites.net",
+    "psl_domain": "australiasoutheast-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "austriaeast-01.azurewebsites.net",
+    "psl_domain": "austriaeast-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "belgiumcentral-01.azurewebsites.net",
+    "psl_domain": "belgiumcentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "brazilsouth-01.azurewebsites.net",
+    "psl_domain": "brazilsouth-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "brazilsoutheast-01.azurewebsites.net",
+    "psl_domain": "brazilsoutheast-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "canadacentral-01.azurewebsites.net",
+    "psl_domain": "canadacentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "canadaeast-01.azurewebsites.net",
+    "psl_domain": "canadaeast-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "centralindia-01.azurewebsites.net",
+    "psl_domain": "centralindia-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "centralus-01.azurewebsites.net",
+    "psl_domain": "centralus-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "centraluseuap-01.azurewebsites.net",
+    "psl_domain": "centraluseuap-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "chilecentral-01.azurewebsites.net",
+    "psl_domain": "chilecentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "denmarkeast-01.azurewebsites.net",
+    "psl_domain": "denmarkeast-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "eastasia-01.azurewebsites.net",
+    "psl_domain": "eastasia-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "eastasiastage-01.azurewebsites.net",
+    "psl_domain": "eastasiastage-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "eastus-01.azurewebsites.net",
+    "psl_domain": "eastus-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "eastus2-01.azurewebsites.net",
+    "psl_domain": "eastus2-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "eastus2euap-01.azurewebsites.net",
+    "psl_domain": "eastus2euap-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "eastus3-01.azurewebsites.net",
+    "psl_domain": "eastus3-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "francecentral-01.azurewebsites.net",
+    "psl_domain": "francecentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "francesouth-01.azurewebsites.net",
+    "psl_domain": "francesouth-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "germanynorth-01.azurewebsites.net",
+    "psl_domain": "germanynorth-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "germanywestcentral-01.azurewebsites.net",
+    "psl_domain": "germanywestcentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "indiasouthcentral-01.azurewebsites.net",
+    "psl_domain": "indiasouthcentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "indonesiacentral-01.azurewebsites.net",
+    "psl_domain": "indonesiacentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "israelcentral-01.azurewebsites.net",
+    "psl_domain": "israelcentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "israelnorthwest-01.azurewebsites.net",
+    "psl_domain": "israelnorthwest-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "italynorth-01.azurewebsites.net",
+    "psl_domain": "italynorth-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "japaneast-01.azurewebsites.net",
+    "psl_domain": "japaneast-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "japanwest-01.azurewebsites.net",
+    "psl_domain": "japanwest-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "jioindiacentral-01.azurewebsites.net",
+    "psl_domain": "jioindiacentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "jioindiawest-01.azurewebsites.net",
+    "psl_domain": "jioindiawest-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "koreacentral-01.azurewebsites.net",
+    "psl_domain": "koreacentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "koreasouth-01.azurewebsites.net",
+    "psl_domain": "koreasouth-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "malaysiawest-01.azurewebsites.net",
+    "psl_domain": "malaysiawest-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "mexicocentral-01.azurewebsites.net",
+    "psl_domain": "mexicocentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "newzealandnorth-01.azurewebsites.net",
+    "psl_domain": "newzealandnorth-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "northcentralus-01.azurewebsites.net",
+    "psl_domain": "northcentralus-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "northcentralusstage-01.azurewebsites.net",
+    "psl_domain": "northcentralusstage-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "northeastus5-01.azurewebsites.net",
+    "psl_domain": "northeastus5-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "northeurope-01.azurewebsites.net",
+    "psl_domain": "northeurope-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "norwayeast-01.azurewebsites.net",
+    "psl_domain": "norwayeast-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "norwaywest-01.azurewebsites.net",
+    "psl_domain": "norwaywest-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "*.p.azurewebsites.net",
+    "psl_domain": "p.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": true,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "polandcentral-01.azurewebsites.net",
+    "psl_domain": "polandcentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "qatarcentral-01.azurewebsites.net",
+    "psl_domain": "qatarcentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "southafricanorth-01.azurewebsites.net",
+    "psl_domain": "southafricanorth-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "southafricawest-01.azurewebsites.net",
+    "psl_domain": "southafricawest-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "southcentralus-01.azurewebsites.net",
+    "psl_domain": "southcentralus-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "southcentralus2-01.azurewebsites.net",
+    "psl_domain": "southcentralus2-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "southeastasia-01.azurewebsites.net",
+    "psl_domain": "southeastasia-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "southeastus5-01.azurewebsites.net",
+    "psl_domain": "southeastus5-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "southindia-01.azurewebsites.net",
+    "psl_domain": "southindia-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "spaincentral-01.azurewebsites.net",
+    "psl_domain": "spaincentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "swedencentral-01.azurewebsites.net",
+    "psl_domain": "swedencentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "swedensouth-01.azurewebsites.net",
+    "psl_domain": "swedensouth-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "switzerlandnorth-01.azurewebsites.net",
+    "psl_domain": "switzerlandnorth-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "switzerlandwest-01.azurewebsites.net",
+    "psl_domain": "switzerlandwest-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "taiwannorth-01.azurewebsites.net",
+    "psl_domain": "taiwannorth-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "taiwannorthwest-01.azurewebsites.net",
+    "psl_domain": "taiwannorthwest-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "uaecentral-01.azurewebsites.net",
+    "psl_domain": "uaecentral-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "uaenorth-01.azurewebsites.net",
+    "psl_domain": "uaenorth-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "uksouth-01.azurewebsites.net",
+    "psl_domain": "uksouth-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "ukwest-01.azurewebsites.net",
+    "psl_domain": "ukwest-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "westcentralus-01.azurewebsites.net",
+    "psl_domain": "westcentralus-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "westeurope-01.azurewebsites.net",
+    "psl_domain": "westeurope-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "westindia-01.azurewebsites.net",
+    "psl_domain": "westindia-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "westus-01.azurewebsites.net",
+    "psl_domain": "westus-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "westus2-01.azurewebsites.net",
+    "psl_domain": "westus2-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "westus3-01.azurewebsites.net",
+    "psl_domain": "westus3-01.azurewebsites.net",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Microsoft Corporation : http://microsoft.com",
+      "requestor_organization": "Microsoft Corporation",
+      "requestor_organization_url": "http://microsoft.com",
+      "requestor_contact_name": "Public Suffix List Admin",
+      "requestor_contact_email": "msftpsladmin@microsoft.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "azurewebsites.net",
+    "icann_tld": "net"
+  },
+  {
     "psl_entry_string": "cloudapp.net",
     "psl_domain": "cloudapp.net",
     "section": "private",
@@ -383404,7 +386438,7 @@
       "requestor_contact_email": "support@mikrotik.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -390128,7 +393162,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -394270,7 +397304,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -399709,6 +402743,88 @@
     "icann_tld": "edu"
   },
   {
+    "psl_entry_string": "rocketpreview.app",
+    "psl_domain": "rocketpreview.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Rocket : https://rocket.new",
+      "requestor_organization": "Rocket",
+      "requestor_organization_url": "https://rocket.new",
+      "requestor_contact_name": "Rahul Shingala",
+      "requestor_contact_email": "support@rocket.new"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "rocketpreview.app",
+    "icann_tld": "app"
+  },
+  {
+    "psl_entry_string": "*.builtwithrocket.new",
+    "psl_domain": "builtwithrocket.new",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Rocket : https://rocket.new",
+      "requestor_organization": "Rocket",
+      "requestor_organization_url": "https://rocket.new",
+      "requestor_contact_name": "Rahul Shingala",
+      "requestor_contact_email": "support@rocket.new"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": true
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "builtwithrocket.new",
+    "icann_tld": "new"
+  },
+  {
     "psl_entry_string": "rocky.page",
     "psl_domain": "rocky.page",
     "section": "private",
@@ -399845,7 +402961,7 @@
       "requestor_contact_email": "noc@ruhr-uni-bochum.de"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -407103,7 +410219,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -412433,7 +415549,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -416077,7 +419193,7 @@
       "requestor_description": "Vercel, Inc : https://vercel.com/",
       "requestor_organization": "Vercel, Inc",
       "requestor_organization_url": "https://vercel.com/",
-      "requestor_contact_name": "Laurens Duijvesteijn",
+      "requestor_contact_name": "Thibault Miranda de Oliveira",
       "requestor_contact_email": "security@vercel.com"
     },
     "dns": {
@@ -416118,7 +419234,7 @@
       "requestor_description": "Vercel, Inc : https://vercel.com/",
       "requestor_organization": "Vercel, Inc",
       "requestor_organization_url": "https://vercel.com/",
-      "requestor_contact_name": "Laurens Duijvesteijn",
+      "requestor_contact_name": "Thibault Miranda de Oliveira",
       "requestor_contact_email": "security@vercel.com"
     },
     "dns": {
@@ -416159,7 +419275,7 @@
       "requestor_description": "Vercel, Inc : https://vercel.com/",
       "requestor_organization": "Vercel, Inc",
       "requestor_organization_url": "https://vercel.com/",
-      "requestor_contact_name": "Laurens Duijvesteijn",
+      "requestor_contact_name": "Thibault Miranda de Oliveira",
       "requestor_contact_email": "security@vercel.com"
     },
     "dns": {
@@ -416200,7 +419316,7 @@
       "requestor_description": "Vercel, Inc : https://vercel.com/",
       "requestor_organization": "Vercel, Inc",
       "requestor_organization_url": "https://vercel.com/",
-      "requestor_contact_name": "Laurens Duijvesteijn",
+      "requestor_contact_name": "Thibault Miranda de Oliveira",
       "requestor_contact_email": "security@vercel.com"
     },
     "dns": {
@@ -416232,6 +419348,47 @@
     "icann_tld": "net"
   },
   {
+    "psl_entry_string": "tmp.now",
+    "psl_domain": "tmp.now",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Vercel, Inc : https://vercel.com/",
+      "requestor_organization": "Vercel, Inc",
+      "requestor_organization_url": "https://vercel.com/",
+      "requestor_contact_name": "Thibault Miranda de Oliveira",
+      "requestor_contact_email": "security@vercel.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "tmp.now",
+    "icann_tld": "now"
+  },
+  {
     "psl_entry_string": "vercel.run",
     "psl_domain": "vercel.run",
     "section": "private",
@@ -416241,7 +419398,7 @@
       "requestor_description": "Vercel, Inc : https://vercel.com/",
       "requestor_organization": "Vercel, Inc",
       "requestor_organization_url": "https://vercel.com/",
-      "requestor_contact_name": "Laurens Duijvesteijn",
+      "requestor_contact_name": "Thibault Miranda de Oliveira",
       "requestor_contact_email": "security@vercel.com"
     },
     "dns": {
@@ -416282,7 +419439,7 @@
       "requestor_description": "Vercel, Inc : https://vercel.com/",
       "requestor_organization": "Vercel, Inc",
       "requestor_organization_url": "https://vercel.com/",
-      "requestor_contact_name": "Laurens Duijvesteijn",
+      "requestor_contact_name": "Thibault Miranda de Oliveira",
       "requestor_contact_email": "security@vercel.com"
     },
     "dns": {
@@ -418936,129 +422093,6 @@
     },
     "icann_normalized_domain": "half.host",
     "icann_tld": "host"
-  },
-  {
-    "psl_entry_string": "xnbay.com",
-    "psl_domain": "xnbay.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "XnBay Technology : http://www.xnbay.com/",
-      "requestor_organization": "XnBay Technology",
-      "requestor_organization_url": "http://www.xnbay.com/",
-      "requestor_contact_name": "XnBay Developer",
-      "requestor_contact_email": "developer.xncloud@gmail.com"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "xnbay.com",
-    "icann_tld": "com"
-  },
-  {
-    "psl_entry_string": "u2.xnbay.com",
-    "psl_domain": "u2.xnbay.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "XnBay Technology : http://www.xnbay.com/",
-      "requestor_organization": "XnBay Technology",
-      "requestor_organization_url": "http://www.xnbay.com/",
-      "requestor_contact_name": "XnBay Developer",
-      "requestor_contact_email": "developer.xncloud@gmail.com"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "xnbay.com",
-    "icann_tld": "com"
-  },
-  {
-    "psl_entry_string": "u2-local.xnbay.com",
-    "psl_domain": "u2-local.xnbay.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "XnBay Technology : http://www.xnbay.com/",
-      "requestor_organization": "XnBay Technology",
-      "requestor_organization_url": "http://www.xnbay.com/",
-      "requestor_contact_name": "XnBay Developer",
-      "requestor_contact_email": "developer.xncloud@gmail.com"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "xnbay.com",
-    "icann_tld": "com"
   },
   {
     "psl_entry_string": "cistron.nl",
