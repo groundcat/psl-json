@@ -139552,6 +139552,22 @@
     "icann_tld": "me"
   },
   {
+    "psl_entry_string": "hosted-by-files.com",
+    "psl_domain": "hosted-by-files.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Files.com : https://www.files.com/",
+      "requestor_organization": "Files.com",
+      "requestor_organization_url": "https://www.files.com/",
+      "requestor_contact_name": "Caleb Hearth",
+      "requestor_contact_email": "ops+public-suffix@files.com"
+    },
+    "icann_normalized_domain": "hosted-by-files.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "firebaseapp.com",
     "psl_domain": "firebaseapp.com",
     "section": "private",
@@ -143364,6 +143380,22 @@
     "psl_domain": "herokuapp.com",
     "section": "private",
     "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Heroku : https://www.heroku.com/",
+      "requestor_organization": "Heroku",
+      "requestor_organization_url": "https://www.heroku.com/",
+      "requestor_contact_name": "Shumon Huque",
+      "requestor_contact_email": "public-dns@salesforce.com"
+    },
+    "icann_normalized_domain": "herokuapp.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.compute.herokuapp.com",
+    "psl_domain": "compute.herokuapp.com",
+    "section": "private",
+    "is_wildcard": true,
     "is_negation": false,
     "requestor": {
       "requestor_description": "Heroku : https://www.heroku.com/",
@@ -155950,38 +155982,6 @@
     },
     "icann_normalized_domain": "myqnapcloud.cn",
     "icann_tld": "cn"
-  },
-  {
-    "psl_entry_string": "alpha-myqnapcloud.com",
-    "psl_domain": "alpha-myqnapcloud.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "QNAP System Inc : https://www.qnap.com",
-      "requestor_organization": "QNAP System Inc",
-      "requestor_organization_url": "https://www.qnap.com",
-      "requestor_contact_name": "Nick Chang",
-      "requestor_contact_email": "cloudadmin@qnap.com"
-    },
-    "icann_normalized_domain": "alpha-myqnapcloud.com",
-    "icann_tld": "com"
-  },
-  {
-    "psl_entry_string": "dev-myqnapcloud.com",
-    "psl_domain": "dev-myqnapcloud.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "QNAP System Inc : https://www.qnap.com",
-      "requestor_organization": "QNAP System Inc",
-      "requestor_organization_url": "https://www.qnap.com",
-      "requestor_contact_name": "Nick Chang",
-      "requestor_contact_email": "cloudadmin@qnap.com"
-    },
-    "icann_normalized_domain": "dev-myqnapcloud.com",
-    "icann_tld": "com"
   },
   {
     "psl_entry_string": "mycloudnas.com",
