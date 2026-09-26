@@ -12846,7 +12846,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -16455,7 +16455,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -32034,8 +32034,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
+      "is_ns_error": false,
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -32116,7 +32116,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -32403,8 +32403,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_ns_error": true,
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -32485,8 +32485,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
+      "is_ns_error": false,
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -32691,7 +32691,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -32731,7 +32731,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -32854,7 +32854,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -33142,7 +33142,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -33305,7 +33305,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -33346,7 +33346,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -33470,7 +33470,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -33633,8 +33633,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
+      "is_ns_error": false,
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -142037,7 +142037,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -142242,7 +142242,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -147080,7 +147080,7 @@
       "requestor_contact_email": "lsadmin@nic.ls"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -202471,7 +202471,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -213459,7 +213459,7 @@
       "requestor_contact_email": "admin@nic.tt"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -331403,6 +331403,47 @@
     "icann_tld": "be"
   },
   {
+    "psl_entry_string": "site.webhosting.be",
+    "psl_domain": "site.webhosting.be",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Combell.com : https://www.combell.com",
+      "requestor_organization": "Combell.com",
+      "requestor_organization_url": "https://www.combell.com",
+      "requestor_contact_name": "Combell Team",
+      "requestor_contact_email": "support@combell.com"
+    },
+    "dns": {
+      "is_ns_error": true,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "webhosting.be",
+    "icann_tld": "be"
+  },
+  {
     "psl_entry_string": "prvw.eu",
     "psl_domain": "prvw.eu",
     "section": "private",
@@ -331458,6 +331499,47 @@
     },
     "dns": {
       "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "hosting-cluster.nl",
+    "icann_tld": "nl"
+  },
+  {
+    "psl_entry_string": "site.hosting-cluster.nl",
+    "psl_domain": "site.hosting-cluster.nl",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Combell.com : https://www.combell.com",
+      "requestor_organization": "Combell.com",
+      "requestor_organization_url": "https://www.combell.com",
+      "requestor_contact_name": "Combell Team",
+      "requestor_contact_email": "support@combell.com"
+    },
+    "dns": {
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -332959,6 +333041,170 @@
     },
     "icann_normalized_domain": "darklang.io",
     "icann_tld": "io"
+  },
+  {
+    "psl_entry_string": "aws.databricksapps.com",
+    "psl_domain": "aws.databricksapps.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Databricks, Inc. : https://www.databricks.com/",
+      "requestor_organization": "Databricks, Inc.",
+      "requestor_organization_url": "https://www.databricks.com/",
+      "requestor_contact_name": "Databricks Enterprise Security",
+      "requestor_contact_email": "entsec@databricks.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "databricksapps.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.azure.databricksapps.com",
+    "psl_domain": "azure.databricksapps.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Databricks, Inc. : https://www.databricks.com/",
+      "requestor_organization": "Databricks, Inc.",
+      "requestor_organization_url": "https://www.databricks.com/",
+      "requestor_contact_name": "Databricks Enterprise Security",
+      "requestor_contact_email": "entsec@databricks.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "databricksapps.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "gcp.databricksapps.com",
+    "psl_domain": "gcp.databricksapps.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Databricks, Inc. : https://www.databricks.com/",
+      "requestor_organization": "Databricks, Inc.",
+      "requestor_organization_url": "https://www.databricks.com/",
+      "requestor_contact_name": "Databricks Enterprise Security",
+      "requestor_contact_email": "entsec@databricks.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "databricksapps.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "aws-gov.databricksapps.us",
+    "psl_domain": "aws-gov.databricksapps.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Databricks, Inc. : https://www.databricks.com/",
+      "requestor_organization": "Databricks, Inc.",
+      "requestor_organization_url": "https://www.databricks.com/",
+      "requestor_contact_name": "Databricks Enterprise Security",
+      "requestor_contact_email": "entsec@databricks.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "databricksapps.us",
+    "icann_tld": "us"
   },
   {
     "psl_entry_string": "demo.datadetect.com",
@@ -335558,7 +335804,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -348350,7 +348596,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -348555,7 +348801,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -348596,7 +348842,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -348760,7 +349006,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -348883,7 +349129,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -349129,7 +349375,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -351014,7 +351260,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -360677,6 +360923,47 @@
     "icann_tld": "si"
   },
   {
+    "psl_entry_string": "glideos.app",
+    "psl_domain": "glideos.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Glide : https://www.glideapps.com",
+      "requestor_organization": "Glide",
+      "requestor_organization_url": "https://www.glideapps.com",
+      "requestor_contact_name": "Glide Engineering",
+      "requestor_contact_email": "engineering@heyglide.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "glideos.app",
+    "icann_tld": "app"
+  },
+  {
     "psl_entry_string": "nog.community",
     "psl_domain": "nog.community",
     "section": "private",
@@ -369177,7 +369464,7 @@
       "requestor_contact_email": "security@imagine.dev"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -371952,6 +372239,47 @@
     "icann_tld": "net"
   },
   {
+    "psl_entry_string": "iqhs.pl",
+    "psl_domain": "iqhs.pl",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "IQHost / IQ Group : https://iqhost.pl/",
+      "requestor_organization": "IQHost / IQ Group",
+      "requestor_organization_url": "https://iqhost.pl/",
+      "requestor_contact_name": "Adam Buhl",
+      "requestor_contact_email": "admin@iqhost.pl"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "iqhs.pl",
+    "icann_tld": "pl"
+  },
+  {
     "psl_entry_string": "ir.md",
     "psl_domain": "ir.md",
     "section": "private",
@@ -372991,7 +373319,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -375040,7 +375368,7 @@
       "requestor_contact_email": "ik@jelastic.com"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -393040,7 +393368,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -393245,7 +393573,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -393285,7 +393613,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -393490,7 +393818,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -393532,7 +393860,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -393614,7 +393942,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -393654,7 +393982,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -393778,7 +394106,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -393819,7 +394147,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -400173,7 +400501,7 @@
       "requestor_contact_email": "jonas@qutheory.io"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -401198,8 +401526,8 @@
       "requestor_contact_email": "psl@repl.it"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_ns_error": false,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -406692,7 +407020,7 @@
       "requestor_contact_email": "nm@sbe.de"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -411490,7 +411818,7 @@
     },
     "dns": {
       "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -411530,7 +411858,7 @@
       "requestor_contact_email": "mail@sourceway.de"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -411572,7 +411900,7 @@
     },
     "dns": {
       "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -414426,6 +414754,47 @@
     },
     "icann_normalized_domain": "supabase.net",
     "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "surge.sh",
+    "psl_domain": "surge.sh",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Surge : https://surge.sh",
+      "requestor_organization": "Surge",
+      "requestor_organization_url": "https://surge.sh",
+      "requestor_contact_name": "Brock Whitten",
+      "requestor_contact_email": "support@surge.sh"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": true
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "surge.sh",
+    "icann_tld": "sh"
   },
   {
     "psl_entry_string": "syncloud.it",

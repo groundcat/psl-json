@@ -129328,6 +129328,22 @@
     "icann_tld": "be"
   },
   {
+    "psl_entry_string": "site.webhosting.be",
+    "psl_domain": "site.webhosting.be",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Combell.com : https://www.combell.com",
+      "requestor_organization": "Combell.com",
+      "requestor_organization_url": "https://www.combell.com",
+      "requestor_contact_name": "Combell Team",
+      "requestor_contact_email": "support@combell.com"
+    },
+    "icann_normalized_domain": "webhosting.be",
+    "icann_tld": "be"
+  },
+  {
     "psl_entry_string": "prvw.eu",
     "psl_domain": "prvw.eu",
     "section": "private",
@@ -129346,6 +129362,22 @@
   {
     "psl_entry_string": "hosting-cluster.nl",
     "psl_domain": "hosting-cluster.nl",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Combell.com : https://www.combell.com",
+      "requestor_organization": "Combell.com",
+      "requestor_organization_url": "https://www.combell.com",
+      "requestor_contact_name": "Combell Team",
+      "requestor_contact_email": "support@combell.com"
+    },
+    "icann_normalized_domain": "hosting-cluster.nl",
+    "icann_tld": "nl"
+  },
+  {
+    "psl_entry_string": "site.hosting-cluster.nl",
+    "psl_domain": "site.hosting-cluster.nl",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -129934,6 +129966,70 @@
     },
     "icann_normalized_domain": "darklang.io",
     "icann_tld": "io"
+  },
+  {
+    "psl_entry_string": "aws.databricksapps.com",
+    "psl_domain": "aws.databricksapps.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Databricks, Inc. : https://www.databricks.com/",
+      "requestor_organization": "Databricks, Inc.",
+      "requestor_organization_url": "https://www.databricks.com/",
+      "requestor_contact_name": "Databricks Enterprise Security",
+      "requestor_contact_email": "entsec@databricks.com"
+    },
+    "icann_normalized_domain": "databricksapps.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.azure.databricksapps.com",
+    "psl_domain": "azure.databricksapps.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Databricks, Inc. : https://www.databricks.com/",
+      "requestor_organization": "Databricks, Inc.",
+      "requestor_organization_url": "https://www.databricks.com/",
+      "requestor_contact_name": "Databricks Enterprise Security",
+      "requestor_contact_email": "entsec@databricks.com"
+    },
+    "icann_normalized_domain": "databricksapps.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "gcp.databricksapps.com",
+    "psl_domain": "gcp.databricksapps.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Databricks, Inc. : https://www.databricks.com/",
+      "requestor_organization": "Databricks, Inc.",
+      "requestor_organization_url": "https://www.databricks.com/",
+      "requestor_contact_name": "Databricks Enterprise Security",
+      "requestor_contact_email": "entsec@databricks.com"
+    },
+    "icann_normalized_domain": "databricksapps.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "aws-gov.databricksapps.us",
+    "psl_domain": "aws-gov.databricksapps.us",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Databricks, Inc. : https://www.databricks.com/",
+      "requestor_organization": "Databricks, Inc.",
+      "requestor_organization_url": "https://www.databricks.com/",
+      "requestor_contact_name": "Databricks Enterprise Security",
+      "requestor_contact_email": "entsec@databricks.com"
+    },
+    "icann_normalized_domain": "databricksapps.us",
+    "icann_tld": "us"
   },
   {
     "psl_entry_string": "demo.datadetect.com",
@@ -140752,6 +140848,22 @@
     "icann_tld": "si"
   },
   {
+    "psl_entry_string": "glideos.app",
+    "psl_domain": "glideos.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Glide : https://www.glideapps.com",
+      "requestor_organization": "Glide",
+      "requestor_organization_url": "https://www.glideapps.com",
+      "requestor_contact_name": "Glide Engineering",
+      "requestor_contact_email": "engineering@heyglide.com"
+    },
+    "icann_normalized_domain": "glideos.app",
+    "icann_tld": "app"
+  },
+  {
     "psl_entry_string": "nog.community",
     "psl_domain": "nog.community",
     "section": "private",
@@ -145150,6 +145262,22 @@
     },
     "icann_normalized_domain": "ipv64.net",
     "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "iqhs.pl",
+    "psl_domain": "iqhs.pl",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "IQHost / IQ Group : https://iqhost.pl/",
+      "requestor_organization": "IQHost / IQ Group",
+      "requestor_organization_url": "https://iqhost.pl/",
+      "requestor_contact_name": "Adam Buhl",
+      "requestor_contact_email": "admin@iqhost.pl"
+    },
+    "icann_normalized_domain": "iqhs.pl",
+    "icann_tld": "pl"
   },
   {
     "psl_entry_string": "ir.md",
@@ -161726,6 +161854,22 @@
     },
     "icann_normalized_domain": "supabase.net",
     "icann_tld": "net"
+  },
+  {
+    "psl_entry_string": "surge.sh",
+    "psl_domain": "surge.sh",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Surge : https://surge.sh",
+      "requestor_organization": "Surge",
+      "requestor_organization_url": "https://surge.sh",
+      "requestor_contact_name": "Brock Whitten",
+      "requestor_contact_email": "support@surge.sh"
+    },
+    "icann_normalized_domain": "surge.sh",
+    "icann_tld": "sh"
   },
   {
     "psl_entry_string": "syncloud.it",
