@@ -12846,7 +12846,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -26704,7 +26704,7 @@
       "requestor_contact_email": "tanyaling@cnnic.cn"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -32034,7 +32034,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -32362,7 +32362,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -32403,8 +32403,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_ns_error": false,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -32485,8 +32485,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_ns_error": true,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -32731,8 +32731,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_ns_error": false,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -32855,7 +32855,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -33141,7 +33141,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -33183,7 +33183,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -33346,8 +33346,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_ns_error": false,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -33469,8 +33469,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_ns_error": true,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -33634,7 +33634,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -141914,7 +141914,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -142037,7 +142037,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -142242,7 +142242,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -202471,7 +202471,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -211245,7 +211245,7 @@
       "requestor_contact_email": "admin@nic.TM"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -213459,7 +213459,7 @@
       "requestor_contact_email": "admin@nic.tt"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -239528,8 +239528,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-07-24T16:40:16Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-07-24T16:40:16Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-01T20:07:38Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-01T20:07:38Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -247892,8 +247892,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "cologne : dotKoeln GmbH",
-      "requestor_organization": "cologne : dotKoeln GmbH",
+      "requestor_description": "cologne : domainworx Service & Management GmbH",
+      "requestor_organization": "cologne : domainworx Service & Management GmbH",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -259858,47 +259858,6 @@
     "icann_tld": "juegos"
   },
   {
-    "psl_entry_string": "juniper",
-    "psl_domain": "juniper",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "juniper : JUNIPER NETWORKS, INC.",
-      "requestor_organization": "juniper : JUNIPER NETWORKS, INC.",
-      "requestor_organization_url": null,
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": true
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "juniper",
-    "icann_tld": "juniper"
-  },
-  {
     "psl_entry_string": "kaufen",
     "psl_domain": "kaufen",
     "section": "icann",
@@ -260356,8 +260315,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "koeln : dotKoeln GmbH",
-      "requestor_organization": "koeln : dotKoeln GmbH",
+      "requestor_description": "koeln : domainworx Service & Management GmbH",
+      "requestor_organization": "koeln : domainworx Service & Management GmbH",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -332852,7 +332811,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -348391,7 +348350,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -348432,7 +348391,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -348473,7 +348432,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -348514,7 +348473,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -348678,7 +348637,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -348719,7 +348678,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -348760,7 +348719,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -348801,7 +348760,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -348842,7 +348801,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -348924,7 +348883,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -349006,7 +348965,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -349252,7 +349211,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -349293,7 +349252,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -349375,7 +349334,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -349457,7 +349416,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -349498,7 +349457,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -350932,7 +350891,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -351793,7 +351752,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -366799,7 +366758,7 @@
       "requestor_contact_email": "admin@mailto.al"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -373319,7 +373278,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -377910,7 +377869,7 @@
       "requestor_contact_email": "support@leapcell.io"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -393368,7 +393327,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -393409,7 +393368,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -393491,7 +393450,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -393531,7 +393490,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -393572,8 +393531,8 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_ns_error": true,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -393613,8 +393572,8 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
+      "is_ns_error": false,
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -393655,7 +393614,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -393736,8 +393695,8 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_ns_error": true,
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -393777,8 +393736,8 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_ns_error": true,
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -393818,7 +393777,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -393859,7 +393818,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -393901,7 +393860,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -393941,7 +393900,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -394023,7 +393982,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -394064,7 +394023,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -394105,7 +394064,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -394147,7 +394106,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -394188,7 +394147,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -394269,7 +394228,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -394310,7 +394269,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -403412,7 +403371,7 @@
       "requestor_contact_email": "noc@ruhr-uni-bochum.de"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -407020,7 +406979,7 @@
       "requestor_contact_email": "nm@sbe.de"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -410629,7 +410588,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -410670,7 +410629,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -410711,7 +410670,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -410752,7 +410711,7 @@
     },
     "dns": {
       "is_ns_error": true,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -410793,7 +410752,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -411817,7 +411776,7 @@
       "requestor_contact_email": "mail@sourceway.de"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -411858,8 +411817,8 @@
       "requestor_contact_email": "mail@sourceway.de"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_ns_error": false,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -411899,7 +411858,7 @@
       "requestor_contact_email": "mail@sourceway.de"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -411981,8 +411940,8 @@
       "requestor_contact_email": "mail@sourceway.de"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_ns_error": false,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -414770,7 +414729,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,

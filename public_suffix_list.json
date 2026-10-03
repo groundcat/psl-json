@@ -93478,8 +93478,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-07-24T16:40:16Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-07-24T16:40:16Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-01T20:07:38Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-01T20:07:38Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -96742,8 +96742,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "cologne : dotKoeln GmbH",
-      "requestor_organization": "cologne : dotKoeln GmbH",
+      "requestor_description": "cologne : domainworx Service & Management GmbH",
+      "requestor_organization": "cologne : domainworx Service & Management GmbH",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -101408,22 +101408,6 @@
     "icann_tld": "juegos"
   },
   {
-    "psl_entry_string": "juniper",
-    "psl_domain": "juniper",
-    "section": "icann",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "juniper : JUNIPER NETWORKS, INC.",
-      "requestor_organization": "juniper : JUNIPER NETWORKS, INC.",
-      "requestor_organization_url": null,
-      "requestor_contact_name": null,
-      "requestor_contact_email": null
-    },
-    "icann_normalized_domain": "juniper",
-    "icann_tld": "juniper"
-  },
-  {
     "psl_entry_string": "kaufen",
     "psl_domain": "kaufen",
     "section": "icann",
@@ -101606,8 +101590,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "koeln : dotKoeln GmbH",
-      "requestor_organization": "koeln : dotKoeln GmbH",
+      "requestor_description": "koeln : domainworx Service & Management GmbH",
+      "requestor_organization": "koeln : domainworx Service & Management GmbH",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
