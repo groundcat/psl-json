@@ -26704,7 +26704,7 @@
       "requestor_contact_email": "tanyaling@cnnic.cn"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -32362,8 +32362,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_ns_error": true,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -32690,8 +32690,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_ns_error": true,
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -33141,7 +33141,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -33183,7 +33183,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -33469,7 +33469,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -141873,7 +141873,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -142037,7 +142037,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -142242,7 +142242,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -288886,6 +288886,47 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "auth.ap-east-2.amazoncognito.com",
+    "psl_domain": "auth.ap-east-2.amazoncognito.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Cognito",
+      "requestor_organization": "Amazon Cognito",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazoncognito.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "auth.ap-northeast-1.amazoncognito.com",
     "psl_domain": "auth.ap-northeast-1.amazoncognito.com",
     "section": "private",
@@ -289257,6 +289298,47 @@
   {
     "psl_entry_string": "auth.ap-southeast-5.amazoncognito.com",
     "psl_domain": "auth.ap-southeast-5.amazoncognito.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Cognito",
+      "requestor_organization": "Amazon Cognito",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazoncognito.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "auth.ap-southeast-6.amazoncognito.com",
+    "psl_domain": "auth.ap-southeast-6.amazoncognito.com",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -294623,6 +294705,826 @@
       "pending_delete": null
     },
     "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "amazonlightsail.com",
+    "psl_domain": "amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-east-1.cs.amazonlightsail.com",
+    "psl_domain": "ap-east-1.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-northeast-1.cs.amazonlightsail.com",
+    "psl_domain": "ap-northeast-1.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-northeast-2.cs.amazonlightsail.com",
+    "psl_domain": "ap-northeast-2.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-south-1.cs.amazonlightsail.com",
+    "psl_domain": "ap-south-1.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-southeast-1.cs.amazonlightsail.com",
+    "psl_domain": "ap-southeast-1.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-southeast-2.cs.amazonlightsail.com",
+    "psl_domain": "ap-southeast-2.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-southeast-3.cs.amazonlightsail.com",
+    "psl_domain": "ap-southeast-3.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ap-southeast-5.cs.amazonlightsail.com",
+    "psl_domain": "ap-southeast-5.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ca-central-1.cs.amazonlightsail.com",
+    "psl_domain": "ca-central-1.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.eu-central-1.cs.amazonlightsail.com",
+    "psl_domain": "eu-central-1.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.eu-north-1.cs.amazonlightsail.com",
+    "psl_domain": "eu-north-1.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.eu-south-2.cs.amazonlightsail.com",
+    "psl_domain": "eu-south-2.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.eu-west-1.cs.amazonlightsail.com",
+    "psl_domain": "eu-west-1.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.eu-west-2.cs.amazonlightsail.com",
+    "psl_domain": "eu-west-2.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.eu-west-3.cs.amazonlightsail.com",
+    "psl_domain": "eu-west-3.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.sa-east-1.cs.amazonlightsail.com",
+    "psl_domain": "sa-east-1.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.us-east-1.cs.amazonlightsail.com",
+    "psl_domain": "us-east-1.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.us-east-2.cs.amazonlightsail.com",
+    "psl_domain": "us-east-2.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.us-west-2.cs.amazonlightsail.com",
+    "psl_domain": "us-west-2.cs.amazonlightsail.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Lightsail",
+      "requestor_organization": "Amazon Lightsail",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonlightsail.com",
     "icann_tld": "com"
   },
   {
@@ -318406,6 +319308,47 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "ap-south-2.elasticbeanstalk.com",
+    "psl_domain": "ap-south-2.elasticbeanstalk.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Elastic Beanstalk",
+      "requestor_organization": "AWS Elastic Beanstalk",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "elasticbeanstalk.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "ap-southeast-1.elasticbeanstalk.com",
     "psl_domain": "ap-southeast-1.elasticbeanstalk.com",
     "section": "private",
@@ -318529,8 +319472,90 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "ap-southeast-4.elasticbeanstalk.com",
+    "psl_domain": "ap-southeast-4.elasticbeanstalk.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Elastic Beanstalk",
+      "requestor_organization": "AWS Elastic Beanstalk",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "elasticbeanstalk.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "ap-southeast-5.elasticbeanstalk.com",
     "psl_domain": "ap-southeast-5.elasticbeanstalk.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Elastic Beanstalk",
+      "requestor_organization": "AWS Elastic Beanstalk",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "elasticbeanstalk.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "ap-southeast-6.elasticbeanstalk.com",
+    "psl_domain": "ap-southeast-6.elasticbeanstalk.com",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -318652,8 +319677,90 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "ca-west-1.elasticbeanstalk.com",
+    "psl_domain": "ca-west-1.elasticbeanstalk.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Elastic Beanstalk",
+      "requestor_organization": "AWS Elastic Beanstalk",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "elasticbeanstalk.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "eu-central-1.elasticbeanstalk.com",
     "psl_domain": "eu-central-1.elasticbeanstalk.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Elastic Beanstalk",
+      "requestor_organization": "AWS Elastic Beanstalk",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "elasticbeanstalk.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "eu-central-2.elasticbeanstalk.com",
+    "psl_domain": "eu-central-2.elasticbeanstalk.com",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -331908,7 +333015,7 @@
       "requestor_contact_email": "gug@cctld.ru"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -332811,7 +333918,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -349416,7 +350523,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -350891,7 +351998,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -351096,7 +352203,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -351752,7 +352859,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -366758,7 +367865,7 @@
       "requestor_contact_email": "admin@mailto.al"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -376311,7 +377418,7 @@
       "requestor_contact_email": "compliance@k2.cloud"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -393368,7 +394475,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -393450,7 +394557,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -393490,7 +394597,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -393531,7 +394638,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -393573,7 +394680,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -393614,7 +394721,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -393695,8 +394802,8 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_ns_error": false,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -393736,8 +394843,8 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_ns_error": false,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -393818,8 +394925,8 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_ns_error": false,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -393860,7 +394967,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -393900,8 +395007,8 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_ns_error": false,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -393941,7 +395048,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -393982,7 +395089,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -394023,7 +395130,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -394064,8 +395171,8 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_ns_error": false,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -394147,7 +395254,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -394228,7 +395335,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -394269,7 +395376,7 @@
       "requestor_contact_email": "domainsadmin@nuoz.com"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -397796,7 +398903,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -401636,10 +402743,10 @@
     "icann_tld": "co"
   },
   {
-    "psl_entry_string": "replit.dev",
+    "psl_entry_string": "*.replit.dev",
     "psl_domain": "replit.dev",
     "section": "private",
-    "is_wildcard": false,
+    "is_wildcard": true,
     "is_negation": false,
     "requestor": {
       "requestor_description": "Repl.it : https://repl.it",
@@ -401677,1035 +402784,10 @@
     "icann_tld": "dev"
   },
   {
-    "psl_entry_string": "archer.replit.dev",
-    "psl_domain": "archer.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "bones.replit.dev",
-    "psl_domain": "bones.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "canary.replit.dev",
-    "psl_domain": "canary.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "global.replit.dev",
-    "psl_domain": "global.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "hacker.replit.dev",
-    "psl_domain": "hacker.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "id.replit.dev",
-    "psl_domain": "id.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "janeway.replit.dev",
-    "psl_domain": "janeway.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "kim.replit.dev",
-    "psl_domain": "kim.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "kira.replit.dev",
-    "psl_domain": "kira.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "kirk.replit.dev",
-    "psl_domain": "kirk.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "odo.replit.dev",
-    "psl_domain": "odo.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "paris.replit.dev",
-    "psl_domain": "paris.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "picard.replit.dev",
-    "psl_domain": "picard.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "pike.replit.dev",
-    "psl_domain": "pike.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "prerelease.replit.dev",
-    "psl_domain": "prerelease.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "reed.replit.dev",
-    "psl_domain": "reed.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "riker.replit.dev",
-    "psl_domain": "riker.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "sisko.replit.dev",
-    "psl_domain": "sisko.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "spock.replit.dev",
-    "psl_domain": "spock.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "staging.replit.dev",
-    "psl_domain": "staging.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "sulu.replit.dev",
-    "psl_domain": "sulu.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "tarpit.replit.dev",
-    "psl_domain": "tarpit.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "teams.replit.dev",
+    "psl_entry_string": "*.teams.replit.dev",
     "psl_domain": "teams.replit.dev",
     "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "tucker.replit.dev",
-    "psl_domain": "tucker.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "wesley.replit.dev",
-    "psl_domain": "wesley.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Repl.it : https://repl.it",
-      "requestor_organization": "Repl.it",
-      "requestor_organization_url": "https://repl.it",
-      "requestor_contact_name": "Lincoln Bergeson",
-      "requestor_contact_email": "psl@repl.it"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "replit.dev",
-    "icann_tld": "dev"
-  },
-  {
-    "psl_entry_string": "worf.replit.dev",
-    "psl_domain": "worf.replit.dev",
-    "section": "private",
-    "is_wildcard": false,
+    "is_wildcard": true,
     "is_negation": false,
     "requestor": {
       "requestor_description": "Repl.it : https://repl.it",
@@ -402864,6 +402946,47 @@
     },
     "icann_normalized_domain": "resinstaging.io",
     "icann_tld": "io"
+  },
+  {
+    "psl_entry_string": "retool.app",
+    "psl_domain": "retool.app",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Retool : https://retool.com",
+      "requestor_organization": "Retool",
+      "requestor_organization_url": "https://retool.com",
+      "requestor_contact_name": "Andrew Guan",
+      "requestor_contact_email": "security@retool.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "retool.app",
+    "icann_tld": "app"
   },
   {
     "psl_entry_string": "adimo.co.uk",
@@ -403371,7 +403494,7 @@
       "requestor_contact_email": "noc@ruhr-uni-bochum.de"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -406938,7 +407061,7 @@
       "requestor_contact_email": "nm@sbe.de"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -406979,7 +407102,7 @@
       "requestor_contact_email": "nm@sbe.de"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -410587,7 +410710,7 @@
       "requestor_contact_email": "saesupport@sinacloud.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -410628,7 +410751,7 @@
       "requestor_contact_email": "saesupport@sinacloud.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
