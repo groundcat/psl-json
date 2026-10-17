@@ -8992,7 +8992,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -32362,8 +32362,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
+      "is_ns_error": false,
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -32485,8 +32485,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": false
+      "is_ns_error": false,
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -32690,7 +32690,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -32855,7 +32855,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -33142,7 +33142,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -33306,7 +33306,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -34945,7 +34945,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -141873,7 +141873,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -152738,7 +152738,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -213951,7 +213951,7 @@
       "requestor_contact_email": "dns@twnic.tw"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -239528,8 +239528,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-01T20:07:38Z",
-      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-01T20:07:38Z",
+      "requestor_description": "List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-16T18:37:24Z",
+      "requestor_organization": "List of new gTLDs imported from https : //www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-16T18:37:24Z",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -274419,8 +274419,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "star : Star India Private Limited",
-      "requestor_organization": "star : Star India Private Limited",
+      "requestor_description": "star : JioStar India Private Limited",
+      "requestor_organization": "star : JioStar India Private Limited",
       "requestor_organization_url": null,
       "requestor_contact_name": null,
       "requestor_contact_email": null
@@ -288763,6 +288763,908 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.ap-northeast-1.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.ap-northeast-1.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.ap-northeast-2.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.ap-northeast-2.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.ap-south-1.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.ap-south-1.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.ap-south-2.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.ap-south-2.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.ap-southeast-1.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.ap-southeast-1.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.ap-southeast-2.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.ap-southeast-2.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.ap-southeast-5.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.ap-southeast-5.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.ap-southeast-7.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.ap-southeast-7.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.ca-central-1.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.ca-central-1.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.eu-central-1.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.eu-central-1.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.eu-north-1.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.eu-north-1.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.eu-south-1.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.eu-south-1.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.eu-south-2.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.eu-south-2.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.eu-west-1.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.eu-west-1.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.eu-west-2.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.eu-west-2.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.eu-west-3.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.eu-west-3.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.sa-east-1.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.sa-east-1.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.us-east-1.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.us-east-1.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.us-east-2.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.us-east-2.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.us-gov-west-1.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.us-gov-west-1.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.us-west-1.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.us-west-1.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "consent-portal.bedrock-agentcore.us-west-2.amazonaws.com",
+    "psl_domain": "consent-portal.bedrock-agentcore.us-west-2.amazonaws.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization": "Amazon Bedrock AgentCore Identity Consent Portal",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonaws.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "cloudfront.net",
     "psl_domain": "cloudfront.net",
     "section": "private",
@@ -295981,6 +296883,47 @@
   {
     "psl_entry_string": "*.airflow.ap-southeast-5.on.aws",
     "psl_domain": "airflow.ap-southeast-5.on.aws",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization": "Amazon Managed Workflows for Apache Airflow",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "*.airflow.ap-southeast-7.on.aws",
+    "psl_domain": "airflow.ap-southeast-7.on.aws",
     "section": "private",
     "is_wildcard": true,
     "is_negation": false,
@@ -321604,6 +322547,47 @@
     "icann_tld": "aws"
   },
   {
+    "psl_entry_string": "transfer-webapp.ap-east-2.on.aws",
+    "psl_domain": "transfer-webapp.ap-east-2.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
     "psl_entry_string": "transfer-webapp.ap-northeast-1.on.aws",
     "psl_domain": "transfer-webapp.ap-northeast-1.on.aws",
     "section": "private",
@@ -321975,6 +322959,47 @@
   {
     "psl_entry_string": "transfer-webapp.ap-southeast-5.on.aws",
     "psl_domain": "transfer-webapp.ap-southeast-5.on.aws",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "on.aws",
+    "icann_tld": "aws"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.ap-southeast-6.on.aws",
+    "psl_domain": "transfer-webapp.ap-southeast-6.on.aws",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
@@ -323078,6 +324103,47 @@
     },
     "icann_normalized_domain": "com.cn",
     "icann_tld": "cn"
+  },
+  {
+    "psl_entry_string": "transfer-webapp.eusc-de-east-1.on.amazonwebservices.eu",
+    "psl_domain": "transfer-webapp.eusc-de-east-1.on.amazonwebservices.eu",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "AWS Transfer Family web apps",
+      "requestor_organization": "AWS Transfer Family web apps",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "AWS Security",
+      "requestor_contact_email": "psl-maintainers@amazon.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "amazonwebservices.eu",
+    "icann_tld": "eu"
   },
   {
     "psl_entry_string": "eero.online",
@@ -333015,7 +334081,7 @@
       "requestor_contact_email": "gug@cctld.ru"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -350523,7 +351589,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -352203,7 +353269,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -353392,7 +354458,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -353556,7 +354622,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -353679,7 +354745,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -353720,7 +354786,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -378143,47 +379209,6 @@
     "icann_tld": "net"
   },
   {
-    "psl_entry_string": "knightpoint.systems",
-    "psl_domain": "knightpoint.systems",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "KnightPoint Systems, LLC : http://www.knightpoint.com/",
-      "requestor_organization": "KnightPoint Systems, LLC",
-      "requestor_organization_url": "http://www.knightpoint.com/",
-      "requestor_contact_name": "Roy Keene",
-      "requestor_contact_email": "rkeene@knightpoint.com"
-    },
-    "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": true
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "knightpoint.systems",
-    "icann_tld": "systems"
-  },
-  {
     "psl_entry_string": "koobin.events",
     "psl_domain": "koobin.events",
     "section": "private",
@@ -378320,7 +379345,7 @@
       "requestor_contact_email": "security@oya.to"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -389500,6 +390525,1605 @@
     "icann_tld": "casa"
   },
   {
+    "psl_entry_string": "kr.object.fin-ncloudstorage.com",
+    "psl_domain": "kr.object.fin-ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "fin-ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "s3-website.kr.object.fin-ncloudstorage.com",
+    "psl_domain": "s3-website.kr.object.fin-ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "fin-ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr.object.private.fin-ncloudstorage.com",
+    "psl_domain": "kr.object.private.fin-ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "fin-ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr.gov-ncloudstorage.com",
+    "psl_domain": "kr.gov-ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "gov-ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr-private.gov-ncloudstorage.com",
+    "psl_domain": "kr-private.gov-ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "gov-ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr.object.gov-ncloudstorage.com",
+    "psl_domain": "kr.object.gov-ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "gov-ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "s3-website.kr.object.gov-ncloudstorage.com",
+    "psl_domain": "s3-website.kr.object.gov-ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "gov-ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "krs.object.gov-ncloudstorage.com",
+    "psl_domain": "krs.object.gov-ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "gov-ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "s3-website.krs.object.gov-ncloudstorage.com",
+    "psl_domain": "s3-website.krs.object.gov-ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "gov-ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr.object.private.gov-ncloudstorage.com",
+    "psl_domain": "kr.object.private.gov-ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "gov-ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "krs.object.private.gov-ncloudstorage.com",
+    "psl_domain": "krs.object.private.gov-ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "gov-ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr.objectstorage.ncloud.com",
+    "psl_domain": "kr.objectstorage.ncloud.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloud.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "sg.objectstorage.ncloud.com",
+    "psl_domain": "sg.objectstorage.ncloud.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloud.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr.ncloudstorage.com",
+    "psl_domain": "kr.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr-naver.ncloudstorage.com",
+    "psl_domain": "kr-naver.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr-naver-dev.ncloudstorage.com",
+    "psl_domain": "kr-naver-dev.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr-private.ncloudstorage.com",
+    "psl_domain": "kr-private.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "de.object.ncloudstorage.com",
+    "psl_domain": "de.object.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "s3-website.de.object.ncloudstorage.com",
+    "psl_domain": "s3-website.de.object.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr.object.ncloudstorage.com",
+    "psl_domain": "kr.object.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "s3-website.kr.object.ncloudstorage.com",
+    "psl_domain": "s3-website.kr.object.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "sg.object.ncloudstorage.com",
+    "psl_domain": "sg.object.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "s3-website.sg.object.ncloudstorage.com",
+    "psl_domain": "s3-website.sg.object.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "us.object.ncloudstorage.com",
+    "psl_domain": "us.object.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "s3-website.us.object.ncloudstorage.com",
+    "psl_domain": "s3-website.us.object.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr.object.private.ncloudstorage.com",
+    "psl_domain": "kr.object.private.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "sg.object.private.ncloudstorage.com",
+    "psl_domain": "sg.object.private.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr.website.ncloudstorage.com",
+    "psl_domain": "kr.website.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr-naver.website.ncloudstorage.com",
+    "psl_domain": "kr-naver.website.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr-naver-dev.website.ncloudstorage.com",
+    "psl_domain": "kr-naver-dev.website.ncloudstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncloudstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "jp.object.ncpstorage.com",
+    "psl_domain": "jp.object.ncpstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": true,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncpstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "jp.jp4.object.ncpstorage.com",
+    "psl_domain": "jp.jp4.object.ncpstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": true,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncpstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "jp.jp5.object.ncpstorage.com",
+    "psl_domain": "jp.jp5.object.ncpstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": true,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncpstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr.object.ncpstorage.com",
+    "psl_domain": "kr.object.ncpstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncpstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "s3-website-jp.object.ncpstorage.com",
+    "psl_domain": "s3-website-jp.object.ncpstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": true,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncpstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "jp.object.private.ncpstorage.com",
+    "psl_domain": "jp.object.private.ncpstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": true,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncpstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "jp.jp4.object.private.ncpstorage.com",
+    "psl_domain": "jp.jp4.object.private.ncpstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": true,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncpstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "jp.jp5.object.private.ncpstorage.com",
+    "psl_domain": "jp.jp5.object.private.ncpstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": true,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncpstorage.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "kr.object.private.ncpstorage.com",
+    "psl_domain": "kr.object.private.ncpstorage.com",
+    "section": "private",
+    "is_wildcard": false,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "NAVER Cloud : https://www.ncloud.com",
+      "requestor_organization": "NAVER Cloud",
+      "requestor_organization_url": "https://www.ncloud.com",
+      "requestor_contact_name": "Storage Team",
+      "requestor_contact_email": "dl_ns_psl@navercorp.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ncpstorage.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "needle.run",
     "psl_domain": "needle.run",
     "section": "private",
@@ -398903,7 +401527,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -399215,47 +401839,6 @@
     },
     "icann_normalized_domain": "pplx.app",
     "icann_tld": "app"
-  },
-  {
-    "psl_entry_string": "perspecta.cloud",
-    "psl_domain": "perspecta.cloud",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Perspecta : https://perspecta.com/",
-      "requestor_organization": "Perspecta",
-      "requestor_organization_url": "https://perspecta.com/",
-      "requestor_contact_name": "Kenneth Van Alstyne",
-      "requestor_contact_email": "kvanalstyne@perspecta.com"
-    },
-    "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "perspecta.cloud",
-    "icann_tld": "cloud"
   },
   {
     "psl_entry_string": "forgeblocks.com",
@@ -403494,8 +406077,8 @@
       "requestor_contact_email": "noc@ruhr-uni-bochum.de"
     },
     "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_ns_error": true,
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -407061,7 +409644,7 @@
       "requestor_contact_email": "nm@sbe.de"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -410792,7 +413375,7 @@
       "requestor_contact_email": "saesupport@sinacloud.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -410874,7 +413457,7 @@
       "requestor_contact_email": "saesupport@sinacloud.com"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
