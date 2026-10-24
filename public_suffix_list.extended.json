@@ -10386,7 +10386,7 @@
       "requestor_contact_email": "dgm.domain@btcl.gov.bd"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -12846,7 +12846,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -32034,8 +32034,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_ns_error": false,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -32116,7 +32116,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -32240,7 +32240,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -32363,7 +32363,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -32403,7 +32403,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -32855,7 +32855,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -33142,7 +33142,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -33182,8 +33182,8 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_ns_error": true,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -33306,7 +33306,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -33469,7 +33469,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -33674,7 +33674,7 @@
       "requestor_contact_email": "infraestructura@nic.ec"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -141873,7 +141873,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -141914,7 +141914,7 @@
       "requestor_contact_email": null
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -147326,7 +147326,7 @@
       "requestor_contact_email": "lsadmin@nic.ls"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -211245,7 +211245,7 @@
       "requestor_contact_email": "admin@nic.TM"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -213951,7 +213951,7 @@
       "requestor_contact_email": "dns@twnic.tw"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -287088,8 +287088,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "Alibaba Cloud API Gateway",
-      "requestor_organization": "Alibaba Cloud API Gateway",
+      "requestor_description": "Alibaba",
+      "requestor_organization": "Alibaba",
       "requestor_organization_url": null,
       "requestor_contact_name": "Alibaba Cloud Security",
       "requestor_contact_email": "cloud_product_security_team@alibaba-inc.com"
@@ -287123,14 +287123,55 @@
     "icann_tld": "com"
   },
   {
+    "psl_entry_string": "*.ztna-dingtalk.com",
+    "psl_domain": "ztna-dingtalk.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Alibaba",
+      "requestor_organization": "Alibaba",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "Alibaba Cloud Security",
+      "requestor_contact_email": "cloud_product_security_team@alibaba-inc.com"
+    },
+    "dns": {
+      "is_ns_error": false,
+      "is_psl_txt_error": false
+    },
+    "registry_records": {
+      "reserved": null,
+      "registered": null,
+      "registrar": null,
+      "registrar_url": null,
+      "creation_date": null,
+      "creation_date_iso8601": null,
+      "expiration_date": null,
+      "expiration_date_iso8601": null,
+      "updated_date": null,
+      "updated_date_iso8601": null,
+      "status": [],
+      "nameServers": [],
+      "age": null,
+      "age_seconds": null,
+      "remaining": null,
+      "remaining_seconds": null,
+      "grace_period": null,
+      "redemption_period": null,
+      "pending_delete": null
+    },
+    "icann_normalized_domain": "ztna-dingtalk.com",
+    "icann_tld": "com"
+  },
+  {
     "psl_entry_string": "ms.fun",
     "psl_domain": "ms.fun",
     "section": "private",
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "Alibaba Cloud API Gateway",
-      "requestor_organization": "Alibaba Cloud API Gateway",
+      "requestor_description": "Alibaba",
+      "requestor_organization": "Alibaba",
       "requestor_organization_url": null,
       "requestor_contact_name": "Alibaba Cloud Security",
       "requestor_contact_email": "cloud_product_security_team@alibaba-inc.com"
@@ -287170,8 +287211,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "Alibaba Cloud API Gateway",
-      "requestor_organization": "Alibaba Cloud API Gateway",
+      "requestor_description": "Alibaba",
+      "requestor_organization": "Alibaba",
       "requestor_organization_url": null,
       "requestor_contact_name": "Alibaba Cloud Security",
       "requestor_contact_email": "cloud_product_security_team@alibaba-inc.com"
@@ -334942,7 +334983,7 @@
       "requestor_contact_email": "digital@digital.co.dk"
     },
     "dns": {
-      "is_ns_error": false,
+      "is_ns_error": true,
       "is_psl_txt_error": false
     },
     "registry_records": {
@@ -351384,7 +351425,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": true
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -351670,8 +351711,8 @@
       "requestor_contact_email": "dom@digineo.de"
     },
     "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
+      "is_ns_error": false,
+      "is_psl_txt_error": false
     },
     "registry_records": {
       "reserved": null,
@@ -354458,7 +354499,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -354622,7 +354663,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -354745,7 +354786,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -354786,7 +354827,7 @@
       "requestor_contact_email": "hostmaster@eu.org"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": true
     },
     "registry_records": {
@@ -362071,47 +362112,6 @@
     "icann_tld": "host"
   },
   {
-    "psl_entry_string": "aliases121.com",
-    "psl_domain": "aliases121.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "GCom Internet : https://www.gcom.net.au",
-      "requestor_organization": "GCom Internet",
-      "requestor_organization_url": "https://www.gcom.net.au",
-      "requestor_contact_name": "Leo Julius",
-      "requestor_contact_email": "support@gcom.net.au"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "aliases121.com",
-    "icann_tld": "com"
-  },
-  {
     "psl_entry_string": "campaign.gov.uk",
     "psl_domain": "campaign.gov.uk",
     "section": "private",
@@ -362971,47 +362971,6 @@
     },
     "icann_normalized_domain": "gitlab.io",
     "icann_tld": "io"
-  },
-  {
-    "psl_entry_string": "gitapp.si",
-    "psl_domain": "gitapp.si",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Gitplac.si : https://gitplac.si",
-      "requestor_organization": "Gitplac.si",
-      "requestor_organization_url": "https://gitplac.si",
-      "requestor_contact_name": "Aljaž Starc",
-      "requestor_contact_email": "me@aljaxus.eu"
-    },
-    "dns": {
-      "is_ns_error": false,
-      "is_psl_txt_error": false
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "gitapp.si",
-    "icann_tld": "si"
   },
   {
     "psl_entry_string": "gitpage.si",
@@ -375410,7 +375369,7 @@
     },
     "dns": {
       "is_ns_error": false,
-      "is_psl_txt_error": false
+      "is_psl_txt_error": true
     },
     "registry_records": {
       "reserved": null,
@@ -379330,47 +379289,6 @@
     },
     "icann_normalized_domain": "krellian.net",
     "icann_tld": "net"
-  },
-  {
-    "psl_entry_string": "oya.to",
-    "psl_domain": "oya.to",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "KUROKU LTD : https://kuroku.ltd/",
-      "requestor_organization": "KUROKU LTD",
-      "requestor_organization_url": "https://kuroku.ltd/",
-      "requestor_contact_name": "DisposaBoy",
-      "requestor_contact_email": "security@oya.to"
-    },
-    "dns": {
-      "is_ns_error": true,
-      "is_psl_txt_error": true
-    },
-    "registry_records": {
-      "reserved": null,
-      "registered": null,
-      "registrar": null,
-      "registrar_url": null,
-      "creation_date": null,
-      "creation_date_iso8601": null,
-      "expiration_date": null,
-      "expiration_date_iso8601": null,
-      "updated_date": null,
-      "updated_date_iso8601": null,
-      "status": [],
-      "nameServers": [],
-      "age": null,
-      "age_seconds": null,
-      "remaining": null,
-      "remaining_seconds": null,
-      "grace_period": null,
-      "redemption_period": null,
-      "pending_delete": null
-    },
-    "icann_normalized_domain": "oya.to",
-    "icann_tld": "to"
   },
   {
     "psl_entry_string": "co.de",
@@ -409685,7 +409603,7 @@
       "requestor_contact_email": "nm@sbe.de"
     },
     "dns": {
-      "is_ns_error": true,
+      "is_ns_error": false,
       "is_psl_txt_error": false
     },
     "registry_records": {

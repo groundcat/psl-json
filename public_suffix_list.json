@@ -112038,13 +112038,29 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "Alibaba Cloud API Gateway",
-      "requestor_organization": "Alibaba Cloud API Gateway",
+      "requestor_description": "Alibaba",
+      "requestor_organization": "Alibaba",
       "requestor_organization_url": null,
       "requestor_contact_name": "Alibaba Cloud Security",
       "requestor_contact_email": "cloud_product_security_team@alibaba-inc.com"
     },
     "icann_normalized_domain": "alibabacloudcs.com",
+    "icann_tld": "com"
+  },
+  {
+    "psl_entry_string": "*.ztna-dingtalk.com",
+    "psl_domain": "ztna-dingtalk.com",
+    "section": "private",
+    "is_wildcard": true,
+    "is_negation": false,
+    "requestor": {
+      "requestor_description": "Alibaba",
+      "requestor_organization": "Alibaba",
+      "requestor_organization_url": null,
+      "requestor_contact_name": "Alibaba Cloud Security",
+      "requestor_contact_email": "cloud_product_security_team@alibaba-inc.com"
+    },
+    "icann_normalized_domain": "ztna-dingtalk.com",
     "icann_tld": "com"
   },
   {
@@ -112054,8 +112070,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "Alibaba Cloud API Gateway",
-      "requestor_organization": "Alibaba Cloud API Gateway",
+      "requestor_description": "Alibaba",
+      "requestor_organization": "Alibaba",
       "requestor_organization_url": null,
       "requestor_contact_name": "Alibaba Cloud Security",
       "requestor_contact_email": "cloud_product_security_team@alibaba-inc.com"
@@ -112070,8 +112086,8 @@
     "is_wildcard": false,
     "is_negation": false,
     "requestor": {
-      "requestor_description": "Alibaba Cloud API Gateway",
-      "requestor_organization": "Alibaba Cloud API Gateway",
+      "requestor_description": "Alibaba",
+      "requestor_organization": "Alibaba",
       "requestor_organization_url": null,
       "requestor_contact_name": "Alibaba Cloud Security",
       "requestor_contact_email": "cloud_product_security_team@alibaba-inc.com"
@@ -141296,22 +141312,6 @@
     "icann_tld": "host"
   },
   {
-    "psl_entry_string": "aliases121.com",
-    "psl_domain": "aliases121.com",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "GCom Internet : https://www.gcom.net.au",
-      "requestor_organization": "GCom Internet",
-      "requestor_organization_url": "https://www.gcom.net.au",
-      "requestor_contact_name": "Leo Julius",
-      "requestor_contact_email": "support@gcom.net.au"
-    },
-    "icann_normalized_domain": "aliases121.com",
-    "icann_tld": "com"
-  },
-  {
     "psl_entry_string": "campaign.gov.uk",
     "psl_domain": "campaign.gov.uk",
     "section": "private",
@@ -141646,22 +141646,6 @@
     },
     "icann_normalized_domain": "gitlab.io",
     "icann_tld": "io"
-  },
-  {
-    "psl_entry_string": "gitapp.si",
-    "psl_domain": "gitapp.si",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "Gitplac.si : https://gitplac.si",
-      "requestor_organization": "Gitplac.si",
-      "requestor_organization_url": "https://gitplac.si",
-      "requestor_contact_name": "Aljaž Starc",
-      "requestor_contact_email": "me@aljaxus.eu"
-    },
-    "icann_normalized_domain": "gitapp.si",
-    "icann_tld": "si"
   },
   {
     "psl_entry_string": "gitpage.si",
@@ -148030,22 +148014,6 @@
     },
     "icann_normalized_domain": "krellian.net",
     "icann_tld": "net"
-  },
-  {
-    "psl_entry_string": "oya.to",
-    "psl_domain": "oya.to",
-    "section": "private",
-    "is_wildcard": false,
-    "is_negation": false,
-    "requestor": {
-      "requestor_description": "KUROKU LTD : https://kuroku.ltd/",
-      "requestor_organization": "KUROKU LTD",
-      "requestor_organization_url": "https://kuroku.ltd/",
-      "requestor_contact_name": "DisposaBoy",
-      "requestor_contact_email": "security@oya.to"
-    },
-    "icann_normalized_domain": "oya.to",
-    "icann_tld": "to"
   },
   {
     "psl_entry_string": "co.de",
